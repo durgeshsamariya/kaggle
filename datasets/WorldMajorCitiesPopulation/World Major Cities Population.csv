@@ -1,0 +1,6907 @@
+Country,City Name,Population
+China,Shanghai,22315474
+China,Beijing,11716620
+China,Tianjin,11090314
+China,Guangzhou,11071424
+China,Shenzhen,10358381
+China,Wuhan,9785388
+China,Dongguan,8000000
+China,Chongqing,7457600
+China,Chengdu,7415590
+China,Nanjing,7165292
+China,Nanchong,7150000
+China,Xi'an,6501190
+China,Shenyang,6255921
+China,Hangzhou,6241971
+China,Harbin,5878939
+China,Tai'an,5499000
+China,Suzhou,5345961
+China,Shantou,5329024
+China,Jinan,4335989
+China,Zhengzhou,4253913
+China,Changchun,4193073
+China,Dalian,4087733
+China,Kunming,3855346
+China,Qingdao,3718835
+China,Foshan,3600000
+China,Puyang,3590000
+China,Wuxi,3543719
+China,Xiamen,3531347
+China,Tianshui,3500000
+China,Ningbo,3491597
+China,Shiyan,3460000
+China,Taiyuan,3426519
+China,Tangshan,3372102
+China,Hefei,3310268
+China,Zibo,3129228
+China,Zhongshan,3121275
+China,Changsha,3093980
+China,Urumqi,3029372
+China,Shijiazhuang,2834942
+China,Lanzhou,2628426
+China,Yunfu,2612800
+China,Nanchang,2357839
+China,Dadonghai,2000000
+China,Ordos,1940653
+China,Jilin,1881977
+China,Bayan Nur,1760000
+China,Kunshan,1600000
+China,Xinyang,1590668
+China,Fushun,1400646
+China,Luoyang,1390581
+China,Guankou,1380000
+China,Handan,1358318
+China,Baotou,1301768
+China,Xuchang,1265536
+China,Yueyang,1200000
+China,Anshan,1199275
+China,Tongshan,1199193
+China,Fuzhou,1179720
+China,Guiyang,1171633
+China,Lijiang,1137600
+China,Datong,1052678
+China,Changshu City,1047700
+China,Xianyang,1034081
+China,Huainan,1027655
+China,Jieyang,1001985
+China,Zhu Cheng City,1000000
+China,Baoding,995652
+China,Benxi,987717
+China,Changzhou,949018
+China,Huaibei,903039
+India,Mumbai,12691836
+India,Delhi,10927986
+India,Bengaluru,5104047
+India,Kolkata,4631392
+India,Chennai,4328063
+India,Ahmedabad,3719710
+India,Hyderabad,3597816
+India,Pune,2935744
+India,Surat,2894504
+India,Kanpur,2823249
+India,Jaipur,2711758
+India,Navi Mumbai,2600000
+India,Lucknow,2472011
+India,Nagpur,2228018
+India,Indore,1837041
+India,Patna,1599920
+India,Bhopal,1599914
+India,Ludhiana,1545368
+India,Tirunelveli,1435844
+India,Agra,1430055
+India,Vadodara,1409476
+India,Gorakhpur,1324570
+India,Nashik,1289497
+India,Pimpri,1284606
+India,Kalyan,1262255
+India,Thane,1261517
+India,Meerut,1223184
+India,Nowrangapur,1220946
+India,Faridabad,1220229
+India,Ghaziabad,1199191
+India,Dombivli,1193000
+India,Rajkot,1177362
+India,Varanasi,1164404
+India,Amritsar,1092450
+India,Allahabad,1073438
+India,Visakhapatnam,1063178
+India,Teni,1034724
+India,Jabalpur,1030168
+India,Haora,1027672
+India,Aurangabad,1016441
+India,Shivaji Nagar,1000000
+India,Solapur,997281
+India,Srinagar,975857
+India,Chandigarh,960787
+India,Coimbatore,959823
+India,Jodhpur,921476
+India,Madurai,909908
+India,Guwahati,899094
+India,Gwalior,882458
+India,Vijayawada,874587
+India,Mysore,868313
+India,Ranchi,846454
+India,Hubli,840214
+India,Jalandhar,785178
+India,Thiruvananthapuram,784153
+India,Salem,778396
+India,Tiruchirappalli,775484
+India,Kota,763088
+India,Bhubaneshwar,762243
+India,Aligarh,753207
+India,Bareilly,745435
+India,Moradabad,721139
+India,Bhiwandi,707035
+India,Raipur,679995
+India,Gorakhpur,674246
+India,Bhilai,625138
+India,Jamshedpur,616338
+India,Borivli,609617
+India,Cochin,604696
+India,Amravati,603837
+United States,New York City,8175133
+United States,Los Angeles,3971883
+United States,Chicago,2720546
+United States,Brooklyn,2300664
+United States,Houston,2296224
+United States,Queens,2272771
+United States,Philadelphia,1567442
+United States,Phoenix,1563025
+United States,Manhattan,1487536
+United States,San Antonio,1469845
+United States,San Diego,1394928
+United States,The Bronx,1385108
+United States,Dallas,1300092
+United States,San Jose,1026908
+United States,Austin,931830
+United States,Jacksonville,868031
+United States,San Francisco,864816
+United States,Columbus,850106
+United States,Fort Worth,833319
+United States,Indianapolis,829718
+United States,Charlotte,827097
+United States,Seattle,684451
+United States,Denver,682545
+United States,El Paso,681124
+United States,Detroit,677116
+United States,Boston,667137
+United States,Memphis,655770
+United States,New South Memphis,641608
+United States,Portland,632309
+United States,Oklahoma City,631346
+United States,Las Vegas,623747
+United States,Baltimore,621849
+United States,"Washington, D.C.",601723
+United States,Milwaukee,600155
+United States,South Boston,571281
+United States,Albuquerque,559121
+United States,Tucson,531641
+United States,Nashville,530852
+United States,Fresno,520052
+United States,Sacramento,490712
+United States,Kansas City,475378
+United States,Long Beach,474140
+United States,Mesa,471825
+United States,Staten Island,468730
+United States,Atlanta,463878
+United States,Colorado Springs,456568
+United States,Virginia Beach,452745
+United States,Raleigh,451066
+United States,Omaha,443885
+United States,Miami,441003
+United States,Oakland,419267
+United States,Minneapolis,410939
+United States,Tulsa,403505
+United States,Wichita,389965
+United States,New Orleans,389617
+United States,Arlington,388125
+United States,Cleveland,388072
+United States,Bakersfield,373640
+United States,Honolulu,371657
+United States,Tampa,369075
+United States,Aurora,359407
+United States,Anaheim,350742
+United States,West Raleigh,338759
+United States,Santa Ana,335400
+United States,Corpus Christi,324074
+United States,Riverside,322424
+United States,St. Louis,315685
+United States,Lexington-Fayette,314488
+United States,Stockton,305658
+United States,Pittsburgh,304391
+Indonesia,Jakarta,8540121
+Indonesia,Surabaya,2374658
+Indonesia,Medan,1750971
+Indonesia,Bandung,1699719
+Indonesia,Bekasi,1520119
+Indonesia,Palembang,1441500
+Indonesia,Tangerang,1372124
+Indonesia,Makassar,1321717
+Indonesia,South Tangerang,1303569
+Indonesia,Semarang,1288084
+Indonesia,Depok,1198129
+Indonesia,Batam,1164352
+Indonesia,Padang,840352
+Indonesia,Denpasar,834881
+Indonesia,Bandar Lampung,800348
+Indonesia,Bogor,800000
+Indonesia,Malang,746716
+Indonesia,Pekanbaru,703956
+Indonesia,City of Balikpapan,700000
+Indonesia,Yogyakarta,636660
+Indonesia,Situbondo,600000
+Indonesia,Banjarmasin,572837
+Indonesia,Surakarta,555308
+Indonesia,Cimahi,493698
+Indonesia,Pontianak,455173
+Indonesia,Manado,451893
+Indonesia,Balikpapan,433866
+Indonesia,Jambi City,420323
+Indonesia,Ambon,355596
+Indonesia,Samarinda,355160
+Indonesia,Mataram,318674
+Indonesia,Percut,311063
+Indonesia,Bengkulu,309712
+Indonesia,Jember,298585
+Indonesia,Palu,282431
+Indonesia,Kupang,282396
+Indonesia,Sukabumi,276414
+Indonesia,Tasikmalaya,271143
+Indonesia,Pekalongan,257945
+Indonesia,Cirebon,254298
+Indonesia,Banda Aceh,250757
+Indonesia,Tegal,237084
+Indonesia,Kediri,235143
+Indonesia,Binjai,228763
+Indonesia,Purwokerto,217222
+Indonesia,Purwakarta,215803
+Indonesia,Loa Janan,212816
+Indonesia,Pematangsiantar,209614
+Indonesia,Ciputat,207858
+Indonesia,Ciampea,207212
+Indonesia,Cileungsir,202190
+Indonesia,Rengasdengklok,201463
+Indonesia,Sumedang,200000
+Indonesia,Kendari,195006
+Indonesia,Parung,193898
+Indonesia,Tanjung Pinang,192493
+Indonesia,Curug,191406
+Indonesia,Labuan Bajo,188724
+Indonesia,Cibinong,188663
+Indonesia,Madiun,186099
+Indonesia,Pemalang,184149
+Indonesia,Lembang,183130
+Indonesia,Probolinggo,181656
+Indonesia,Pamulang,174557
+Indonesia,Cikupa,174041
+Indonesia,Salatiga,172645
+Indonesia,Plumbon,167105
+Indonesia,Banjaran,164952
+Indonesia,Serang,164767
+Indonesia,Lawang,159380
+Pakistan,Karachi,11624219
+Pakistan,Lahore,6310888
+Pakistan,Faisalabad,2506595
+Pakistan,Rawalpindi,1743101
+Pakistan,Multan,1437230
+Pakistan,Hyderabad,1386330
+Pakistan,Gujranwala,1384471
+Pakistan,Peshawar,1218773
+Pakistan,Rahim Yar Khan,788915
+Pakistan,Quetta,733675
+Pakistan,Muzaffarabad,725000
+Pakistan,Battagram,700000
+Pakistan,Kotli,640000
+Pakistan,Islamabad,601600
+Pakistan,Bahawalpur,552607
+Pakistan,Sargodha,542603
+Pakistan,Sialkot,477396
+Pakistan,Sukkur,417767
+Pakistan,Larkana,364033
+Pakistan,Shekhupura,361303
+Pakistan,Bhimbar,342900
+Pakistan,Jhang Sadr,341210
+Pakistan,Gujrat,301506
+Pakistan,Mardan,300424
+Pakistan,Malir Cantonment,300000
+Pakistan,Kasur,290643
+Pakistan,Mingora,279914
+Pakistan,Dera Ghazi Khan,236093
+Pakistan,Sahiwal,235695
+Pakistan,Nawabshah,229504
+Pakistan,Okara,223648
+Pakistan,Mirpur Khas,215657
+Pakistan,Chiniot,201781
+Pakistan,Shahkot,200000
+Pakistan,Kamoke,199531
+Pakistan,Saddiqabad,189876
+Pakistan,Burewala,183915
+Pakistan,Jacobabad,170588
+Pakistan,Muzaffargarh,165192
+Pakistan,Muridke,164246
+Pakistan,Jhelum,164080
+Pakistan,Shikarpur,156901
+Pakistan,Hafizabad,153656
+Pakistan,Kohat,151427
+Pakistan,Khanpur,142426
+Pakistan,Khuzdar,141227
+Pakistan,Dadu,139784
+Pakistan,Gojra,139726
+Pakistan,Mandi Bahauddin,129733
+Pakistan,Tando Allahyar,127202
+Pakistan,Daska Kalan,126924
+Pakistan,Pakpattan,126706
+Pakistan,Bahawalnagar,126700
+Pakistan,Bahawalnagar,126617
+Pakistan,Tando Adam,125598
+Pakistan,Khairpur Mir's,124602
+Pakistan,Chishtian,122199
+Pakistan,Abbottabad,120000
+Pakistan,Jaranwala,119785
+Pakistan,Ahmadpur East,116579
+Pakistan,Vihari,112840
+Pakistan,Kamalia,112426
+Pakistan,Kot Addu,104217
+Pakistan,Khushab,102793
+Pakistan,Wazirabad,102444
+Pakistan,Dera Ismail Khan,101616
+Pakistan,Chakwal,101200
+Pakistan,Swabi,97363
+Pakistan,Lodhran,97249
+Pakistan,Nowshera Cantonment,96766
+Brazil,Sao Paulo,10021295
+Brazil,Rio de Janeiro,6023699
+Brazil,Salvador,2711840
+Brazil,Fortaleza,2400000
+Brazil,Belo Horizonte,2373224
+Brazil,Brasilia,2207718
+Brazil,Curitiba,1718421
+Brazil,Manaus,1598210
+Brazil,Recife,1478098
+Brazil,Belem,1407737
+Brazil,Porto Alegre,1372741
+Brazil,Goiania,1171195
+Brazil,Guarulhos,1169577
+Brazil,Campinas,1031554
+Brazil,Nova Iguacu,1002118
+Brazil,Maceio,954991
+Brazil,Sao Luis,917237
+Brazil,Duque de Caxias,818329
+Brazil,Natal,763043
+Brazil,Teresina,744512
+Brazil,Sao Bernardo do Campo,743372
+Brazil,Campo Grande,729151
+Brazil,Jaboatao,702621
+Brazil,Osasco,677856
+Brazil,Santo Andre,662373
+Brazil,Joao Pessoa,650883
+Brazil,Jaboatao dos Guararapes,630008
+Brazil,Contagem,627123
+Brazil,Ribeirao Preto,619746
+Brazil,Sao Jose dos Campos,613764
+Brazil,Uberlandia,563536
+Brazil,Sorocaba,558862
+Brazil,Cuiaba,521934
+Brazil,Aparecida de Goiania,510770
+Brazil,Aracaju,490175
+Brazil,Feira de Santana,481911
+Brazil,Londrina,471832
+Brazil,Juiz de Fora,470193
+Brazil,Belford Roxo,466096
+Brazil,Joinville,461304
+Brazil,Niteroi,456456
+Brazil,Sao Joao de Meriti,454849
+Brazil,Ananindeua,433956
+Brazil,Florianopolis,412724
+Brazil,Santos,411403
+Brazil,Ribeirao das Neves,406802
+Brazil,Vila Velha,394930
+Brazil,Serra,394153
+Brazil,Diadema,390633
+Brazil,Campos dos Goytacazes,387417
+Brazil,Maua,386069
+Brazil,Betim,384000
+Brazil,Caxias do Sul,381270
+Brazil,Sao Jose do Rio Preto,374699
+Brazil,Olinda,366754
+Brazil,Carapicuiba,361112
+Brazil,Campina Grande,348936
+Brazil,Piracicaba,342209
+Brazil,Macapa,338936
+Brazil,Itaquaquecetuba,336679
+Brazil,Bauru,335024
+Brazil,Montes Claros,332379
+Brazil,Canoas,328291
+Brazil,Mogi das Cruzes,325746
+Brazil,Sao Vicente,324457
+Brazil,Jundiai,321589
+Brazil,Pelotas,320674
+Brazil,Anapolis,319587
+Brazil,Vitoria,312656
+Brazil,Maringa,311724
+Nigeria,Lagos,9000000
+Nigeria,Kano,3626068
+Nigeria,Ibadan,3565108
+Nigeria,Kaduna,1582102
+Nigeria,Port Harcourt,1148665
+Nigeria,Benin City,1125058
+Nigeria,Maiduguri,1112449
+Nigeria,Zaria,975153
+Nigeria,Aba,897560
+Nigeria,Jos,816824
+Nigeria,Ilorin,814192
+Nigeria,Oyo,736072
+Nigeria,Enugu,688862
+Nigeria,Abeokuta,593100
+Nigeria,Abuja,590400
+Nigeria,Sokoto,563861
+Nigeria,Onitsha,561066
+Nigeria,Warri,536023
+Nigeria,Ebute Ikorodu,535619
+Nigeria,Okene,479178
+Nigeria,Calabar,461796
+Nigeria,Uyo,436606
+Nigeria,Katsina,432149
+Nigeria,Ado-Ekiti,424340
+Nigeria,Akure,420594
+Nigeria,Bauchi,316149
+Nigeria,Ikeja,313196
+Nigeria,Makurdi,292645
+Nigeria,Minna,291905
+Nigeria,Efon-Alaaye,279319
+Nigeria,Ilesa,277904
+Nigeria,Owo,276574
+Nigeria,Umuahia,264662
+Nigeria,Ondo,257005
+Nigeria,Ikot Ekpene,254806
+Nigeria,Iwo,250443
+Nigeria,Gombe,250258
+Nigeria,Jimeta,248148
+Nigeria,Atani,230000
+Nigeria,Gusau,226857
+Nigeria,Mubi,225705
+Nigeria,Ikire,222160
+Nigeria,Owerri,215038
+Nigeria,Shagamu,214558
+Nigeria,Ijebu-Ode,209175
+Nigeria,Ugep,200276
+Nigeria,Nnewi,193987
+Nigeria,Ise-Ekiti,190063
+Nigeria,Ila Orangun,179192
+Nigeria,Saki,178677
+Nigeria,Bida,171656
+Nigeria,Awka,167738
+Nigeria,Ijero-Ekiti,167632
+Nigeria,Inisa,164161
+Nigeria,Suleja,162135
+Nigeria,Sapele,161686
+Nigeria,Osogbo,156694
+Nigeria,Kisi,155510
+Nigeria,Gbongan,139485
+Nigeria,Ejigbo,138357
+Nigeria,Funtua,136811
+Nigeria,Igboho,136764
+Nigeria,Buguma,135404
+Nigeria,Ikirun,134240
+Nigeria,Abakaliki,134102
+Nigeria,Okrika,133271
+Nigeria,Amaigbo,127300
+Nigeria,Lafia,127236
+Nigeria,Gashua,125817
+Nigeria,Modakeke,119529
+Bangladesh,Dhaka,10356500
+Bangladesh,Chittagong,3920222
+Bangladesh,Khulna,1342339
+Bangladesh,Rajshahi,700133
+Bangladesh,Comilla,389411
+Bangladesh,Shibganj,378701
+Bangladesh,Natore,369138
+Bangladesh,Rangpur,343122
+Bangladesh,Tungi,337579
+Bangladesh,Narsingdi,281080
+Bangladesh,Bagerhat,266388
+Bangladesh,Cox's Bazar,253788
+Bangladesh,Jessore,243987
+Bangladesh,Nagarpur,238422
+Bangladesh,Sylhet,237000
+Bangladesh,Mymensingh,225126
+Bangladesh,Narayanganj,223622
+Bangladesh,Bogra,210000
+Bangladesh,Dinajpur,206234
+Bangladesh,Barisal,202242
+Bangladesh,Saidpur,199422
+Bangladesh,Par Naogaon,192464
+Bangladesh,Pabna,186781
+Bangladesh,Paltan,184492
+Bangladesh,Tangail,180144
+Bangladesh,Jamalpur,167900
+Bangladesh,Puthia,159406
+Bangladesh,Nawabganj,142361
+Bangladesh,Kushtia,135724
+Bangladesh,Sonargaon,130000
+Bangladesh,Satkhira,128918
+Bangladesh,Sirajganj,127481
+Bangladesh,Faridpur,112187
+Bangladesh,Sherpur,107419
+Bangladesh,Bhairab Bazar,105457
+Bangladesh,Shahzadpur,102420
+Bangladesh,Bhola,99079
+Bangladesh,Azimpur,96641
+Bangladesh,Kishorganj,90690
+Bangladesh,Bibir Hat,89030
+Bangladesh,Habiganj,88760
+Bangladesh,Madaripur,84789
+Bangladesh,Feni,84028
+Bangladesh,Laksham,82290
+Bangladesh,Ishurdi,81995
+Bangladesh,Sarishabari,81325
+Bangladesh,Netrakona,79016
+Bangladesh,Joypur Hat,73068
+Bangladesh,Thakurgaon,71096
+Bangladesh,Palang,67652
+Bangladesh,Lalmonirhat,65127
+Bangladesh,Raipur,64652
+Bangladesh,Tungipara,62210
+Bangladesh,Lakshmipur,61703
+Bangladesh,Maulavi Bazar,57441
+Bangladesh,Joymontop,56000
+Bangladesh,Ramganj,55241
+Bangladesh,Narail,55112
+Bangladesh,Pirojpur,54418
+Bangladesh,Sandwip,52152
+Bangladesh,Satkania,52005
+Bangladesh,Patiya,51360
+Bangladesh,Khagrachhari,50364
+Bangladesh,Chilmari,49736
+Bangladesh,Nageswari,49425
+Bangladesh,Panchagarh,48531
+Bangladesh,Uttar Char Fasson,48305
+Bangladesh,Parbatipur,48020
+Bangladesh,Burhanuddin,45670
+Bangladesh,Kaliganj,45631
+Russia,Moscow,10381222
+Russia,Saint Petersburg,5028000
+Russia,Novosibirsk,1419007
+Russia,Yekaterinburg,1349772
+Russia,Nizhniy Novgorod,1284164
+Russia,Samara,1134730
+Russia,Omsk,1129281
+Russia,Kazan,1104738
+Russia,Rostov-na-Donu,1074482
+Russia,Chelyabinsk,1062919
+Russia,Ufa,1033338
+Russia,Volgograd,1011417
+Russia,Perm,982419
+Russia,Krasnoyarsk,927200
+Russia,Saratov,863725
+Russia,Voronezh,848752
+Russia,Tol'yatti,702879
+Russia,Krasnodar,649851
+Russia,Ulyanovsk,640680
+Russia,Izhevsk,631038
+Russia,Yaroslavl,606730
+Russia,Barnaul,599579
+Russia,Vladivostok,587022
+Russia,Irkutsk,586695
+Russia,Khabarovsk,579000
+Russia,Khabarovsk Vtoroy,578303
+Russia,Orenburg,550204
+Russia,Novokuznetsk,539616
+Russia,Ryazan',520173
+Russia,Tyumen,519119
+Russia,Lipetsk,515655
+Russia,Penza,512602
+Russia,Naberezhnyye Chelny,509870
+Russia,Kalininskiy,504641
+Russia,Astrakhan,502533
+Russia,Makhachkala,497959
+Russia,Tomsk,485519
+Russia,Kemerovo,477090
+Russia,Tula,468825
+Russia,Kirov,457383
+Russia,Cheboksary,446781
+Russia,Kaliningrad,434954
+Russia,Bryansk,427236
+Russia,Ivanovo,420839
+Russia,Magnitogorsk,413351
+Russia,Kursk,409431
+Russia,Tver,400212
+Russia,Nizhny Tagil,381116
+Russia,Stavropol',363064
+Russia,Ulan-Ude,360278
+Russia,Arkhangel'sk,356051
+Russia,Belgorod,345289
+Russia,Kurgan,343129
+Russia,Kaluga,338978
+Russia,Krasnogvargeisky,337091
+Russia,Sochi,327608
+Russia,Orel,324200
+Russia,Volzhskiy,323293
+Russia,Smolensk,320991
+Russia,Murmansk,319263
+Russia,Vladikavkaz,317370
+Russia,Cherepovets,315738
+Russia,Vologda,314900
+Russia,Vladimir,310024
+Russia,Chita,308500
+Russia,Saransk,303394
+Russia,Surgut,300367
+Russia,Tambov,290933
+Russia,Yoshkar-Ola,279100
+Russia,Taganrog,279056
+Mexico,Mexico City,12294193
+Mexico,Iztapalapa,1815786
+Mexico,Ecatepec de Morelos,1655015
+Mexico,Guadalajara,1495182
+Mexico,Puebla,1434062
+Mexico,Juarez,1321004
+Mexico,Tijuana,1300983
+Mexico,Leon de los Aldama,1238962
+Mexico,Gustavo Adolfo Madero,1185772
+Mexico,Zapopan,1142483
+Mexico,Monterrey,1135512
+Mexico,Ciudad Nezahualcoyotl,1104585
+Mexico,Chihuahua,809232
+Mexico,Naucalpan de Juarez,792211
+Mexico,Merida,777615
+Mexico,Alvaro Obregon,726664
+Mexico,San Luis Potosi,722772
+Mexico,Aguascalientes,722250
+Mexico,Hermosillo,715061
+Mexico,Saltillo,709671
+Mexico,Mexicali,689775
+Mexico,Culiacan,675773
+Mexico,Guadalupe,673616
+Mexico,Acapulco de Juarez,673479
+Mexico,Tlalnepantla,653410
+Mexico,Cancun,628306
+Mexico,Santiago de Queretaro,626495
+Mexico,Coyoacan,620416
+Mexico,Santa Maria Chimalhuacan,612383
+Mexico,Torreon,608836
+Mexico,Morelia,597511
+Mexico,Reynosa,589466
+Mexico,Tlaquepaque,575942
+Mexico,Tlalpan,574577
+Mexico,Tuxtla,537102
+Mexico,Cuauhtemoc,531831
+Mexico,Victoria de Durango,518709
+Mexico,Toluca,489333
+Mexico,Ciudad Lopez Mateos,489160
+Mexico,Cuautitlan Izcalli,484573
+Mexico,Ciudad Apodaca,467157
+Mexico,Heroica Matamoros,449815
+Mexico,San Nicolas de los Garza,443273
+Mexico,Venustiano Carranza,430978
+Mexico,Veracruz,428323
+Mexico,Xalapa de Enriquez,424755
+Mexico,Azcapotzalco,414711
+Mexico,Tonala,408759
+Mexico,Xochimilco,407885
+Mexico,Benito Juarez,385439
+Mexico,Iztacalco,384326
+Mexico,Mazatlan,381583
+Mexico,Irapuato,380941
+Mexico,Nuevo Laredo,373725
+Mexico,Miguel Hidalgo,372889
+Mexico,Xico,356352
+Mexico,Benito Juarez,355017
+Mexico,Villahermosa,353577
+Mexico,Ciudad General Escobedo,352444
+Mexico,Celaya,340387
+Mexico,Cuernavaca,338650
+Mexico,Tepic,332863
+Mexico,Ixtapaluca,322271
+Mexico,Tampico,309003
+Mexico,Ciudad Victoria,305155
+Mexico,Tlahuac,305076
+Mexico,Ciudad Obregon,298625
+Mexico,Nicolas Romero,281799
+Mexico,Ensenada,279765
+Mexico,Coacalco,277959
+Japan,Tokyo,8336599
+Japan,Yokohama,3574443
+Japan,Osaka,2592413
+Japan,Nagoya,2191279
+Japan,Sapporo,1883027
+Japan,Kobe,1528478
+Japan,Kyoto,1459640
+Japan,Fukuoka,1392289
+Japan,Kawasaki,1306785
+Japan,Saitama,1193350
+Japan,Hiroshima,1143841
+Japan,Yono,1077730
+Japan,Sendai,1063103
+Japan,Kitakyushu,997536
+Japan,Chiba,919729
+Japan,Sakai,782339
+Japan,Shizuoka,701561
+Japan,Kumamoto,680423
+Japan,Okayama,639652
+Japan,Hamamatsu,605098
+Japan,Hachioji,579399
+Japan,Honcho,560743
+Japan,Kagoshima,555352
+Japan,Niigata,505272
+Japan,Himeji,481493
+Japan,Matsudo,470277
+Japan,Nishinomiya-hama,468925
+Japan,Kawaguchi,468565
+Japan,Kanazawa,458937
+Japan,Utsunomiya,449865
+Japan,Oita,448907
+Japan,Matsuyama,443322
+Japan,Amagasaki,442173
+Japan,Kurashiki,437581
+Japan,Yokosuka,428992
+Japan,Nagasaki,410204
+Japan,Hirakata,406331
+Japan,Machida,399969
+Japan,Gifu-shi,397714
+Japan,Fujisawa,394624
+Japan,Toyonaka,384459
+Japan,Fukuyama,383298
+Japan,Toyohashi,378374
+Japan,Minato,375339
+Japan,Nara-shi,367353
+Japan,Toyota,362383
+Japan,Nagano,360176
+Japan,Iwaki,357309
+Japan,Asahikawa,356612
+Japan,Takatsuki,354468
+Japan,Okazaki,352361
+Japan,Suita,351630
+Japan,Wakayama,351000
+Japan,Koriyama,340560
+Japan,Kashiwa,340221
+Japan,Tokorozawa,339435
+Japan,Kawagoe,337931
+Japan,Kochi,335570
+Japan,Takamatsu,334223
+Japan,Toyama,325532
+Japan,Akita,320069
+Japan,Koshigaya,317437
+Japan,Miyazaki,311203
+Japan,Naha,300795
+Japan,Kasugai,298589
+Japan,Aomori,298394
+Japan,Otsu,298164
+Japan,Akashi,297279
+Japan,Yokkaichi,295841
+Japan,Morioka,295172
+Ethiopia,Addis Ababa,2757729
+Ethiopia,Dire Dawa,252279
+Ethiopia,Mek'ele,215546
+Ethiopia,Nazret,213995
+Ethiopia,Bahir Dar,168899
+Ethiopia,Gondar,153914
+Ethiopia,Dese,136056
+Ethiopia,Hawassa,133097
+Ethiopia,Jimma,128306
+Ethiopia,Bishoftu,104215
+Ethiopia,Kombolcha,93605
+Ethiopia,Harar,90218
+Ethiopia,Sodo,86050
+Ethiopia,Shashemene,85871
+Ethiopia,Hosa'ina,75963
+Ethiopia,Arba Minch,69622
+Ethiopia,Adigrat,65000
+Ethiopia,Debre Mark'os,59920
+Ethiopia,Debre Birhan,57787
+Ethiopia,Jijiga,56821
+Ethiopia,Inda Silase,50078
+Ethiopia,Ziway,49416
+Ethiopia,Dila,47021
+Ethiopia,Hagere Hiywet,43920
+Ethiopia,Gambela,42366
+Ethiopia,Axum,41249
+Ethiopia,Waliso,38394
+Ethiopia,Yirga `Alem,36292
+Ethiopia,Mojo,34547
+Ethiopia,Goba,34369
+Ethiopia,Shakiso,34078
+Ethiopia,Felege Neway,33429
+Ethiopia,Areka,33150
+Ethiopia,Boditi,32997
+Ethiopia,Debre Tabor,32659
+Ethiopia,Jinka,32115
+Ethiopia,Gimbi,31809
+Ethiopia,Asbe Teferi,30772
+Ethiopia,Korem,30633
+Ethiopia,Asosa,30512
+Ethiopia,Butajira,30502
+Ethiopia,Metu,29648
+Ethiopia,Agaro,28268
+Ethiopia,Kibre Mengist,27854
+Ethiopia,Maych'ew,27186
+Ethiopia,Werota,26813
+Ethiopia,Dembi Dolo,26748
+Ethiopia,Dubti,26370
+Ethiopia,Fiche,25758
+Ethiopia,K'olito,25614
+Ethiopia,Mendi,25239
+Ethiopia,Debark',24700
+Ethiopia,Tippi,24169
+Ethiopia,Kemise,23861
+Ethiopia,Asasa,23790
+Ethiopia,Genet,23753
+Ethiopia,Finote Selam,23463
+Ethiopia,Metahara,23403
+Ethiopia,Dodola,23116
+Ethiopia,Addiet Canna,22946
+Ethiopia,Adis Zemen,22522
+Ethiopia,Hagere Maryam,22105
+Ethiopia,Bure,22038
+Ethiopia,Robit,20679
+Ethiopia,Asaita,20342
+Ethiopia,Bedele,20293
+Ethiopia,Nejo,20166
+Ethiopia,Sebeta,19533
+Ethiopia,Bati,19260
+Ethiopia,Bonga,18973
+Philippines,Quezon City,2761720
+Philippines,Manila,1600000
+Philippines,Caloocan City,1500000
+Philippines,Budta,1273715
+Philippines,Davao,1212504
+Philippines,Malingao,1121974
+Philippines,Cebu City,798634
+Philippines,General Santos,679588
+Philippines,Taguig,644473
+Philippines,Pasig City,617301
+Philippines,Las Pinas,590000
+Philippines,Antipolo,549543
+Philippines,Makati City,510383
+Philippines,Zamboanga,457623
+Philippines,Bacolod City,454898
+Philippines,Mansilingan,454150
+Philippines,Cagayan de Oro,445103
+Philippines,Dasmarinas,441876
+Philippines,Pasay,416522
+Philippines,Iloilo,387681
+Philippines,San Jose del Monte,357828
+Philippines,Bacoor,356974
+Philippines,Lapu-Lapu City,350467
+Philippines,Iligan,342618
+Philippines,Mandaue City,331320
+Philippines,Calamba,316612
+Philippines,Iligan City,312323
+Philippines,Butuan,309709
+Philippines,Cabuyao,308745
+Philippines,Mandaluyong City,305576
+Philippines,Binan,300000
+Philippines,Angeles City,299391
+Philippines,Santol,298976
+Philippines,Cainta,283172
+Philippines,Baguio,272714
+Philippines,San Pedro,270216
+Philippines,Mantampay,265032
+Philippines,San Fernando,251248
+Philippines,Libertad,250353
+Philippines,Navotas,249463
+Philippines,Tacloban,242089
+Philippines,Batangas,237370
+Philippines,Magugpo Poblacion,233254
+Philippines,Taytay,231460
+Philippines,Lucena,228758
+Philippines,Puerto Princesa,222673
+Philippines,Olongapo,221178
+Philippines,Cabanatuan City,220250
+Philippines,Binangonan,219204
+Philippines,Santa Rosa,216650
+Philippines,Imus,216099
+Philippines,Lipa City,212287
+Philippines,San Pablo,207577
+Philippines,Malolos,198748
+Philippines,Ormoc,191200
+Philippines,Panalanoy,189090
+Philippines,Mabalacat City,188050
+Philippines,Pagadian,186852
+Philippines,Meycauayan,184839
+Philippines,Tarlac City,183930
+Philippines,Legaspi,179481
+Philippines,Cotabato,179433
+Philippines,Naga,174931
+Philippines,Dagupan,171271
+Philippines,Toledo,156916
+Philippines,Guyong,155391
+Philippines,Bago City,150250
+Philippines,Marawi City,143627
+Philippines,Kabankalan,136483
+Philippines,Baliuag,135679
+Egypt,Cairo,7734614
+Egypt,Alexandria,3811516
+Egypt,Giza,2443203
+Egypt,Port Said,538378
+Egypt,Suez,488125
+Egypt,Al Mahallah al Kubra,431052
+Egypt,Luxor,422407
+Egypt,Asyut,420585
+Egypt,Al Mansurah,420195
+Egypt,Tanda,404901
+Egypt,Al Fayyum,306393
+Egypt,Zagazig,285097
+Egypt,Ismailia,284813
+Egypt,Kafr ad Dawwar,267370
+Egypt,Aswan,241261
+Egypt,Qina,235362
+Egypt,Halwan,230000
+Egypt,Damanhur,227943
+Egypt,Al Minya,227150
+Egypt,Idku,210678
+Egypt,Sohag,209419
+Egypt,New Cairo,200000
+Egypt,Bani Suwayf,189624
+Egypt,Shibin al Kawm,186345
+Egypt,Banha,167029
+Egypt,Talkha,157737
+Egypt,Kafr ash Shaykh,143970
+Egypt,Mallawi,142504
+Egypt,Dikirnis,137542
+Egypt,Idfu,133000
+Egypt,Bilbays,129211
+Egypt,Arish,128855
+Egypt,Jirja,128250
+Egypt,Al Hawamidiyah,106841
+Egypt,Bilqas,103596
+Egypt,Disuq,102037
+Egypt,Abu Kabir,100684
+Egypt,Qalyub,100495
+Egypt,Akhmim,99446
+Egypt,Al Matariyah,99357
+Egypt,Hurghada,95622
+Egypt,Zefta,92667
+Egypt,Tahta,90591
+Egypt,Samalut,90465
+Egypt,Bush,86608
+Egypt,Hawsh `Isa,85352
+Egypt,Munuf,83651
+Egypt,Ashmun,82507
+Egypt,Manfalut,78744
+Egypt,Damietta,76839
+Egypt,Kafr az Zayyat,73725
+Egypt,Abu Tij,71257
+Egypt,Isna,69335
+Egypt,Abnub,68749
+Egypt,Al Qusiyah,68394
+Egypt,Al Jammaliyah,68381
+Egypt,Dayrut,67788
+Egypt,Al Kharijah,67700
+Egypt,Toukh,67599
+Egypt,Al Manzalah,67486
+Egypt,Rosetta,64481
+Egypt,Awsim,63862
+Egypt,Al Fashn,63793
+Egypt,Fuwwah,63310
+Egypt,Faqus,62821
+Egypt,Al Khankah,62434
+Egypt,Mersa Matruh,62042
+Egypt,Al Qurayn,61730
+Egypt,Abu Qurqas,61182
+Egypt,Al Manshah,61134
+Vietnam,Ho Chi Minh City,3467331
+Vietnam,Hanoi,1431270
+Vietnam,Da Nang,752493
+Vietnam,Haiphong,602695
+Vietnam,Bien Hoa,407208
+Vietnam,Hue,287217
+Vietnam,Nha Trang,283441
+Vietnam,Can Tho,259598
+Vietnam,Rach Gia,228356
+Vietnam,Qui Nhon,210338
+Vietnam,Vung Tau,209683
+Vietnam,Da Lat,197000
+Vietnam,Nam Dinh,193499
+Vietnam,Vinh,163759
+Vietnam,GJuc Trong,161232
+Vietnam,La Gi,160652
+Vietnam,Phan Thiet,160652
+Vietnam,Long Xuyen,158153
+Vietnam,Can Giuoc,152200
+Vietnam,Bao Loc,151915
+Vietnam,Ha Long,148066
+Vietnam,Buon Ma Thuot,146975
+Vietnam,Cam Ranh,146771
+Vietnam,Sa Pa,138622
+Vietnam,Cam Pha Mines,135477
+Vietnam,Thai Nguyen,133877
+Vietnam,My Tho,122310
+Vietnam,Soc Trang,114453
+Vietnam,Pleiku,114225
+Vietnam,Thanh Hoa,112473
+Vietnam,Ca Mau,111894
+Vietnam,Bac Lieu,107911
+Vietnam,Yen Vinh,107082
+Vietnam,Hoa Binh,105260
+Vietnam,Vinh Long,103314
+Vietnam,Yen Bai,96540
+Vietnam,Song Cau,94066
+Vietnam,Viet Tri,93475
+Vietnam,Phan Rang-Thap Cham,91520
+Vietnam,Thu Dau Mot,91009
+Vietnam,Cung Kiem,80000
+Vietnam,Cu Chi,75000
+Vietnam,Mong Cai,72960
+Vietnam,Cho Dok,70239
+Vietnam,Tuy Hoa,69596
+Vietnam,Tan An,64801
+Vietnam,Thanh Pho Uong Bi,63829
+Vietnam,Cao Lanh,63770
+Vietnam,Sa Dec,60073
+Vietnam,Ben Tre,59442
+Vietnam,Tam Ky,59000
+Vietnam,Hai Duong,58030
+Vietnam,Tra Vinh,57408
+Vietnam,Lang Son,55981
+Vietnam,Can Gio,55137
+Vietnam,Bim Son,53754
+Vietnam,Bac Giang,53728
+Vietnam,Thai Binh,53071
+Vietnam,Ha Dong,50877
+Vietnam,Phu Khuong,47966
+Vietnam,Kon Tum,47409
+Vietnam,Bac Ninh,43564
+Vietnam,Cao Bang,41112
+Vietnam,Son Tay,40636
+Vietnam,Dien Bien Phu,40282
+Vietnam,Hung Yen,40273
+Vietnam,Ha Tien,40000
+Vietnam,Ninh Binh,36864
+Vietnam,Lao Cai,36502
+Vietnam,Tay Ninh,36456
+DR Congo,Kinshasa,7785965
+DR Congo,Lubumbashi,1373770
+DR Congo,Mbuji-Mayi,874761
+DR Congo,Kisangani,539158
+DR Congo,Masina,485167
+DR Congo,Kananga,463546
+DR Congo,Likasi,422414
+DR Congo,Kolwezi,418000
+DR Congo,Tshikapa,267462
+DR Congo,Beni,232000
+DR Congo,Bukavu,225389
+DR Congo,Mwene-Ditu,189177
+DR Congo,Kikwit,186991
+DR Congo,Mbandaka,184185
+DR Congo,Matadi,180109
+DR Congo,Uvira,170391
+DR Congo,Boma,162521
+DR Congo,Butembo,154621
+DR Congo,Gandajika,154425
+DR Congo,Kalemie,146974
+DR Congo,Goma,144124
+DR Congo,Kindu,135698
+DR Congo,Isiro,127076
+DR Congo,Bandundu,118211
+DR Congo,Gemena,117639
+DR Congo,Ilebo,107093
+DR Congo,Bunia,96764
+DR Congo,Bumba,95520
+DR Congo,Mbanza-Ngungu,86356
+DR Congo,Kamina,73557
+DR Congo,Lisala,70087
+DR Congo,Lodja,68244
+DR Congo,Kipushi,62332
+DR Congo,Kabinda,59004
+DR Congo,Kasongo,55118
+DR Congo,Mweka,50675
+DR Congo,Gbadolite,50493
+DR Congo,Buta,50130
+DR Congo,Moanda,50000
+DR Congo,Bulungu,48344
+DR Congo,Basoko,43709
+DR Congo,Lubao,43068
+DR Congo,Lusambo,41416
+DR Congo,Nioki,40695
+DR Congo,Inongo,40113
+DR Congo,Tshela,38845
+DR Congo,Bukama,38770
+DR Congo,Mangai,37188
+DR Congo,Kampene,37034
+DR Congo,Kabare,37034
+DR Congo,Kambove,36702
+DR Congo,Yangambi,35531
+DR Congo,Luebo,35183
+DR Congo,Aketi,35161
+DR Congo,Mushie,33062
+DR Congo,Boende,32091
+DR Congo,Kongolo,31943
+DR Congo,Kabalo,29833
+DR Congo,Businga,28919
+DR Congo,Kasangulu,27961
+DR Congo,Bolobo,27862
+DR Congo,Libenge,27053
+DR Congo,Watsa,24516
+DR Congo,Demba,22263
+DR Congo,Kasongo-Lunda,20060
+DR Congo,Bondo,17860
+DR Congo,Wamba,17373
+DR Congo,Sake,17151
+Turkey,Istanbul,14804116
+Turkey,Ankara,3517182
+Turkey,Izmir,2500603
+Turkey,Bursa,1412701
+Turkey,Adana,1248988
+Turkey,Gaziantep,1065975
+Turkey,Konya,875530
+Turkey,Cankaya,792189
+Turkey,Antalya,758188
+Turkey,Bagcilar,724270
+Turkey,Diyarbakir,644763
+Turkey,Kayseri,592840
+Turkey,UEskuedar,582666
+Turkey,Bahcelievler,576799
+Turkey,Umraniye,573265
+Turkey,Mersin,537842
+Turkey,Esenler,520235
+Turkey,Eskisehir,514869
+Turkey,Karabaglar,458000
+Turkey,Muratpasa,450000
+Turkey,Sanliurfa,449549
+Turkey,Malatya,441805
+Turkey,Sultangazi,436935
+Turkey,Maltepe,427040
+Turkey,Erzurum,420691
+Turkey,Samsun,394050
+Turkey,Batman,381990
+Turkey,Kahramanmaras,376045
+Turkey,Van,371713
+Turkey,Atasehir,361615
+Turkey,Sisli,314684
+Turkey,Denizli,313238
+Turkey,Batikent,300000
+Turkey,Elazig,298004
+Turkey,Zeytinburnu,288743
+Turkey,Adapazari,286787
+Turkey,Sultanbeyli,286622
+Turkey,Gebze,281436
+Turkey,Merkezefendi,280341
+Turkey,Sivas,264022
+Turkey,Tarsus,256482
+Turkey,Trabzon,244083
+Turkey,Manisa,243971
+Turkey,Sancaktepe,241000
+Turkey,Balikesir,238151
+Turkey,Adiyaman,223744
+Turkey,Esenyurt,211330
+Turkey,Kirikkale,211138
+Turkey,Antakya,210000
+Turkey,Osmaniye,202837
+Turkey,Corlu,202578
+Turkey,Arnavutkoey,198165
+Turkey,Izmit,196571
+Turkey,Basaksehir,193750
+Turkey,Kutahya,185008
+Turkey,Corum,183418
+Turkey,Siverek,175341
+Turkey,Isparta,172334
+Turkey,Bueyuekcekmece,163140
+Turkey,Aydin,163022
+Turkey,Iskenderun,159965
+Turkey,Viransehir,154163
+Turkey,Usak,152862
+Turkey,Aksaray,152201
+Turkey,Kiziltepe,150174
+Turkey,Afyonkarahisar,146136
+Turkey,Inegol,133959
+Turkey,Tokat,129702
+Turkey,Edirne,126470
+Turkey,Derince,125485
+Iran,Tehran,7153309
+Iran,Mashhad,2307177
+Iran,Isfahan,1547164
+Iran,Karaj,1448075
+Iran,Tabriz,1424641
+Iran,Shiraz,1249942
+Iran,Qom,900000
+Iran,Ahvaz,841145
+Iran,Pasragad Branch,787878
+Iran,Kahriz,766706
+Iran,Kermanshah,621100
+Iran,Rasht,594590
+Iran,Kerman,577514
+Iran,Orumiyeh,577307
+Iran,Zahedan,551980
+Iran,Hamadan,528256
+Iran,Azadshahr,514102
+Iran,Arak,503647
+Iran,Yazd,477905
+Iran,Ardabil,410753
+Iran,Abadan,370180
+Iran,Zanjan,357471
+Iran,Bandar Abbas,352173
+Iran,Sanandaj,349176
+Iran,Qazvin,333635
+Iran,Khorramshahr,330606
+Iran,Khorramabad,329825
+Iran,Khomeyni Shahr,277334
+Iran,Sari,255396
+Iran,Borujerd,251958
+Iran,Qarchak,251834
+Iran,Gorgan,244937
+Iran,Sabzevar,226183
+Iran,Najafabad,223450
+Iran,Neyshabur,220929
+Iran,Nazarabad,213388
+Iran,Bukan,213331
+Iran,Sirjan,207645
+Iran,Babol,202796
+Iran,Amol,199382
+Iran,Birjand,196982
+Iran,Bojnurd,192041
+Iran,Varamin,179603
+Iran,Malayer,176573
+Iran,Saveh,175533
+Iran,Khowy,175370
+Iran,Bushehr,165377
+Iran,Mahabad,162434
+Iran,Saqqez,151237
+Iran,Marvdasht,148858
+Iran,Rafsanjan,147680
+Iran,Ilam,140940
+Iran,Miandoab,132819
+Iran,Shahrud,131889
+Iran,Gonbad-e Kavus,131416
+Iran,Iranshahr,131232
+Iran,Shahr-e Kord,129153
+Iran,Torbat-e Heydariyeh,125633
+Iran,Semnan,124826
+Iran,Marand,124191
+Iran,Zabol,121989
+Iran,Quchan,111752
+Iran,Masjed Soleyman,111510
+Iran,Bandar-e Anzali,110826
+Iran,Baneh,104799
+Iran,Parsabad,101661
+Iran,Kuhdasht,100208
+Iran,Bam,99268
+Iran,Akbarabad,98342
+Iran,Fasa,98061
+Germany,Berlin,3426354
+Germany,Hamburg,1739117
+Germany,Munich,1260391
+Germany,Koeln,963395
+Germany,Frankfurt am Main,650000
+Germany,Essen,593085
+Germany,Stuttgart,589793
+Germany,Dortmund,588462
+Germany,Duesseldorf,573057
+Germany,Bremen,546501
+Germany,Hannover,515140
+Germany,Leipzig,504971
+Germany,Duisburg,504358
+Germany,Nuernberg,499237
+Germany,Dresden,486854
+Germany,Wandsbek,411422
+Germany,Bochum,385729
+Germany,Bochum-Hordel,380000
+Germany,Wuppertal,360797
+Germany,Bielefeld,331906
+Germany,Bonn,313125
+Germany,Mannheim,307960
+Germany,Marienthal,287101
+Germany,Karlsruhe,283799
+Germany,Hamburg-Nord,280000
+Germany,Wiesbaden,272432
+Germany,Muenster,270184
+Germany,Gelsenkirchen,270028
+Germany,Aachen,265208
+Germany,Moenchengladbach,261742
+Germany,Augsburg,259196
+Germany,Eimsbuettel,251907
+Germany,Altona,250192
+Germany,Chemnitz,247220
+Germany,Braunschweig,244715
+Germany,Krefeld,237984
+Germany,Halle (Saale),234107
+Germany,Hamburg-Mitte,233144
+Germany,Kiel,232758
+Germany,Magdeburg,229826
+Germany,Neue Neustadt,226851
+Germany,Oberhausen,219176
+Germany,Freiburg,215966
+Germany,Luebeck,212207
+Germany,Erfurt,203254
+Germany,Harburg,202571
+Germany,Hagen,198972
+Germany,Rostock,198293
+Germany,Kassel,194501
+Germany,Hamm,185327
+Germany,Mainz,184997
+Germany,Saarbruecken,181227
+Germany,Herne,172108
+Germany,Muelheim,171000
+Germany,Neukoelln,167248
+Germany,Osnabrueck,166462
+Germany,Solingen,164359
+Germany,Ludwigshafen am Rhein,163196
+Germany,Leverkusen,162738
+Germany,Oldenburg,159218
+Germany,Neuss,152457
+Germany,Prenzlauer Berg Bezirk,148878
+Germany,Bezirk Kreuzberg,147532
+Germany,Potsdam,145292
+Germany,Heidelberg,143345
+Germany,Paderborn,142161
+Germany,Darmstadt,140385
+Germany,Wuerzburg,133731
+Germany,Regensburg,129151
+Germany,Wolfsburg,123064
+Thailand,Bangkok,5104476
+Thailand,Samut Prakan,388920
+Thailand,Mueang Nonthaburi,291555
+Thailand,Udon Thani,247231
+Thailand,Chon Buri,219164
+Thailand,Nakhon Ratchasima,208781
+Thailand,Chiang Mai,200952
+Thailand,Hat Yai,191696
+Thailand,Pak Kret,182926
+Thailand,Si Racha,178916
+Thailand,Phra Pradaeng,171333
+Thailand,Lampang,156139
+Thailand,Khon Kaen,147579
+Thailand,Surat Thani,127201
+Thailand,Ubon Ratchathani,122533
+Thailand,Nakhon Si Thammarat,120836
+Thailand,Khlong Luang,118551
+Thailand,Nakhon Pathom,117927
+Thailand,Rayong,106737
+Thailand,Phitsanulok,103427
+Thailand,Chanthaburi,99819
+Thailand,Pattaya,97296
+Thailand,Yala,93558
+Thailand,Ratchaburi,92448
+Thailand,Nakhon Sawan,91802
+Thailand,Phuket,89072
+Thailand,Ban Mai,86899
+Thailand,Songkhla,84264
+Thailand,Phra Nakhon Si Ayutthaya,81962
+Thailand,Chiang Rai,78756
+Thailand,Bang Kruai,78305
+Thailand,Sakon Nakhon,76237
+Thailand,Krathum Baen,72819
+Thailand,Saraburi,67763
+Thailand,Trang,66713
+Thailand,Sattahip,65444
+Thailand,Kanchanaburi,63699
+Thailand,Nong Khai,63609
+Thailand,Samut Sakhon,63498
+Thailand,Ban Lam Luk Ka,60700
+Thailand,Kamphaeng Phet,58787
+Thailand,Chaiyaphum,58350
+Thailand,Uttaradit,58313
+Thailand,Lop Buri,57761
+Thailand,Ban Pong,57559
+Thailand,Phra Phutthabat,57008
+Thailand,Chumphon,55835
+Thailand,Klaeng,55619
+Thailand,Kalasin,55102
+Thailand,Suphan Buri,53399
+Thailand,Tha Maka,52907
+Thailand,Ban Talat Yai,52192
+Thailand,Maha Sarakham,51584
+Thailand,Phetchabun,50656
+Thailand,Hua Hin,50456
+Thailand,Ko Samui,50000
+Thailand,Chachoengsao,49741
+Thailand,Cha-am,49375
+Thailand,Pak Chong,48999
+Thailand,Narathiwat,47771
+Thailand,Pran Buri,47293
+Thailand,Surin,46673
+Thailand,Phetchaburi,46601
+Thailand,Chum Phae,46335
+Thailand,Sadao,46236
+Thailand,Si Sa Ket,44751
+Thailand,Mae Sot,44563
+Thailand,Pattani,43690
+Thailand,Phatthalung,43522
+Thailand,Lamphun,43196
+United Kingdom,London,7556900
+United Kingdom,Birmingham,984333
+United Kingdom,Liverpool,864122
+United Kingdom,Nottingham,729977
+United Kingdom,Sheffield,685368
+United Kingdom,Bristol,617280
+United Kingdom,Glasgow,591620
+United Kingdom,Leicester,508916
+United Kingdom,Edinburgh,464990
+United Kingdom,Leeds,455123
+United Kingdom,Cardiff,447287
+United Kingdom,Manchester,395515
+United Kingdom,Stoke-on-Trent,372775
+United Kingdom,Coventry,359262
+United Kingdom,Sunderland,335415
+United Kingdom,Birkenhead,325264
+United Kingdom,Islington,319143
+United Kingdom,Reading,318014
+United Kingdom,Kingston upon Hull,314018
+United Kingdom,Preston,313332
+United Kingdom,Newport,306844
+United Kingdom,Swansea,300352
+United Kingdom,Bradford,299310
+United Kingdom,Southend-on-Sea,295310
+United Kingdom,Belfast,274770
+United Kingdom,Derby,270468
+United Kingdom,Plymouth,260203
+United Kingdom,Luton,258018
+United Kingdom,Wolverhampton,252791
+United Kingdom,City of Westminster,247614
+United Kingdom,Southampton,246201
+United Kingdom,Blackpool,239409
+United Kingdom,Milton Keynes,229941
+United Kingdom,Bexley,228000
+United Kingdom,Northampton,215963
+United Kingdom,Archway,215667
+United Kingdom,Norwich,213166
+United Kingdom,Dudley,199059
+United Kingdom,Aberdeen,196670
+United Kingdom,Portsmouth,194150
+United Kingdom,Newcastle upon Tyne,192382
+United Kingdom,Sutton,187600
+United Kingdom,Swindon,185609
+United Kingdom,Crawley,180508
+United Kingdom,Ipswich,178835
+United Kingdom,Wigan,175405
+United Kingdom,Croydon,173314
+United Kingdom,Walsall,172141
+United Kingdom,Mansfield,171958
+United Kingdom,Oxford,171380
+United Kingdom,Warrington,165456
+United Kingdom,Slough,163777
+United Kingdom,Bournemouth,163600
+United Kingdom,Peterborough,163379
+United Kingdom,Cambridge,158434
+United Kingdom,Doncaster,158141
+United Kingdom,York,153717
+United Kingdom,Poole,150092
+United Kingdom,Gloucester,150053
+United Kingdom,Burnley,149422
+United Kingdom,Huddersfield,149017
+United Kingdom,Telford,147980
+United Kingdom,Dundee,147710
+United Kingdom,Blackburn,146521
+United Kingdom,Basildon,144859
+United Kingdom,Middlesbrough,142707
+United Kingdom,Bolton,141331
+United Kingdom,Stockport,139052
+United Kingdom,Brighton,139001
+United Kingdom,West Bromwich,135618
+France,Paris,2138551
+France,Marseille,794811
+France,Lyon,472317
+France,Toulouse,433055
+France,Nice,338620
+France,Nantes,277269
+France,Strasbourg,274845
+France,Montpellier,248252
+France,Bordeaux,231844
+France,Lille,228328
+France,Rennes,209375
+France,Reims,196565
+France,Le Havre,185972
+France,Cergy-Pontoise,183430
+France,Saint-Etienne,176280
+France,Toulon,168701
+France,Angers,168279
+France,Grenoble,158552
+France,Dijon,149782
+France,Nimes,148236
+France,Aix-en-Provence,146821
+France,Saint-Quentin-en-Yvelines,146598
+France,Brest,144899
+France,Le Mans,144515
+France,Amiens,143086
+France,Tours,141621
+France,Limoges,141176
+France,Clermont-Ferrand,138681
+France,Villeurbanne,131445
+France,Besancon,128426
+France,Orleans,124149
+France,Metz,123914
+France,Rouen,112787
+France,Mulhouse,111430
+France,Perpignan,110706
+France,Caen,110624
+France,Boulogne-Billancourt,108782
+France,Nancy,105334
+France,Argenteuil,101475
+France,Saint-Denis,96128
+France,Roubaix,95721
+France,Tourcoing,91574
+France,Montreuil,90652
+France,Avignon,89769
+France,Marseille 13,89316
+France,Asnieres-sur-Seine,86742
+France,Nanterre,86719
+France,Poitiers,85960
+France,Versailles,85416
+France,Courbevoie,85158
+France,Creteil,84833
+France,Pau,82697
+France,Colombes,82300
+France,Vitry-sur-Seine,81001
+France,Aulnay-sous-Bois,80615
+France,Marseille 08,78837
+France,Marseille 15,77770
+France,Marseille 09,76868
+France,La Rochelle,76810
+France,Champigny-sur-Marne,76726
+France,Rueil-Malmaison,76616
+France,Antibes,76393
+France,Saint-Maur-des-Fosses,75402
+France,Calais,74433
+France,Beziers,74081
+France,Dunkerque,71287
+France,Aubervilliers,70914
+France,Cannes,70011
+France,Merignac,69791
+France,Bourges,67987
+Italy,Rome,2318895
+Italy,Milan,1236837
+Italy,Naples,959470
+Italy,Turin,870456
+Italy,Palermo,648260
+Italy,Genoa,580223
+Italy,Bologna,366133
+Italy,Florence,349296
+Italy,Catania,290927
+Italy,Bari,277387
+Italy,Messina,219948
+Italy,Verona,219103
+Italy,Padova,203725
+Italy,Trieste,187056
+Italy,Brescia,184826
+Italy,Prato,181820
+Italy,Taranto,181082
+Italy,Reggio Calabria,169140
+Italy,Modena,158886
+Italy,Livorno,153773
+Italy,Cagliari,149257
+Italy,Mestre,147662
+Italy,Parma,146299
+Italy,Foggia,137032
+Italy,Reggio nell'Emilia,133296
+Italy,Acilia-Castel Fusano-Ostia Antica,129362
+Italy,Salerno,125797
+Italy,Perugia,120137
+Italy,Monza,119618
+Italy,Rimini,118673
+Italy,Pescara,116596
+Italy,Bergamo,114162
+Italy,Vicenza,107129
+Italy,Bolzano,99049
+Italy,Andria,98342
+Italy,Udine,97761
+Italy,Siracusa,97472
+Italy,Terni,97050
+Italy,Forli,93638
+Italy,Novara,93295
+Italy,Barletta,93279
+Italy,Piacenza,93228
+Italy,Ferrara,92802
+Italy,Sassari,91895
+Italy,Ancona,89994
+Italy,La Spezia,88491
+Italy,Torre del Greco,85897
+Italy,Como,81975
+Italy,Lucca,81748
+Italy,Ravenna,80868
+Italy,Lecce,80695
+Italy,Trento,80425
+Italy,Giugliano in Campania,80269
+Italy,Busto Arsizio,79519
+Italy,Lido di Ostia,79400
+Italy,Cesena,79398
+Italy,Catanzaro,78970
+Italy,Brindisi,78548
+Italy,Marsala,77915
+Italy,Treviso,77604
+Italy,Pesaro,77241
+Italy,Pisa,77007
+Italy,Varese,76851
+Italy,Sesto San Giovanni,76509
+Italy,Arezzo,76346
+Italy,Latina,76305
+Italy,Gela,73854
+Italy,Pistoia,73832
+Italy,Caserta,72844
+Italy,Cinisello Balsamo,71109
+Tanzania,Dar es Salaam,2698652
+Tanzania,Mwanza,436801
+Tanzania,Zanzibar,403658
+Tanzania,Arusha,341136
+Tanzania,Mbeya,291649
+Tanzania,Morogoro,250902
+Tanzania,Tanga,224876
+Tanzania,Dodoma,180541
+Tanzania,Kigoma,164268
+Tanzania,Moshi,156959
+Tanzania,Tabora,145292
+Tanzania,Songea,126449
+Tanzania,Musoma,121119
+Tanzania,Iringa,111820
+Tanzania,Katumba,108558
+Tanzania,Shinyanga,107362
+Tanzania,Mtwara,96602
+Tanzania,Ushirombo,95052
+Tanzania,Kilosa,91889
+Tanzania,Sumbawanga,89161
+Tanzania,Bagamoyo,82426
+Tanzania,Mpanda,73338
+Tanzania,Bukoba,70628
+Tanzania,Singida,62432
+Tanzania,Uyovu,60849
+Tanzania,Makumbako,53003
+Tanzania,Buseresere,52870
+Tanzania,Bunda,50944
+Tanzania,Merelani,50000
+Tanzania,Katoro,49691
+Tanzania,Ifakara,49528
+Tanzania,Njombe,46724
+Tanzania,Lindi,41912
+Tanzania,Vwawa,40145
+Tanzania,Geita,40000
+Tanzania,Nguruka,39135
+Tanzania,Newala Kisimani,38099
+Tanzania,Geiro,37909
+Tanzania,Kidatu,37542
+Tanzania,Kasulu,37349
+Tanzania,Tunduma,36556
+Tanzania,Masasi,36032
+Tanzania,Kahama,36014
+Tanzania,Kidodi,35953
+Tanzania,Igunga,35644
+Tanzania,Misungwi,35530
+Tanzania,Mlimba,34970
+Tanzania,Mafinga,34958
+Tanzania,Masumbwe,34780
+Tanzania,Chalinze,34335
+Tanzania,Babati,34291
+Tanzania,Biharamulo,34038
+Tanzania,Somanda,33932
+Tanzania,Bariadi,33865
+Tanzania,Kirando,33111
+Tanzania,Tarime,33094
+Tanzania,Tumbi,32900
+Tanzania,Bugarama,32494
+Tanzania,Mvomero,31324
+Tanzania,Chanika,30905
+Tanzania,Kyela,30684
+Tanzania,Kibiti,30163
+Tanzania,Kisesa,29804
+Tanzania,Lukuledi,29699
+Tanzania,Mlandizi,29394
+Tanzania,Rujewa,29228
+Tanzania,Ilula,29193
+Tanzania,Kibondo,28666
+Tanzania,Tukuyu,28398
+Tanzania,Namanyere,28218
+South Africa,Cape Town,3433441
+South Africa,Durban,3120282
+South Africa,Johannesburg,2026469
+South Africa,Soweto,1695047
+South Africa,Pretoria,1619438
+South Africa,Port Elizabeth,967677
+South Africa,Pietermaritzburg,750845
+South Africa,Benoni,605344
+South Africa,Tembisa,511655
+South Africa,East London,478676
+South Africa,Vereeniging,474681
+South Africa,Bloemfontein,463064
+South Africa,Boksburg,445168
+South Africa,Welkom,431944
+South Africa,Newcastle,404838
+South Africa,Krugersdorp,378821
+South Africa,Diepsloot,350000
+South Africa,Randburg,337053
+South Africa,Botshabelo,309714
+South Africa,Brakpan,305692
+South Africa,Witbank,262491
+South Africa,Richards Bay,252968
+South Africa,Vanderbijlpark,246754
+South Africa,Centurion,233386
+South Africa,Uitenhage,228912
+South Africa,Roodepoort,225000
+South Africa,Paarl,190000
+South Africa,Springs,186394
+South Africa,Carletonville,182304
+South Africa,Klerksdorp,178921
+South Africa,Midrand,173009
+South Africa,Westonaria,156831
+South Africa,Middelburg,154706
+South Africa,Vryheid,150012
+South Africa,Orkney,145801
+South Africa,Kimberley,142089
+South Africa,eMbalenhle,141741
+South Africa,Nigel,140644
+South Africa,Mpumalanga,140121
+South Africa,Bhisho,137287
+South Africa,Randfontein,133654
+South Africa,Worcester,127597
+South Africa,Rustenburg,124064
+South Africa,Polokwane,123749
+South Africa,Potchefstroom,123669
+South Africa,Virginia,122502
+South Africa,Brits,122497
+South Africa,Alberton,121536
+South Africa,Nelspruit,110159
+South Africa,Phalaborwa,109468
+South Africa,Queenstown,105309
+South Africa,Kroonstad,103992
+South Africa,Bethal,101919
+South Africa,Mokopane,101090
+South Africa,Mabopane,97417
+South Africa,Kutloanong,95008
+South Africa,Stellenbosch,94263
+South Africa,Stilfontein,93110
+South Africa,Delmas,92046
+South Africa,Grahamstown,91548
+South Africa,Warmbaths,90210
+South Africa,Louis Trichardt,86854
+South Africa,Dundee,84413
+South Africa,Piet Retief,84349
+South Africa,Phuthaditjhaba,84258
+South Africa,Bethlehem,83654
+South Africa,Mthatha,78663
+South Africa,Sasolburg,77016
+South Africa,Mmabatho,76754
+South Africa,Standerton,74021
+Myanmar,Yangon,4477638
+Myanmar,Mandalay,1208099
+Myanmar,Nay Pyi Taw,925000
+Myanmar,Mawlamyine,438861
+Myanmar,Kyain Seikgyi Township,246065
+Myanmar,Bago,244376
+Myanmar,Pathein,237089
+Myanmar,Monywa,182011
+Myanmar,Sittwe,177743
+Myanmar,Meiktila,177442
+Myanmar,Myeik,173298
+Myanmar,Taunggyi,160115
+Myanmar,Myingyan,141713
+Myanmar,Dawei,136783
+Myanmar,Pyay,135308
+Myanmar,Hinthada,134947
+Myanmar,Lashio,131016
+Myanmar,Pakokku,126938
+Myanmar,Thaton,123727
+Myanmar,Pyin Oo Lwin,117303
+Myanmar,Yenangyaung,110553
+Myanmar,Taungoo,106945
+Myanmar,Thayetmyo,98185
+Myanmar,Pyinmana,97409
+Myanmar,Magway,96954
+Myanmar,Myitkyina,90894
+Myanmar,Chauk,90870
+Myanmar,Mogok,90843
+Myanmar,Nyaunglebin,89626
+Myanmar,Mudon,89123
+Myanmar,Shwebo,88914
+Myanmar,Sagaing,78739
+Myanmar,Taungdwingyi,70094
+Myanmar,Syriam,69448
+Myanmar,Bogale,68938
+Myanmar,Pyapon,65601
+Myanmar,Yamethin,59867
+Myanmar,Kanbe,58146
+Myanmar,Kawthoung,57949
+Myanmar,Myaydo,57897
+Myanmar,Minbu,57342
+Myanmar,Tharyarwady,54386
+Myanmar,Thongwa,52496
+Myanmar,Kyaiklat,52425
+Myanmar,Tachilek,51553
+Myanmar,Maubin,51542
+Myanmar,Kyaukse,50480
+Myanmar,Hpa-An,50000
+Myanmar,Kyaikto,48658
+Myanmar,Martaban,48629
+Myanmar,Kyaikkami,48100
+Myanmar,Bhamo,47920
+Myanmar,Twante,46516
+Myanmar,Myawadi,45000
+Myanmar,Mawlaik,44540
+Myanmar,Wakema,42705
+Myanmar,Myanaung,42252
+Myanmar,Pyu,40386
+Myanmar,Kayan,40322
+Myanmar,Nyaungdon,40092
+Myanmar,Mawlamyinegyunn,39115
+Myanmar,Letpandan,38936
+Myanmar,Thanatpin,38059
+Myanmar,Paungde,36971
+Myanmar,Hakha,20000
+Myanmar,Loikaw,17293
+Kenya,Nairobi,2750547
+Kenya,Mombasa,799668
+Kenya,Nakuru,259903
+Kenya,Eldoret,218446
+Kenya,Kisumu,216479
+Kenya,Thika,200000
+Kenya,Malindi,118265
+Kenya,Kitale,75123
+Kenya,Garissa,67861
+Kenya,Kakamega,63426
+Kenya,Kapenguria,56000
+Kenya,Bungoma,55962
+Kenya,Busia,51981
+Kenya,Nyeri,51084
+Kenya,Ol Kalou,47795
+Kenya,Meru,47226
+Kenya,Kilifi,46118
+Kenya,Wajir,45771
+Kenya,Mumias,45485
+Kenya,Voi,45483
+Kenya,Iten,42000
+Kenya,Lugulu,40894
+Kenya,Homa Bay,40319
+Kenya,Naivasha,38366
+Kenya,Nanyuki,36142
+Kenya,Mandera,36076
+Kenya,Narok,36061
+Kenya,Kericho,35748
+Kenya,Migori,35240
+Kenya,Embu,34922
+Kenya,Moyale,34314
+Kenya,Isiolo,33207
+Kenya,Nyahururu,31978
+Kenya,Machakos,31971
+Kenya,Rongai,30471
+Kenya,Pumwani,29616
+Kenya,Kisii,28547
+Kenya,Molo,27896
+Kenya,Kabarnet,24661
+Kenya,Athi River,24530
+Kenya,Lamu,24525
+Kenya,Webuye,22507
+Kenya,Karuri,21476
+Kenya,Kiambu,21234
+Kenya,Maralal,20841
+Kenya,Makueni Boma,20681
+Kenya,Lodwar,20219
+Kenya,Kitui,15954
+Kenya,Marsabit,15361
+Kenya,Siaya,15354
+Kenya,Kerugoya,15287
+Kenya,Muhoroni,15217
+South Korea,Seoul,10349312
+South Korea,Busan,3678555
+South Korea,Incheon,2628000
+South Korea,Daegu,2566540
+South Korea,Daejeon,1475221
+South Korea,Gwangju,1416938
+South Korea,Suwon,1242724
+South Korea,Goyang-si,1073069
+South Korea,Seongnam-si,1031935
+South Korea,Ulsan,962865
+South Korea,Bucheon-si,850731
+South Korea,Jeonju,711424
+South Korea,Ansan-si,650728
+South Korea,Cheongju-si,634596
+South Korea,Anyang-si,634367
+South Korea,Changwon,550000
+South Korea,Pohang,500000
+South Korea,Uijeongbu-si,479141
+South Korea,Hwaseong-si,476297
+South Korea,Masan,434371
+South Korea,Jeju City,408364
+South Korea,Cheonan,365114
+South Korea,Kwangmyong,357545
+South Korea,Kimhae,356242
+South Korea,Chinju,307242
+South Korea,Yeosu,295538
+South Korea,Gumi,291006
+South Korea,Iksan,283501
+South Korea,Mokpo,268402
+South Korea,Gunsan,243406
+South Korea,Wonju,243387
+South Korea,Suncheon,230796
+South Korea,Sejong,230327
+South Korea,Chuncheon,209746
+South Korea,Icheon-si,196230
+South Korea,Guri-si,195236
+South Korea,Gangneung,180611
+South Korea,Yangju,179923
+South Korea,Osan,158978
+South Korea,Seogwipo,155691
+South Korea,Gyeongju,155237
+South Korea,Gimcheon,150000
+South Korea,Jeongeup,139876
+South Korea,Hanam,134902
+South Korea,Gyeongsan-si,129903
+South Korea,Andong,129319
+South Korea,Hwado,106358
+South Korea,Tonghae,101128
+South Korea,Asan,97749
+South Korea,Wabu,96775
+South Korea,Namyangju,90798
+South Korea,Kwangyang,89281
+South Korea,Hongseong,89174
+South Korea,Sokcho,89047
+South Korea,Eisen,84625
+South Korea,Wanju,84009
+South Korea,Yangp'yong,83367
+South Korea,Ungsang,83360
+South Korea,Sinhyeon,82560
+South Korea,Gwangju,81780
+South Korea,Mungyeong,81525
+South Korea,Naeso,80987
+South Korea,Muan,75718
+South Korea,Hongch'on,75251
+South Korea,Changnyeong,74668
+South Korea,Seosan,74208
+South Korea,Koch'ang,72996
+South Korea,Gongju,72435
+South Korea,Kyosai,72124
+South Korea,Yangsan,71936
+Colombia,Bogota,7674366
+Colombia,Cali,2392877
+Colombia,Medellin,1999979
+Colombia,Barranquilla,1380425
+Colombia,Cartagena,952024
+Colombia,Cucuta,721398
+Colombia,Bucaramanga,571820
+Colombia,Pereira,440118
+Colombia,Santa Marta,431781
+Colombia,Ibague,421685
+Colombia,Bello,392939
+Colombia,Pasto,382236
+Colombia,Manizales,357814
+Colombia,Neiva,352855
+Colombia,Soledad,342556
+Colombia,Villavicencio,321717
+Colombia,Armenia,315328
+Colombia,Soacha,313945
+Colombia,Valledupar,308237
+Colombia,Itaguei,281853
+Colombia,Monteria,272420
+Colombia,Sincelejo,261187
+Colombia,Popayan,258653
+Colombia,Floridablanca,252267
+Colombia,Palmira,247986
+Colombia,Buenaventura,240387
+Colombia,Barrancabermeja,191403
+Colombia,Dosquebradas,179583
+Colombia,Tulua,165501
+Colombia,Envigado,163007
+Colombia,Cartago,134827
+Colombia,Maicao,130348
+Colombia,Florencia,130337
+Colombia,Girardot City,130289
+Colombia,Sogamoso,126551
+Colombia,Guadalajara de Buga,118004
+Colombia,Tunja,117479
+Colombia,Giron,108466
+Colombia,Malambo,101534
+Colombia,Magangue,100313
+Colombia,Facatativa,94611
+Colombia,Riohacha,92431
+Colombia,Duitama,92040
+Colombia,Zipaquira,91235
+Colombia,Fusagasuga,88820
+Colombia,Cienaga,88311
+Colombia,Tumaco,86713
+Colombia,Apartado,86438
+Colombia,Piedecuesta,86387
+Colombia,Montelibano,85000
+Colombia,Ocana,83511
+Colombia,La Dorada,81950
+Colombia,Ipiales,77729
+Colombia,Quibdo,75104
+Colombia,Aguachica,73360
+Colombia,Yumbo,71436
+Colombia,Arauca,69264
+Colombia,Sabanalarga,68535
+Colombia,Chinchina,68512
+Colombia,Caldas,65565
+Colombia,Villa del Rosario,64951
+Colombia,Chia,64569
+Colombia,Rionegro,62291
+Colombia,Calarca,62170
+Colombia,Yopal,61029
+Colombia,Sahagun,59188
+Colombia,Fundacion,59175
+Colombia,Los Patios,58661
+Colombia,San Andres,58257
+Colombia,Caucasia,58034
+Spain,Madrid,3255944
+Spain,Barcelona,1621537
+Spain,Valencia,814208
+Spain,Sevilla,703206
+Spain,Zaragoza,674317
+Spain,Malaga,568305
+Spain,Murcia,436870
+Spain,Palma,401270
+Spain,Las Palmas de Gran Canaria,381847
+Spain,Bilbao,354860
+Spain,Alicante,334757
+Spain,Cordoba,328428
+Spain,Valladolid,317864
+Spain,Vigo,297332
+Spain,Gijon,277554
+Spain,Eixample,266477
+Spain,L'Hospitalet de Llobregat,257038
+Spain,Latina,256644
+Spain,Carabanchel,253678
+Spain,A Coruna,246056
+Spain,Puente de Vallecas,244151
+Spain,Sant Marti,235719
+Spain,Gasteiz / Vitoria,235661
+Spain,Granada,234325
+Spain,Elche,230112
+Spain,Ciudad Lineal,228171
+Spain,Oviedo,224005
+Spain,Santa Cruz de Tenerife,222417
+Spain,Fuencarral-El Pardo,220085
+Spain,Badalona,219547
+Spain,Cartagena,211996
+Spain,Terrassa,210941
+Spain,Jerez de la Frontera,207532
+Spain,Sabadell,206493
+Spain,Mostoles,206478
+Spain,Alcala de Henares,204574
+Spain,Pamplona,198491
+Spain,Fuenlabrada,197836
+Spain,Almeria,188810
+Spain,Leganes,186066
+Spain,San Sebastian,185357
+Spain,Sants-Montjuic,183120
+Spain,Santander,182700
+Spain,Castello de la Plana,180005
+Spain,Burgos,178966
+Spain,Albacete,169716
+Spain,Horta-Guinardo,168092
+Spain,Alcorcon,167967
+Spain,Getafe,167164
+Spain,Nou Barris,166310
+Spain,Hortaleza,161661
+Spain,San Blas-Canillejas,157367
+Spain,Salamanca,155619
+Spain,Tetuan de las Victorias,155000
+Spain,Logrono,152107
+Spain,La Laguna,150661
+Spain,City Center,149718
+Spain,Huelva,148806
+Spain,Arganzuela,148797
+Spain,Badajoz,148334
+Spain,Sarria-Sant Gervasi,147912
+Spain,Sant Andreu,147732
+Spain,Salamanca,147707
+Spain,Chamberi,145934
+Spain,Usera,141189
+Spain,Tarragona,140323
+Spain,Chamartin,140000
+Spain,Lleida,135919
+Spain,Marbella,134623
+Spain,Leon,134305
+Uganda,Kampala,1353189
+Uganda,Gulu,146858
+Uganda,Lira,119323
+Uganda,Mbarara,97500
+Uganda,Jinja,93061
+Uganda,Bwizibwera,79157
+Uganda,Mbale,76493
+Uganda,Mukono,67290
+Uganda,Kasese,67269
+Uganda,Masaka,65373
+Uganda,Entebbe,62969
+Uganda,Njeru,61952
+Uganda,Kitgum,56891
+Uganda,Soroti,56400
+Uganda,Arua,55585
+Uganda,Iganga,45024
+Uganda,Kabale,43500
+Uganda,Busia,43200
+Uganda,Fort Portal,42670
+Uganda,Mityana,41131
+Uganda,Tororo,40400
+Uganda,Hoima,39625
+Uganda,Lugazi,35036
+Uganda,Masindi,31486
+Uganda,Ibanda,31000
+Uganda,Pallisa,30745
+Uganda,Nyachera,30509
+Uganda,Nebbi,30354
+Uganda,Adjumani,28700
+Uganda,Paidha,28348
+Uganda,Luwero,28338
+Uganda,Wobulenzi,24415
+Uganda,Yumbe,24300
+Uganda,Namasuba,22507
+Uganda,Bugiri,22500
+Uganda,Kayunga,21704
+Uganda,Wakiso,20530
+Uganda,Mubende,18936
+Uganda,Kotido,18800
+Uganda,Moyo,18800
+Uganda,Kyenjojo,18600
+Uganda,Kireka,17947
+Uganda,Kamwenge,17169
+Uganda,Bundibugyo,16919
+Uganda,Ntungamo,16915
+Uganda,Busembatia,15889
+Uganda,Ntungamo,15300
+Uganda,Buwenge,15130
+Argentina,Buenos Aires,13076300
+Argentina,Cordoba,1428214
+Argentina,Rosario,1173533
+Argentina,Mendoza,876884
+Argentina,San Miguel de Tucuman,781023
+Argentina,La Plata,694167
+Argentina,Mar del Plata,553935
+Argentina,Salta,512686
+Argentina,Santa Fe,489505
+Argentina,San Juan,447048
+Argentina,Resistencia,387158
+Argentina,Santiago del Estero,354692
+Argentina,Corrientes,339067
+Argentina,Posadas,323739
+Argentina,Moron,319934
+Argentina,San Salvador de Jujuy,305891
+Argentina,Bahia Blanca,276546
+Argentina,Parana,262295
+Argentina,Neuquen,242092
+Argentina,Quilmes,230000
+Argentina,Pilar,226517
+Argentina,Formosa,221383
+Argentina,San Fernando del Valle de Catamarca,188812
+Argentina,San Luis,183982
+Argentina,Berazategui,167498
+Argentina,La Rioja,162620
+Argentina,Rio Cuarto,153757
+Argentina,Balvanera,152198
+Argentina,Concordia,145210
+Argentina,Comodoro Rivadavia,140850
+Argentina,Belgrano,138942
+Argentina,San Nicolas de los Arroyos,127742
+Argentina,Villa Lugano,114000
+Argentina,Santa Rosa,111424
+Argentina,San Rafael,109163
+Argentina,Tandil,104325
+Argentina,Villa Mercedes,96781
+Argentina,San Carlos de Bariloche,95394
+Argentina,Trelew,93442
+Argentina,Villa Maria,92453
+Argentina,Reconquista,90184
+Argentina,Zarate,88781
+Argentina,Rafaela,88713
+Argentina,Pergamino,87652
+Argentina,Olavarria,86320
+Argentina,Rio Gallegos,85700
+Argentina,Junin,85007
+Argentina,San Martin,82549
+Argentina,Presidencia Roque Saenz Pena,81879
+Argentina,Lujan,81749
+Argentina,Campana,81612
+Argentina,Necochea,80478
+Argentina,Gualeguaychu,78676
+Argentina,Barracas,77474
+Argentina,Cipolletti,75078
+Argentina,Gobernador Galvez,74650
+Argentina,San Ramon de la Nueva Oran,74059
+Argentina,Chimbas,73829
+Argentina,General Roca,73212
+Argentina,Venado Tuerto,72340
+Argentina,Goya,70245
+Argentina,Villa Carlos Paz,69451
+Argentina,Concepcion del Uruguay,67895
+Argentina,Puerto Madryn,64555
+Argentina,Tartagal,60819
+Argentina,Santo Tome,59072
+Argentina,San Francisco,59062
+Argentina,San Pedro de Jujuy,58430
+Argentina,Ushuaia,58028
+Argentina,Punta Alta,57209
+Algeria,Algiers,1977663
+Algeria,Boumerdas,786499
+Algeria,Oran,645984
+Algeria,Tebessa,634332
+Algeria,Constantine,450097
+Algeria,Biskra,307987
+Algeria,Setif,288461
+Algeria,Batna,280798
+Algeria,Bab Ezzouar,275630
+Algeria,Annaba,206570
+Algeria,Sidi Bel Abbes,191769
+Algeria,Blida,182447
+Algeria,Tiaret,178915
+Algeria,Chlef,178616
+Algeria,Bordj Bou Arreridj,168346
+Algeria,Ech Chettia,167955
+Algeria,Bejaia,164103
+Algeria,Skikda,162702
+Algeria,El Achir,158333
+Algeria,Souk Ahras,156745
+Algeria,Djelfa,154265
+Algeria,Mascara,150000
+Algeria,Jijel,148000
+Algeria,Medea,147707
+Algeria,Tizi Ouzou,144000
+Algeria,Bechar,143382
+Algeria,El Oued,134699
+Algeria,Tlemcen,132341
+Algeria,Relizane,130094
+Algeria,Mostaganem,130000
+Algeria,Ouargla,129402
+Algeria,El Eulma,128351
+Algeria,Saida,127497
+Algeria,Guelma,123590
+Algeria,Bordj el Kiffan,123246
+Algeria,Ain Oussera,118687
+Algeria,Khenchela,117000
+Algeria,Laghouat,113872
+Algeria,Ain Beida,105765
+Algeria,Baraki,105402
+Algeria,Oum el Bouaghi,100821
+Algeria,M'Sila,100000
+Algeria,Messaad,99485
+Algeria,Barika,98846
+Algeria,Ghardaia,93423
+Algeria,Beni Mered,92749
+Algeria,Aflou,84683
+Algeria,El Khroub,83746
+Algeria,Rouissat,80784
+Algeria,Berrouaghia,80573
+Algeria,Ksar el Boukhari,77166
+Algeria,Khemis Miliana,75865
+Algeria,Azzaba,75317
+Algeria,Tamanrasset,73128
+Algeria,Ain Touta,72280
+Algeria,Cheria,72095
+Algeria,Birkhadem,71722
+Algeria,Chelghoum el Aid,71660
+Algeria,Sidi Aissa,69740
+Algeria,Larbaa,69298
+Algeria,Mila,68831
+Algeria,Bir el Ater,68703
+Algeria,Sougueur,68654
+Algeria,Ain Fakroun,68433
+Algeria,Tolga,68246
+Algeria,Es Senia,68084
+Algeria,Bir el Djir,68032
+Algeria,Akbou,66654
+Algeria,Besbes,66287
+Algeria,El Bayadh,64632
+Sudan,Khartoum,1974647
+Sudan,Omdurman,1200000
+Sudan,Nyala,565734
+Sudan,Port Sudan,489725
+Sudan,Kassala,401477
+Sudan,El Obeid,393311
+Sudan,Al Qadarif,363945
+Sudan,Kosti,345068
+Sudan,Wad Medani,332714
+Sudan,El Daein,264734
+Sudan,El Fasher,252609
+Sudan,Singa,250000
+Sudan,Ad-Damazin,186051
+Sudan,Geneina,162981
+Sudan,Rabak,135281
+Sudan,Sinnar,130122
+Sudan,Al Manaqil,128297
+Sudan,Gereida,120000
+Sudan,An Nuhud,108008
+Sudan,Atbara,107930
+Sudan,Ed Damer,103941
+Sudan,Kadugli,87666
+Sudan,Ad Douiem,87068
+Sudan,Umm Ruwaba,55742
+Sudan,Shendi,53568
+Sudan,Dilling,37113
+Sudan,As Suki,33524
+Sudan,Ar Ruseris,28862
+Sudan,Al Hasaheisa,28735
+Sudan,Maiurno,28727
+Sudan,Zalingei,28687
+Sudan,Sawakin,28570
+Sudan,Tandalti,27275
+Sudan,Ar Rahad,26273
+Sudan,Kinana,26233
+Sudan,Al Hawatah,24513
+Sudan,Berber,22395
+Sudan,Tokar,22250
+Sudan,Abu Jibeha,21790
+Sudan,Al Mijlad,19997
+Sudan,Doka,19821
+Sudan,Kuraymah,19593
+Sudan,El Bauga,19141
+Sudan,Al Qitena,18321
+Sudan,Al Hilaliyya,17345
+Sudan,Barah,16969
+Sudan,Abu Zabad,15304
+Sudan,Ad Dindar,15144
+Ukraine,Kyiv,2797553
+Ukraine,Kharkiv,1430885
+Ukraine,Dnipro,1032822
+Ukraine,Donetsk,1024700
+Ukraine,Odessa,1001558
+Ukraine,Zaporizhia,796217
+Ukraine,Lviv,717803
+Ukraine,Kryvyi Rih,652380
+Ukraine,Mykolayiv,510840
+Ukraine,Mariupol,481626
+Ukraine,Luhansk,452000
+Ukraine,Sevastopol,416263
+Ukraine,Khmelnytskyi,398346
+Ukraine,Makiyivka,376610
+Ukraine,Vinnytsia,352115
+Ukraine,Simferopol,336460
+Ukraine,Kherson,320477
+Ukraine,Poltava,317847
+Ukraine,Chernihiv,307684
+Ukraine,Cherkasy,297568
+Ukraine,Sumy,294456
+Ukraine,Zhytomyr,282192
+Ukraine,Horlivka,278550
+Ukraine,Rivne,255106
+Ukraine,Kropyvnytskyi,249454
+Ukraine,Kamianske,248575
+Ukraine,Chernivtsi,236250
+Ukraine,Ternopil,235676
+Ukraine,Kremenchuk,227494
+Ukraine,Lutsk,213661
+Ukraine,Ivano-Frankivsk,204200
+Ukraine,Bila Tserkva,199163
+Ukraine,Kramators'k,173700
+Ukraine,Melitopol,158000
+Ukraine,Kerch,148932
+Ukraine,Nikopol,130500
+Ukraine,Syevyerodonets'k,130000
+Ukraine,Sloviansk,124800
+Ukraine,Berdyansk,118284
+Ukraine,Uzhgorod,117878
+Ukraine,Alchevs'k,116000
+Ukraine,Pavlohrad,115932
+Ukraine,Lysychans'k,111600
+Ukraine,Yevpatoriya,106202
+Ukraine,Yenakiyeve,104101
+Ukraine,Oleksandriya,103000
+Ukraine,Kamianets-Podilskyi,100000
+Ukraine,Konotop,91798
+Ukraine,Kostyantynivka,91259
+Ukraine,Krasnyy Luch,90005
+Ukraine,Brovary,88506
+Ukraine,Uman,87658
+Ukraine,Berdychiv,86250
+Ukraine,Shostka,85432
+Ukraine,Kadiyivka,84425
+Ukraine,Chervonohrad,83000
+Ukraine,Izmayil,82485
+Ukraine,Mukacheve,81633
+Ukraine,Bakhmut,80500
+Ukraine,Drohobych,79406
+Ukraine,Yalta,77003
+Ukraine,Nizhyn,75499
+Ukraine,Novomoskovs'k,73100
+Ukraine,Shakhtars'k,71700
+Ukraine,Pervomays'k,70746
+Ukraine,Feodosiya,68562
+Ukraine,Pokrovsk,68263
+Ukraine,Chystyakove,68037
+Ukraine,Sverdlovs'k,68000
+Ukraine,Kalush,67698
+Iraq,Baghdad,7216000
+Iraq,Basrah,2600000
+Iraq,Al Mawsil al Jadidah,2065597
+Iraq,Al Basrah al Qadimah,2015483
+Iraq,Mosul,1739800
+Iraq,Erbil,932800
+Iraq,Abu Ghurayb,900000
+Iraq,As Sulaymaniyah,723170
+Iraq,Kirkuk,601433
+Iraq,Najaf,482576
+Iraq,Karbala,434450
+Iraq,Nasiriyah,400249
+Iraq,Al 'Amarah,323302
+Iraq,Ad Diwaniyah,318801
+Iraq,Al Kut,315162
+Iraq,Al Hillah,289709
+Iraq,Dihok,284000
+Iraq,Ramadi,274539
+Iraq,Al Fallujah,190159
+Iraq,Samarra',158508
+Iraq,As Samawah,152890
+Iraq,Baqubah,152550
+Iraq,Sinah,128776
+Iraq,Az Zubayr,122676
+Iraq,Kufa,110000
+Iraq,Umm Qasr,107620
+Iraq,Al Faw,104569
+Iraq,Zaxo,95052
+Iraq,Al Harithah,92395
+Iraq,Ash Shatrah,82732
+Iraq,Al Hayy,78272
+Iraq,Jamjamal,75634
+Iraq,Khalis,70046
+Iraq,Tozkhurmato,59886
+Iraq,Ash Shamiyah,57661
+Iraq,Al Hindiyah,57490
+Iraq,Halabjah,57333
+Iraq,Al Miqdadiyah,50698
+Iraq,Al-Hamdaniya,50000
+Iraq,Ar Rumaythah,47248
+Iraq,Koysinceq,44987
+Iraq,Al 'Aziziyah,44751
+Iraq,Al Musayyib,42901
+Iraq,Tikrit,42477
+Iraq,As Suwayrah,42354
+Iraq,Balad,42088
+Iraq,Sinjar,38294
+Iraq,Imam Qasim,36992
+Iraq,Bayji,36454
+Iraq,Hit,31901
+Iraq,Hadithah,30925
+Iraq,Nahiyat Ghammas,30909
+Iraq,Nahiyat Saddat al Hindiyah,30622
+Iraq,Kifri,30143
+Iraq,Mandali,29785
+Iraq,Baynjiwayn,27116
+Iraq,'Anah,27000
+Iraq,Ad Dujayl,26362
+Iraq,Batufe,26000
+Iraq,Tallkayf,23524
+Iraq,Al Mishkhab,23189
+Iraq,'Aqrah,23000
+Iraq,Ruwandiz,22943
+Iraq,Nahiyat ash Shinafiyah,22643
+Iraq,Ar Rutbah,22370
+Iraq,'Afak,21888
+Iraq,Nahiyat al Fuhud,21551
+Iraq,'Anat al Qadimah,19719
+Iraq,'Ali al Gharbi,19711
+Afghanistan,Kabul,3043532
+Afghanistan,Kandahar,391190
+Afghanistan,Mazar-e Sharif,303282
+Afghanistan,Herat,272806
+Afghanistan,Jalalabad,200331
+Afghanistan,Kunduz,161902
+Afghanistan,Ghazni,141000
+Afghanistan,Balkh,114883
+Afghanistan,Baghlan,108449
+Afghanistan,Gardez,103601
+Afghanistan,Khost,96123
+Afghanistan,Maymana,75900
+Afghanistan,Khanabad,71531
+Afghanistan,Bazarak,65000
+Afghanistan,Khulm,64933
+Afghanistan,Taloqan,64256
+Afghanistan,Bamyan,61863
+Afghanistan,Pul-e Khumri,56369
+Afghanistan,Shibirghan,55641
+Afghanistan,Charikar,53676
+Afghanistan,Sar-e Pul,52121
+Afghanistan,Zaranj,49851
+Afghanistan,Paghman,49157
+Afghanistan,Asadabad,48400
+Afghanistan,Aibak,47823
+Afghanistan,Fayzabad,44421
+Afghanistan,Lashkar Gah,43934
+Afghanistan,Gereshk,43588
+Afghanistan,Farah,43561
+Afghanistan,Ghormach,30000
+Afghanistan,Shindand,29264
+Afghanistan,Andkhoy,29208
+Afghanistan,Rustaq,25636
+Afghanistan,Qarawul,24544
+Afghanistan,Nahrin,22363
+Afghanistan,Baraki Barak,22305
+Afghanistan,Art Khwajah,18623
+Afghanistan,Kafir Qala,18086
+Afghanistan,Karukh,17484
+Afghanistan,Mehtar Lam,17345
+Afghanistan,Kushk,16952
+Afghanistan,Shahrak,15967
+Afghanistan,Asmar,15708
+Afghanistan,Sang-e Charak,15377
+Afghanistan,Khash,15133
+Afghanistan,Markaz-e Woluswali-ye Achin,15098
+Afghanistan,Jabal os Saraj,15032
+Afghanistan,Qarqin,15018
+Poland,Warsaw,1702139
+Poland,Lodz,768755
+Poland,Krakow,755050
+Poland,Wroclaw,634893
+Poland,Poznan,570352
+Poland,Gdansk,461865
+Poland,Szczecin,407811
+Poland,Bydgoszcz,366452
+Poland,Lublin,360044
+Poland,Katowice,317316
+Poland,Bialystok,291855
+Poland,Gdynia,253730
+Poland,Czestochowa,248125
+Poland,Sosnowiec,227295
+Poland,Radom,226794
+Poland,Mokotow,212670
+Poland,Torun,208717
+Poland,Kielce,208598
+Poland,Gliwice,198835
+Poland,Zabrze,192177
+Poland,Bytom,189186
+Poland,Praga Poludnie,187845
+Poland,Bielsko-Biala,176515
+Poland,Olsztyn,171803
+Poland,Rzeszow,158382
+Poland,Ursynow,147676
+Poland,Ruda Slaska,146189
+Poland,Wola,143996
+Poland,Rybnik,142510
+Poland,Bielany,134854
+Poland,Srodmiescie,134306
+Poland,Dabrowa Gornicza,130601
+Poland,Tychy,130000
+Poland,Opole,127676
+Poland,Elblag,127558
+Poland,Plock,127474
+Poland,Walbrzych,127431
+Poland,Gorzow Wielkopolski,124430
+Poland,Targowek,124316
+Poland,Wloclawek,120339
+Poland,Zielona Gora,118433
+Poland,Tarnow,117799
+Poland,Chorzow,113430
+Poland,Kalisz,108759
+Poland,Koszalin,107450
+Poland,Legnica,106033
+Poland,Bemowo,102393
+Poland,Grudziadz,99486
+Poland,Slupsk,98608
+Poland,Jaworzno,96541
+Poland,Jastrzebie Zdroj,95813
+Poland,Ochota,93192
+Poland,Praga Polnoc,93192
+Poland,Bialoleka,89324
+Poland,Jelenia Gora,87310
+Poland,Nowy Sacz,84376
+Poland,Konin,81258
+Poland,Piotrkow Trybunalski,80128
+Poland,Inowroclaw,77597
+Poland,Lubin,77532
+Poland,Siedlce,77185
+Poland,Pila,75532
+Poland,Myslowice,75281
+Poland,Ostrowiec Swietokrzyski,73989
+Poland,Siemianowice Slaskie,73121
+Poland,Ostrow Wielkopolski,72898
+Poland,Stargard,71224
+Poland,Pabianice,70542
+Poland,Gniezno,70269
+Poland,Fordon,70000
+Canada,Toronto,2600000
+Canada,Montreal,1600000
+Canada,Calgary,1019942
+Canada,Ottawa,812129
+Canada,Edmonton,712391
+Canada,Mississauga,668549
+Canada,North York,636000
+Canada,Winnipeg,632063
+Canada,Scarborough,600000
+Canada,Vancouver,600000
+Canada,Quebec,528595
+Canada,Hamilton,519949
+Canada,Brampton,433806
+Canada,Surrey,394976
+Canada,Laval,376845
+Canada,Halifax,359111
+Canada,Etobicoke,347948
+Canada,London,346765
+Canada,Okanagan,297601
+Canada,Victoria,289625
+Canada,Windsor,278013
+Canada,Markham,261573
+Canada,Oshawa,247989
+Canada,Gatineau,242124
+Canada,Vaughan,238866
+Canada,Kitchener,233700
+Canada,Longueuil,229330
+Canada,Burnaby,202799
+Canada,Ladner,200000
+Canada,Saskatoon,198958
+Canada,Richmond Hill,185541
+Canada,Barrie,182041
+Canada,Richmond,182000
+Canada,Nepean,180000
+Canada,Regina,176183
+Canada,Oakville,165697
+Canada,Burlington,164415
+Canada,Greater Sudbury,157857
+Canada,Abbotsford,151683
+Canada,Saguenay,143692
+Canada,St. Catharines,131989
+Canada,Sherbrooke,129447
+Canada,Anmore,126456
+Canada,Levis,126396
+Canada,Kelowna,125109
+Canada,Cambridge,120372
+Canada,Trois-Rivieres,119693
+Canada,Guelph,115760
+Canada,East York,115365
+Canada,Coquitlam,114565
+Canada,Kingston,114195
+Canada,Sydney,105968
+Canada,Delta,101668
+Canada,Dartmouth,101343
+Canada,Thunder Bay,99334
+Canada,St. John's,99182
+Canada,Waterloo,97475
+Canada,Terrebonne,94703
+Canada,Ajax,90167
+Canada,Saint John,87857
+Canada,Pickering,87838
+Canada,Brantford,87759
+Canada,Moncton,87467
+Canada,Nanaimo,84905
+Canada,Milton,84362
+Canada,Sarnia,82998
+Canada,Niagara Falls,82000
+Canada,Willowdale,79440
+Canada,Saint-Laurent,77391
+Canada,Chilliwack,77000
+Morocco,Casablanca,3144909
+Morocco,Rabat,1655753
+Morocco,Fes,964891
+Morocco,Sale,903485
+Morocco,Marrakesh,839296
+Morocco,Agadir,698310
+Morocco,Tangier,688356
+Morocco,Meknes,545705
+Morocco,Oujda-Angad,405253
+Morocco,Al Hoceima,395644
+Morocco,Kenitra,366570
+Morocco,Tetouan,326261
+Morocco,Temara,313510
+Morocco,Safi,288163
+Morocco,Mohammedia,187708
+Morocco,Khouribga,167673
+Morocco,Beni Mellal,166399
+Morocco,Fes al Bali,156000
+Morocco,El Jadid,147549
+Morocco,Taza,141890
+Morocco,Nador,129260
+Morocco,Settat,119082
+Morocco,Larache,109294
+Morocco,Ksar El Kebir,108753
+Morocco,Khemisset,106991
+Morocco,Guelmim,98229
+Morocco,Berrechid,93954
+Morocco,Errachidia,92374
+Morocco,Oued Zem,84910
+Morocco,Al Fqih Ben Calah,84072
+Morocco,Taourirt,82518
+Morocco,Berkane,80721
+Morocco,Sidi Slimane,79437
+Morocco,Sidi Qacem,74755
+Morocco,Khenifra,73906
+Morocco,Ifrane,73782
+Morocco,Taroudant,71133
+Morocco,Essaouira,70634
+Morocco,Tiflet,70010
+Morocco,Oulad Teima,66832
+Morocco,Sefrou,65150
+Morocco,Youssoufia,64910
+Morocco,Tan-Tan,61924
+Morocco,Ouezzane,58684
+Morocco,Guercif,57544
+Morocco,Ouarzazat,57245
+Morocco,Tirhanimine,55827
+Morocco,Dakhla,55618
+Morocco,Tiznit,55092
+Morocco,Fnidek,53559
+Morocco,Azrou,48249
+Morocco,Midelt,45159
+Morocco,Skhirate,44850
+Morocco,Souq Larb'a al Gharb,44059
+Morocco,Jerada,43696
+Morocco,Smara,42056
+Morocco,Kasba Tadla,41199
+Morocco,Sidi Bennour,40044
+Morocco,Imzouren,40000
+Morocco,Martil,39738
+Morocco,Azemmour,37140
+Morocco,Tinghir,36795
+Morocco,Chefchaouene,36280
+Morocco,Al Aaroui,36021
+Morocco,El Aioun,35196
+Morocco,Zagora,35154
+Morocco,Taounate,32802
+Morocco,Sidi Yahia El Gharb,32202
+Morocco,Zaio,30008
+Morocco,Asilah,28861
+Saudi Arabia,Riyadh,4205961
+Saudi Arabia,Jeddah,2867446
+Saudi Arabia,Mecca,1323624
+Saudi Arabia,Medina,1300000
+Saudi Arabia,Sultanah,946697
+Saudi Arabia,Dammam,768602
+Saudi Arabia,Ta'if,530848
+Saudi Arabia,Tabuk,455450
+Saudi Arabia,Al Kharj,425300
+Saudi Arabia,Buraydah,391336
+Saudi Arabia,Khamis Mushait,387553
+Saudi Arabia,Al Hufuf,293179
+Saudi Arabia,Al Mubarraz,290802
+Saudi Arabia,Hafar Al-Batin,271642
+Saudi Arabia,Ha'il,267005
+Saudi Arabia,Najran,258573
+Saudi Arabia,Al Jubayl,237274
+Saudi Arabia,Abha,210886
+Saudi Arabia,Yanbu,200161
+Saudi Arabia,Khobar,165799
+Saudi Arabia,Arar,148540
+Saudi Arabia,Sakakah,128332
+Saudi Arabia,Jizan,105198
+Saudi Arabia,Qurayyat,102903
+Saudi Arabia,Dhahran,99540
+Saudi Arabia,Al Qatif,98259
+Saudi Arabia,Al Bahah,88419
+Saudi Arabia,Tarut,85371
+Saudi Arabia,Qal`at Bishah,81828
+Saudi Arabia,Ar Rass,81728
+Saudi Arabia,Ash Shafa,72190
+Saudi Arabia,Sayhat,66702
+Saudi Arabia,Al Mithnab,60870
+Saudi Arabia,Al Khafji,54857
+Saudi Arabia,Ad Dawadimi,54474
+Saudi Arabia,Sabya,54108
+Saudi Arabia,Az Zulfi,53144
+Saudi Arabia,Abu `Arish,49171
+Saudi Arabia,Safwa,45876
+Saudi Arabia,Afif,45525
+Saudi Arabia,Rabigh,41759
+Saudi Arabia,Rahimah,41188
+Saudi Arabia,Turaif,40819
+Saudi Arabia,Tubarjal,40019
+Saudi Arabia,Ad Dilam,35371
+Saudi Arabia,Umm Lajj,33874
+Saudi Arabia,Al-`Ula,32413
+Saudi Arabia,Abqaiq,29474
+Saudi Arabia,Badr Hunayn,27257
+Saudi Arabia,Samitah,26945
+Saudi Arabia,Al Wajh,26636
+Saudi Arabia,Al Bukayriyah,25153
+Saudi Arabia,An Nimas,24153
+Saudi Arabia,As Sulayyil,24097
+Saudi Arabia,Turabah,23235
+Saudi Arabia,Al Jumum,22207
+Saudi Arabia,Duba,22000
+Saudi Arabia,At Taraf,21386
+Saudi Arabia,Qaisumah,20685
+Saudi Arabia,Al Battaliyah,16606
+Saudi Arabia,Al Munayzilah,16296
+Uzbekistan,Tashkent,1978028
+Uzbekistan,Namangan,432456
+Uzbekistan,Samarkand,319366
+Uzbekistan,Andijon,318419
+Uzbekistan,Bukhara,247644
+Uzbekistan,Nukus,230006
+Uzbekistan,Qarshi,222898
+Uzbekistan,Qo`qon,187477
+Uzbekistan,Chirchiq,167842
+Uzbekistan,Fergana,164322
+Uzbekistan,Jizzax,152642
+Uzbekistan,Urganch,150110
+Uzbekistan,Tirmiz,140385
+Uzbekistan,Marg`ilon,133490
+Uzbekistan,Navoiy,129725
+Uzbekistan,Angren,126957
+Uzbekistan,Olmaliq,121207
+Uzbekistan,Bekobod,86259
+Uzbekistan,Denov,68994
+Uzbekistan,Chust,64966
+Uzbekistan,Kogon,62620
+Uzbekistan,Yangiyul,60000
+Uzbekistan,Koson,59681
+Uzbekistan,Kattaqo`rg`on,59382
+Uzbekistan,Oltinko`l,59122
+Uzbekistan,Shahrisabz,57051
+Uzbekistan,Asaka,56736
+Uzbekistan,Khiwa,55567
+Uzbekistan,Guliston,53373
+Uzbekistan,Beruniy,50929
+Uzbekistan,Khujayli,50000
+Uzbekistan,Chortoq,49844
+Uzbekistan,Novyy Turtkul',48908
+Uzbekistan,Urgut,47373
+Uzbekistan,Kosonsoy,43684
+Uzbekistan,Kitob,41938
+Uzbekistan,Ghijduwon,41070
+Uzbekistan,Oqtosh,38307
+Uzbekistan,Parkent,35973
+Uzbekistan,Ohangaron,35516
+Uzbekistan,Uchqurghon Shahri,33323
+Uzbekistan,Quva,33167
+Uzbekistan,Yangiyer,32636
+Uzbekistan,Quvasoy,32024
+Uzbekistan,Manghit,30854
+Uzbekistan,Uychi,29683
+Uzbekistan,Nurota,29403
+Uzbekistan,Muborak,29180
+Uzbekistan,Toshbuloq,28562
+Uzbekistan,Yangiqo`rg`on,28422
+Uzbekistan,Piskent,27865
+Uzbekistan,To`rqao`rg`on,27862
+Uzbekistan,Qibray,27750
+Uzbekistan,Iskandar,27636
+Uzbekistan,Gurlan,27506
+Uzbekistan,Zomin,27077
+Uzbekistan,Showot,26950
+Uzbekistan,Sirdaryo,26816
+Uzbekistan,Bulung'ur,26815
+Uzbekistan,Toshloq,26686
+Uzbekistan,Shofirkon,26527
+Uzbekistan,Salor,26494
+Uzbekistan,Bektemir,26380
+Uzbekistan,Haqqulobod,26257
+Uzbekistan,Qo`rg`ontepa,25861
+Uzbekistan,Oltiariq,25543
+Uzbekistan,G`uzor,25368
+Uzbekistan,Boysun,25050
+Uzbekistan,Yangirabot,25027
+Uzbekistan,Yangiobod,24900
+Peru,Lima,7737002
+Peru,Arequipa,841130
+Peru,Callao,813264
+Peru,Trujillo,747450
+Peru,Chiclayo,577375
+Peru,Iquitos,437620
+Peru,Huancayo,376657
+Peru,Piura,325466
+Peru,Chimbote,316966
+Peru,Cusco,312140
+Peru,Pucallpa,310750
+Peru,Tacna,280098
+Peru,Santiago de Surco,251648
+Peru,Ica,246844
+Peru,Juliaca,245675
+Peru,Sullana,160789
+Peru,Chincha Alta,153076
+Peru,Huanuco,147959
+Peru,Ayacucho,140033
+Peru,Cajamarca,135000
+Peru,Puno,116552
+Peru,Tumbes,109223
+Peru,Talara,99074
+Peru,Chosica,88606
+Peru,Huaraz,86934
+Peru,Cerro de Pasco,78910
+Peru,Chulucanas,68835
+Peru,San Isidro,68309
+Peru,Huaral,62174
+Peru,Pisco,61869
+Peru,Catacaos,57304
+Peru,Paita,56151
+Peru,Abancay,55111
+Peru,Huacho,54545
+Peru,Moquegua,54517
+Peru,Ilo,53476
+Peru,Tingo Maria,53177
+Peru,Jaen,52493
+Peru,Tarma,51350
+Peru,Barranca,46290
+Peru,Moyobamba,44276
+Peru,Lambayeque,43710
+Peru,Picsi,43610
+Peru,Chepen,41992
+Peru,Yurimaguas,41827
+Peru,Huancavelica,41576
+Peru,Sana,39200
+Peru,Tambopata,38966
+Peru,Juanjui,37715
+Peru,Puerto Maldonado,37543
+Peru,La Union,34834
+Peru,Ferrenafe,34357
+Peru,Sicuani,33575
+Peru,La Oroya,33345
+Peru,Chocope,32370
+Peru,Nuevo Imperial,32344
+Peru,Imperial,32344
+Peru,Tambo Grande,30033
+Peru,La Rinconada,29678
+Peru,Pacasmayo,29165
+Peru,Tocache,29029
+Peru,Mollendo,28953
+Peru,Chaupimarca,28666
+Peru,Paramonga,27631
+Peru,La Peca,27045
+Peru,Chancay,26958
+Peru,Hualmay,26658
+Peru,Monsefu,25707
+Peru,Marcavelica,25645
+Peru,San Vicente de Canete,25517
+Angola,Luanda,2776168
+Angola,N'dalatando,383100
+Angola,Huambo,226145
+Angola,Lobito,207932
+Angola,Benguela,151226
+Angola,Cuito,113624
+Angola,Lubango,102541
+Angola,Malanje,87046
+Angola,Namibe,80149
+Angola,Soio,67491
+Angola,Cabinda,66020
+Angola,Uige,60008
+Angola,Saurimo,40498
+Angola,Sumbe,33277
+Angola,Menongue,32203
+Angola,Caxito,28224
+Angola,Longonjo,24346
+Angola,Mbanza Congo,24220
+Angola,Caala,21205
+Angola,Luena,21115
+Angola,Lucapa,20115
+Angola,Camacupa,19150
+Angola,Catabola,18855
+Angola,Luau,18465
+Angola,N'zeto,18352
+Angola,Catumbela,16977
+Malaysia,Kota Bharu,1459994
+Malaysia,Kuala Lumpur,1453975
+Malaysia,Klang,879867
+Malaysia,Kampung Baru Subang,833571
+Malaysia,Johor Bahru,802489
+Malaysia,Subang Jaya,708296
+Malaysia,Ipoh,673318
+Malaysia,Kuching,570407
+Malaysia,Petaling Jaya,520698
+Malaysia,Shah Alam,481654
+Malaysia,Kota Kinabalu,457326
+Malaysia,Sandakan,392288
+Malaysia,Seremban,372917
+Malaysia,Kuantan,366229
+Malaysia,Tawau,306462
+Malaysia,George Town,300000
+Malaysia,Kuala Terengganu,285065
+Malaysia,Sungai Petani,228843
+Malaysia,Miri,228212
+Malaysia,Taiping,217647
+Malaysia,Alor Setar,217368
+Malaysia,Bukit Mertajam,212329
+Malaysia,Sepang,212050
+Malaysia,Sibu,198239
+Malaysia,Malacca,180671
+Malaysia,Kulim,170889
+Malaysia,Kluang,169828
+Malaysia,Skudai,159733
+Malaysia,Batu Pahat,156236
+Malaysia,Bintulu,151617
+Malaysia,Kampung Pasir Gudang Baru,145639
+Malaysia,Kampung Sungai Ara,140849
+Malaysia,Tasek Glugor,135786
+Malaysia,Muar,127897
+Malaysia,Rawang,120447
+Malaysia,Butterworth,107591
+Malaysia,Lahad Datu,105622
+Malaysia,Semenyih,92491
+Malaysia,Port Dickson,89198
+Malaysia,Cukai,82425
+Malaysia,Putatan,78340
+Malaysia,Keningau,77650
+Malaysia,Ulu Tiram,75350
+Malaysia,Victoria,73653
+Malaysia,Taman Senai,73176
+Malaysia,Donggongon,71585
+Malaysia,Segamat,69816
+Malaysia,Kampong Baharu Balakong,69302
+Malaysia,Perai,65301
+Malaysia,Kangar,63869
+Malaysia,Kulai,63762
+Malaysia,Jitra,63489
+Malaysia,Teluk Intan,63353
+Malaysia,Semporna,62641
+Malaysia,Putra Heights,60000
+Malaysia,Temerluh,59916
+Malaysia,Kampong Dungun,58674
+Malaysia,Simpang Empat,58004
+Malaysia,Kuala Selangor,55887
+Malaysia,Kampung Bukit Baharu,55656
+Malaysia,Bandar Labuan,54752
+Malaysia,Kota Tinggi,52743
+Malaysia,Pontian Kechil,50836
+Malaysia,Putrajaya,50000
+Malaysia,Bentong Town,49213
+Malaysia,Banting,48240
+Malaysia,Bedong,47585
+Malaysia,Batu Gajah,46183
+Malaysia,Mentekab,42171
+Malaysia,Nibong Tebal,40072
+Mozambique,Maputo,1191613
+Mozambique,Matola,675422
+Mozambique,Beira,530604
+Mozambique,Nampula,388526
+Mozambique,Chimoio,256936
+Mozambique,Nacala,224795
+Mozambique,Quelimane,188964
+Mozambique,Tete,129316
+Mozambique,Xai-Xai,127366
+Mozambique,Maxixe,119868
+Mozambique,Mandimba,118922
+Mozambique,Ressano Garcia,110000
+Mozambique,Lichinga,109839
+Mozambique,Pemba,108737
+Mozambique,Dondo,78648
+Mozambique,Antonio Enes,74624
+Mozambique,Inhambane,73884
+Mozambique,Cuamba,73268
+Mozambique,Montepuez,72279
+Mozambique,Chokwe,63695
+Mozambique,Chibuto,59165
+Mozambique,Ilha de Mocambique,54315
+Mozambique,Mutuali,30523
+Mozambique,Mocimboa,27909
+Mozambique,Macia,23156
+Mozambique,Chinde,16500
+Ghana,Accra,1963264
+Ghana,Kumasi,1468609
+Ghana,Tamale,360579
+Ghana,Takoradi,232919
+Ghana,Atsiaman,202932
+Ghana,Tema,155782
+Ghana,Teshi Old Town,144013
+Ghana,Cape Coast,143015
+Ghana,Sekondi-Takoradi,138872
+Ghana,Obuase,137856
+Ghana,Medina Estates,101207
+Ghana,Koforidua,96266
+Ghana,Japekrom,96000
+Ghana,Wa,78107
+Ghana,Ejura,70807
+Ghana,Nungua,70483
+Ghana,Sunyani,70299
+Ghana,Ho,69998
+Ghana,Techiman,69720
+Ghana,Aflao,66546
+Ghana,Berekum,62364
+Ghana,Akim Oda,60604
+Ghana,Bawku,56830
+Ghana,Hohoe,56202
+Ghana,Bolgatanga,54430
+Ghana,Tafo,50457
+Ghana,Swedru,50293
+Ghana,Suhum,49398
+Ghana,Dome,47260
+Ghana,Kintampo,47185
+Ghana,Gbawe,44645
+Ghana,Nsawam,44522
+Ghana,Winneba,44254
+Ghana,Kasoa,44227
+Ghana,Yendi,42972
+Ghana,Mampong,42037
+Ghana,Konongo,41238
+Ghana,Asamankese,39435
+Ghana,Prestea,35155
+Ghana,Tarkwa,34941
+Ghana,Dunkwa,33379
+Ghana,Agogo,31554
+Ghana,Wenchi,31411
+Ghana,Anloga,29748
+Ghana,Begoro,29516
+Ghana,Savelugu,29310
+Ghana,Kpandu,28334
+Ghana,Elmina,25560
+Ghana,Salaga,25472
+Ghana,Navrongo,25470
+Ghana,Saltpond,24689
+Ghana,Axim,24500
+Ghana,Akwatia,23766
+Ghana,Shama Junction,20946
+Ghana,Apam,20147
+Ghana,Foso,20078
+Ghana,Bibiani,19076
+Ghana,Aburi,18399
+Ghana,Keta,18077
+Ghana,Duayaw Nkwanta,17000
+Ghana,Bechem,17000
+Yemen,Sanaa,1937451
+Yemen,Al Hudaydah,617871
+Yemen,Ta`izz,615222
+Yemen,Aden,550602
+Yemen,Mukalla,258132
+Yemen,Ibb,234837
+Yemen,Dhamar,160114
+Yemen,'Amran,90792
+Yemen,Sayyan,69404
+Yemen,Zabid,52590
+Yemen,Sa'dah,51870
+Yemen,Bajil,48218
+Yemen,Hajjah,43549
+Yemen,Dhi as Sufal,37997
+Yemen,Al Bayda,37821
+Yemen,Ataq,37315
+Yemen,Bayt al Faqih,34204
+Yemen,Yarim,33050
+Yemen,Sahar,31859
+Yemen,Lahij,23375
+Yemen,Zinjibar,19879
+Yemen,Al Hazm,18241
+Yemen,Ma'rib,16794
+Nepal,Kathmandu,1442271
+Nepal,Pokhara,200000
+Nepal,Patan,183310
+Nepal,Biratnagar,182324
+Nepal,Birganj,133238
+Nepal,Dharan,108600
+Nepal,Bharatpur,107157
+Nepal,Janakpur,93767
+Nepal,Dhangadhi,92294
+Nepal,Butwal,91733
+Nepal,Mahendranagar,88381
+Nepal,Hetauda,84775
+Nepal,Madhyapur Thimi,83036
+Nepal,Triyuga,71405
+Nepal,Inaruwa,70093
+Nepal,Nepalgunj,64400
+Nepal,Siddharthanagar,63367
+Nepal,Gulariya,53107
+Nepal,Titahari,47984
+Nepal,Panauti,46595
+Nepal,Tikapur,44758
+Nepal,Kirtipur,44632
+Nepal,Tulsipur,39058
+Nepal,Rajbiraj,33061
+Nepal,Lahan,31495
+Nepal,Birendranagar,31381
+Nepal,Panauti,27602
+Nepal,Gaur,27325
+Nepal,Siraha,24657
+Nepal,Tansen,23693
+Nepal,Jaleshwar,23573
+Nepal,Dipayal,23416
+Nepal,Baglung,23296
+Nepal,Khanbari,22903
+Nepal,Dhankuta,22084
+Nepal,Walin,21867
+Nepal,Dailekh,20908
+Nepal,Malangawa,20284
+Nepal,Bhadrapur,19523
+Nepal,Dadeldhura,19014
+Nepal,Darchula,18317
+Nepal,Ilam,17491
+Nepal,Banepa,17153
+Nepal,Dhulikhel,16263
+Venezuela,Caracas,3000000
+Venezuela,Maracaibo,2225000
+Venezuela,Maracay,1754256
+Venezuela,Valencia,1385083
+Venezuela,Barquisimeto,809490
+Venezuela,Ciudad Guayana,746535
+Venezuela,Barcelona,424795
+Venezuela,Maturin,410972
+Venezuela,Puerto La Cruz,370000
+Venezuela,Petare,364684
+Venezuela,Barinas,353442
+Venezuela,Turmero,344700
+Venezuela,Ciudad Bolivar,338000
+Venezuela,Merida,300000
+Venezuela,Alto Barinas,284289
+Venezuela,Santa Teresa del Tuy,278890
+Venezuela,Cumana,257783
+Venezuela,San Cristobal,246583
+Venezuela,Nuestra Senora del Rosario de Baruta,244216
+Venezuela,Mucumpiz,215259
+Venezuela,Cabimas,200818
+Venezuela,Coro,195227
+Venezuela,Guatire,191903
+Venezuela,Cua,182558
+Venezuela,Guarenas,181612
+Venezuela,Puerto Cabello,174000
+Venezuela,Ocumare del Tuy,166072
+Venezuela,Guacara,151752
+Venezuela,El Tigre,150999
+Venezuela,El Limon,148247
+Venezuela,Acarigua,143704
+Venezuela,Los Teques,140617
+Venezuela,Punto Fijo,131784
+Venezuela,Charallave,129182
+Venezuela,Palo Negro,128875
+Venezuela,Cagua,119033
+Venezuela,Anaco,117596
+Venezuela,Calabozo,117132
+Venezuela,Guanare,112286
+Venezuela,Carupano,112082
+Venezuela,Ejido,106915
+Venezuela,Catia La Mar,106822
+Venezuela,Mariara,105486
+Venezuela,Carora,93788
+Venezuela,Valera,93756
+Venezuela,Yaritagua,89662
+Venezuela,Valle de La Pascua,89080
+Venezuela,San Juan de los Morros,87739
+Venezuela,Porlamar,87120
+Venezuela,La Victoria,87045
+Venezuela,Tinaquillo,82145
+Venezuela,El Cafetal,80029
+Venezuela,San Fernando de Apure,78779
+Venezuela,San Carlos,77192
+Venezuela,San Felipe,76766
+Venezuela,Villa de Cura,76614
+Venezuela,Araure,73054
+Venezuela,Guigue,71530
+Venezuela,La Villa del Rosario,65011
+Venezuela,Chacao,64609
+Venezuela,San Antonio de Los Altos,63873
+Venezuela,Machiques,62968
+Venezuela,San Jose de Guanipa,62128
+Venezuela,El Vigia,59092
+Venezuela,Caucaguita,59000
+Venezuela,Punta Cardon,58926
+Venezuela,Los Dos Caminos,58168
+Venezuela,El Hatillo,57591
+Venezuela,La Dolorita,56846
+Venezuela,San Carlos del Zulia,56582
+Madagascar,Antananarivo,1391433
+Madagascar,Toamasina,206373
+Madagascar,Antsirabe,186253
+Madagascar,Fianarantsoa,167227
+Madagascar,Mahajanga,154657
+Madagascar,Toliara,115319
+Madagascar,Antsiranana,82937
+Madagascar,Antanifotsy,70626
+Madagascar,Ambovombe,66818
+Madagascar,Ambilobe,56000
+Madagascar,Amparafaravola,51519
+Madagascar,Tolanaro,45141
+Madagascar,Ambatondrazaka,43134
+Madagascar,Mananara,41209
+Madagascar,Soavinandriana,40453
+Madagascar,Mahanoro,39879
+Madagascar,Soanierana Ivongo,39271
+Madagascar,Faratsiho,37563
+Madagascar,Nosy Varika,37152
+Madagascar,Vavatenina,36916
+Madagascar,Morondava,36803
+Madagascar,Amboasary,36082
+Madagascar,Manakara,35499
+Madagascar,Antalaha,34112
+Madagascar,Ikongo,32374
+Madagascar,Antsohimbondrona,32080
+Madagascar,Manjakandriana,31840
+Madagascar,Sambava,31522
+Madagascar,Fandriana,31437
+Madagascar,Marovoay,31253
+Madagascar,Betioky,31102
+Madagascar,Ambanja,30621
+Madagascar,Ambositra,30353
+Madagascar,Tsiombe,29825
+Madagascar,Betafo,29785
+Madagascar,Moramanga,29212
+Madagascar,Ambatolampy,28461
+Madagascar,Ambalavao,28027
+Madagascar,Sahavato,28000
+Madagascar,Mananjary,27686
+Madagascar,Tsiroanomandidy,27060
+Madagascar,Miandrarivo,27000
+Madagascar,Vohipaho,27000
+Madagascar,Marolambo,26160
+Madagascar,Ambatofinandrahana,25997
+Madagascar,Ankazoabo,25961
+Madagascar,Ampanihy,25686
+Madagascar,Vohibinany,25311
+Madagascar,Ampahana,25000
+Madagascar,Farafangana,24764
+Madagascar,Maevatanana,24000
+Madagascar,Belo sur Tsiribihina,23900
+Madagascar,Maroantsetra,23859
+Madagascar,Vangaindrano,23523
+Madagascar,Beloha,23021
+Madagascar,Hell-Ville,22680
+Madagascar,Ambato Boeny,22529
+Madagascar,Arivonimamo,21982
+Madagascar,Sakaraha,21826
+Madagascar,Antsohihy,21290
+Madagascar,Fenoarivo Atsinanana,21036
+Madagascar,Ampasimanolotra,21000
+Madagascar,Soanindrariny,21000
+Madagascar,Sitampiky,21000
+Madagascar,Andapa,20798
+Madagascar,Miandrivazo,20631
+Madagascar,Vondrozo,19949
+Madagascar,Andilamena,19750
+Madagascar,Fenoarivo Be,19605
+Madagascar,Anjozorobe,19027
+Cameroon,Douala,1338082
+Cameroon,Yaounde,1299369
+Cameroon,Garoua,436899
+Cameroon,Kousseri,435547
+Cameroon,Bamenda,393835
+Cameroon,Maroua,319941
+Cameroon,Bafoussam,290768
+Cameroon,Mokolo,275239
+Cameroon,Ngaoundere,231357
+Cameroon,Bertoua,218111
+Cameroon,Edea,203149
+Cameroon,Loum,177429
+Cameroon,Kumba,144413
+Cameroon,Nkongsamba,117063
+Cameroon,Mbouda,111320
+Cameroon,Dschang,96112
+Cameroon,Foumban,92673
+Cameroon,Ebolowa,87875
+Cameroon,Guider,84647
+Cameroon,Foumbot,84065
+Cameroon,Bafang,80688
+Cameroon,Yagoua,80235
+Cameroon,Mbalmayo,80206
+Cameroon,Meiganga,80100
+Cameroon,Bali,72606
+Cameroon,Limbe,72106
+Cameroon,Bafia,69270
+Cameroon,Wum,68836
+Cameroon,Bangangte,65385
+Cameroon,Tiko,55914
+Cameroon,Kribi,55224
+Cameroon,Mora,55216
+Cameroon,Sangmelima,54251
+Cameroon,Kumbo,53970
+Cameroon,Nkoteng,50334
+Cameroon,Mutengene,47478
+Cameroon,Buea,47300
+Cameroon,Garoua Boulai,46615
+Cameroon,Batouri,43821
+Cameroon,Fundong,43509
+Cameroon,Fontem,42689
+Cameroon,Mbanga,42590
+Cameroon,Banyo,40798
+Cameroon,Manjo,37661
+Cameroon,Melong,37086
+Cameroon,Tibati,35589
+Cameroon,Muyuka,31384
+Cameroon,Obala,30012
+Cameroon,Nanga Eboko,29909
+Cameroon,Penja,28406
+Cameroon,Mbandjok,26947
+Cameroon,Kaele,25199
+Cameroon,Bamusso,24741
+Cameroon,Lagdo,24596
+Cameroon,Tchollire,23187
+Cameroon,Belabo,22553
+Cameroon,Lolodorf,22252
+Cameroon,Eseka,22221
+Cameroon,Mamfe,19472
+Cameroon,Dizangue,19243
+Cameroon,Akonolinga,17181
+Cameroon,Bogo,16952
+Cameroon,Tonga,16036
+Côte d'Ivoire,Abidjan,3677115
+Côte d'Ivoire,Abobo,900000
+Côte d'Ivoire,Bouake,567481
+Côte d'Ivoire,Daloa,215652
+Côte d'Ivoire,San-Pedro,196751
+Côte d'Ivoire,Yamoussoukro,194530
+Côte d'Ivoire,Korhogo,167359
+Côte d'Ivoire,Man,139341
+Côte d'Ivoire,Divo,127867
+Côte d'Ivoire,Gagnoa,123184
+Côte d'Ivoire,Abengourou,104020
+Côte d'Ivoire,Anyama,100653
+Côte d'Ivoire,Agboville,81770
+Côte d'Ivoire,Grand-Bassam,73772
+Côte d'Ivoire,Dabou,69661
+Côte d'Ivoire,Dimbokro,67349
+Côte d'Ivoire,Ferkessedougou,62008
+Côte d'Ivoire,Adzope,61884
+Côte d'Ivoire,Bouafle,60962
+Côte d'Ivoire,Sinfra,59919
+Côte d'Ivoire,Katiola,59641
+Côte d'Ivoire,Bondoukou,58297
+Côte d'Ivoire,Danane,53808
+Côte d'Ivoire,Oume,52070
+Côte d'Ivoire,Seguela,51157
+Côte d'Ivoire,Bingerville,50694
+Côte d'Ivoire,Issia,50313
+Côte d'Ivoire,Odienne,49857
+Côte d'Ivoire,Duekoue,47198
+Côte d'Ivoire,Agnibilekrou,43061
+Côte d'Ivoire,Daoukro,40175
+Côte d'Ivoire,Tengrela,39277
+Côte d'Ivoire,Guiglo,39134
+Côte d'Ivoire,Toumodi,39005
+Côte d'Ivoire,Boundiali,38878
+Côte d'Ivoire,Lakota,38055
+Côte d'Ivoire,Aboisso,37654
+Côte d'Ivoire,Arrah,37432
+Côte d'Ivoire,Bonoua,37312
+Côte d'Ivoire,Akoupe,35970
+Côte d'Ivoire,Tiassale,35090
+Côte d'Ivoire,Zuenoula,34435
+Côte d'Ivoire,Bongouanou,34405
+Côte d'Ivoire,Vavoua,31250
+Côte d'Ivoire,Affery,29909
+Côte d'Ivoire,Touba,27504
+Côte d'Ivoire,Bouna,23570
+Côte d'Ivoire,Sassandra,23274
+Côte d'Ivoire,Beoumi,23053
+Côte d'Ivoire,Biankouma,22868
+Côte d'Ivoire,Tanda,20161
+Côte d'Ivoire,Mankono,19095
+Côte d'Ivoire,Bangolo,17712
+Côte d'Ivoire,Tabou,17134
+Côte d'Ivoire,Adiake,16531
+Côte d'Ivoire,Sakassou,15068
+North Korea,Pyongyang,3222000
+North Korea,Hamhung,559056
+North Korea,Namp'o,455000
+North Korea,Sunch'on,437000
+North Korea,Hungnam,346082
+North Korea,Kaesong,338155
+North Korea,Wonsan,329207
+North Korea,Chongjin,327000
+North Korea,Sariwon,310100
+North Korea,Sinuiju,288112
+North Korea,Haeju,222396
+North Korea,Kanggye,209530
+North Korea,Hyesan,192680
+North Korea,Songnim,152425
+North Korea,Manp'o,116760
+North Korea,P'yongsong,100000
+North Korea,Hyesan-dong,97794
+North Korea,Yuktae-dong,76427
+North Korea,Hongwon,70923
+North Korea,Rajin,66224
+North Korea,Ongjin,64247
+North Korea,Kilju,63652
+North Korea,Chaeryong-up,53330
+North Korea,Anju,50196
+North Korea,Uiju,50081
+North Korea,Hoeryong,43831
+North Korea,Sungho 1-tong,39841
+North Korea,Changyon,39368
+North Korea,Sunan,36671
+North Korea,Hwangju-up,35641
+North Korea,Kyongsong,35604
+North Korea,Aoji-ri,34248
+North Korea,Nanam,34055
+North Korea,Anbyon-up,31845
+North Korea,Kusong,30902
+North Korea,Chongju,29065
+North Korea,Kangdong-up,28922
+North Korea,Sonbong,27331
+North Korea,Iwon-up,26364
+North Korea,Hukkyo-ri,25437
+North Korea,Kosan,24822
+North Korea,Yonan-up,22665
+North Korea,Namyang-dong,22218
+North Korea,Yonggwang-up,21882
+North Korea,Musan-up,21739
+North Korea,Kowon-up,21490
+North Korea,Hoeyang,21111
+North Korea,T'ongch'on-up,20575
+North Korea,Kapsan-up,20406
+North Korea,Anak,19995
+North Korea,Onsong,19806
+North Korea,Kujang-up,19522
+North Korea,Sil-li,19463
+North Korea,Chunghwa,19346
+North Korea,Samho-rodongjagu,19025
+North Korea,Sinmak,18669
+North Korea,Sakchu-up,18001
+North Korea,Ayang-ni,16104
+North Korea,Sinanju,15693
+Australia,Sydney,4627345
+Australia,Melbourne,4246375
+Australia,Brisbane,2189878
+Australia,Perth,1896548
+Australia,Adelaide,1225235
+Australia,Gold Coast,591473
+Australia,Canberra,367752
+Australia,Newcastle,308308
+Australia,Wollongong,292190
+Australia,Logan City,282673
+Australia,Geelong,226034
+Australia,Hobart,216656
+Australia,Townsville,196219
+Australia,Cairns,153075
+Australia,Toowoomba,131258
+Australia,Darwin,129062
+Australia,Rockingham,108022
+Australia,Launceston,106153
+Australia,Bendigo,100617
+Australia,Ballarat,97937
+Australia,Mandurah,83294
+Australia,Mackay,74219
+Australia,Bundaberg,70826
+Australia,Bunbury,68248
+Australia,Maitland,67132
+Australia,Armadale,62296
+Australia,Rockhampton,61724
+Australia,Adelaide Hills,60394
+Australia,South Brisbane,60000
+Australia,Hervey Bay,52230
+Australia,Reservoir,47637
+Australia,Tamworth,47597
+Australia,Wagga Wagga,46913
+Australia,Albury,45627
+Australia,Berwick,44779
+Australia,Port Macquarie,41491
+Australia,Queanbeyan,40661
+Australia,Orange,39329
+Australia,Blacktown,39000
+Australia,Shepparton,38773
+Australia,Caloundra,38706
+Australia,Hoppers Crossing,38108
+Australia,Werribee,37737
+Australia,Melton,35490
+Australia,Castle Hill,35389
+Australia,Saint Albans,35091
+Australia,Nowra,34479
+Australia,Frankston,34457
+Australia,Frankston East,34457
+Australia,Rowville,34145
+Australia,Warrnambool,33982
+Australia,Baulkham Hills,33945
+Australia,Albany,33650
+Australia,Mount Waverley,33611
+Australia,St Albans,33511
+Australia,Auburn,33122
+Australia,Bathurst,33110
+Australia,Pakenham South,32911
+Australia,Point Cook,32413
+Australia,Dubbo,32327
+Australia,Epping,32200
+Australia,Wodonga,31605
+Australia,Kalgoorlie,31107
+Australia,Bankstown,30572
+Australia,Mill Park,30517
+Australia,Gladstone,30489
+Australia,Kwinana,30433
+Australia,Lismore,30086
+Australia,Mildura,30016
+Australia,Preston,29925
+Niger,Niamey,774235
+Niger,Zinder,191424
+Niger,Maradi,163487
+Niger,Agadez,124324
+Niger,Alaghsas,88561
+Niger,Tahoua,80425
+Niger,Dosso,49750
+Niger,Birni N Konni,48103
+Niger,Tessaoua,35775
+Niger,Gaya,33051
+Niger,Dogondoutchi,31767
+Niger,Diffa,27948
+Niger,Ayorou,26290
+Niger,Madaoua,24804
+Niger,Mayahi,22183
+Niger,Tera,21095
+Niger,Mirriah,20724
+Niger,Tibiri,20019
+Niger,Dakoro,19798
+Niger,Magaria,19419
+Niger,Tillaberi,19262
+Niger,Nguigmi,17897
+Niger,Matamey,16844
+Niger,Illela,16678
+Niger,Tanout,15204
+Taiwan,Taipei,7871900
+Taiwan,Kaohsiung,1519711
+Taiwan,Taichung,1040725
+Taiwan,Tainan,771235
+Taiwan,Banqiao,543342
+Taiwan,Hsinchu,404109
+Taiwan,Taoyuan City,402014
+Taiwan,Keelung,397515
+Taiwan,Hualien City,350468
+Taiwan,Yuanlin,124725
+Taiwan,Taitung City,109584
+Taiwan,Nantou,105682
+Taiwan,Douliu,104723
+Taiwan,Yilan,94188
+Taiwan,Puli,86406
+Taiwan,Daxi,84549
+Taiwan,Magong,56435
+Taiwan,Donggang,48100
+Taiwan,Jincheng,37507
+Taiwan,Hengchun,31288
+Taiwan,Zhongxing New Village,25549
+Taiwan,Lugu,19599
+Taiwan,Yujing,16597
+Sri Lanka,Colombo,648034
+Sri Lanka,Dehiwala-Mount Lavinia,219827
+Sri Lanka,Moratuwa,185031
+Sri Lanka,Jaffna,169102
+Sri Lanka,Negombo,137223
+Sri Lanka,Pita Kotte,118179
+Sri Lanka,Sri Jayewardenepura Kotte,115826
+Sri Lanka,Kandy,111701
+Sri Lanka,Trincomalee,108420
+Sri Lanka,Kalmunai,100171
+Sri Lanka,Galle,93118
+Sri Lanka,Point Pedro,89810
+Sri Lanka,Batticaloa,86742
+Sri Lanka,Katunayaka,84643
+Sri Lanka,Valvedditturai,78205
+Sri Lanka,Matara,76254
+Sri Lanka,Battaramulla South,75633
+Sri Lanka,Dambulla,66716
+Sri Lanka,Maharagama,66576
+Sri Lanka,Kotikawatta,64565
+Sri Lanka,Anuradhapura,60943
+Sri Lanka,Vavuniya,60176
+Sri Lanka,Kolonnawa,58076
+Sri Lanka,Hendala,56978
+Sri Lanka,Ratnapura,47832
+Sri Lanka,Badulla,47587
+Sri Lanka,Puttalam,45661
+Sri Lanka,Devinuwara,45000
+Sri Lanka,Welisara,41306
+Sri Lanka,Kalutara,38000
+Sri Lanka,Bentota,37000
+Sri Lanka,Matale,36462
+Sri Lanka,Homagama,34664
+Sri Lanka,Beruwala,34250
+Sri Lanka,Panadura,33735
+Sri Lanka,Mulleriyawa,33540
+Sri Lanka,Kandana,33424
+Sri Lanka,Ja Ela,32175
+Sri Lanka,Wattala,30725
+Sri Lanka,Peliyagoda,30717
+Sri Lanka,Kelaniya,28846
+Sri Lanka,Kurunegala,28571
+Sri Lanka,Nuwara Eliya,25775
+Sri Lanka,Gampola,24730
+Sri Lanka,Chilaw,24712
+Sri Lanka,Eravur Town,22982
+Sri Lanka,Hanwella Ihala,22918
+Sri Lanka,Weligama,22179
+Sri Lanka,Vakarai,21000
+Sri Lanka,Kataragama,20935
+Sri Lanka,Ambalangoda,20133
+Sri Lanka,Ampara,18348
+Sri Lanka,Kegalle,17962
+Sri Lanka,Hatton,15073
+Burkina Faso,Ouagadougou,1086505
+Burkina Faso,Bobo-Dioulasso,360106
+Burkina Faso,Koudougou,87347
+Burkina Faso,Ouahigouya,61096
+Burkina Faso,Banfora,60288
+Burkina Faso,Dedougou,45341
+Burkina Faso,Kaya,39229
+Burkina Faso,Dori,37806
+Burkina Faso,Tenkodogo,37658
+Burkina Faso,Reo,37535
+Burkina Faso,Hounde,36593
+Burkina Faso,Fada N'gourma,33910
+Burkina Faso,Koupela,32052
+Burkina Faso,Kombissiri,30137
+Burkina Faso,Garango,29076
+Burkina Faso,Nouna,29048
+Burkina Faso,Leo,26884
+Burkina Faso,Kongoussi,26338
+Burkina Faso,Diapaga,26013
+Burkina Faso,Kokologo,25958
+Burkina Faso,Zorgo,23892
+Burkina Faso,Yako,22904
+Burkina Faso,Djibo,22223
+Burkina Faso,Titao,19131
+Burkina Faso,Po,17924
+Burkina Faso,Tougan,17590
+Burkina Faso,Boulsa,17489
+Burkina Faso,Gourcy,16765
+Burkina Faso,Bousse,15868
+Burkina Faso,Manga,15173
+Mali,Bamako,1297281
+Mali,Sikasso,144786
+Mali,Mopti,108456
+Mali,Koutiala,99353
+Mali,Segou,92552
+Mali,Gao,87000
+Mali,Kayes,78406
+Mali,Markala,53738
+Mali,Kolokani,48774
+Mali,Kati,42922
+Mali,Bougouni,35450
+Mali,Timbuktu,32460
+Mali,Banamba,30591
+Mali,Bafoulabe,26823
+Mali,San,24811
+Mali,Koulikoro,23919
+Mali,Djenne,22382
+Mali,Yorosso,17447
+Mali,Kangaba,17232
+Mali,Sagalo,15830
+Romania,Bucharest,1877155
+Romania,Sector 3,385439
+Romania,Sector 6,367760
+Romania,Sector 2,345370
+Romania,Iasi,318012
+Romania,Cluj-Napoca,316748
+Romania,Timisoara,315053
+Romania,Craiova,304142
+Romania,Constanta,303399
+Romania,Galati,294087
+Romania,Sector 4,287828
+Romania,Brasov,276088
+Romania,Sector 5,271575
+Romania,Ploiesti,228851
+Romania,Sector 1,225453
+Romania,Braila,213569
+Romania,Oradea,206614
+Romania,Bacau,171396
+Romania,Arad,169065
+Romania,Pitesti,167669
+Romania,Sibiu,151894
+Romania,Targu-Mures,146863
+Romania,Baia Mare,136553
+Romania,Buzau,130954
+Romania,Botosani,114783
+Romania,Satu Mare,112490
+Romania,Ramnicu Valcea,107558
+Romania,Suceava,105796
+Romania,Piatra Neamt,102688
+Romania,Drobeta-Turnu Severin,102346
+Romania,Targu Jiu,97179
+Romania,Tulcea,92475
+Romania,Targoviste,88435
+Romania,Bistrita,81318
+Romania,Resita,81228
+Romania,Slatina,78988
+Romania,Focsani,77313
+Romania,Vaslui,69225
+Romania,Hunedoara,69136
+Romania,Giurgiu,69067
+Romania,Roman,67819
+Romania,Barlad,67818
+Romania,Deva,67802
+Romania,Alba Iulia,66085
+Romania,Zalau,63232
+Romania,Sfantu Gheorghe,60677
+Romania,Turda,54586
+Romania,Medias,53040
+Romania,Slobozia,52710
+Romania,Alexandria,49346
+Romania,Pascani,45000
+Romania,Petrosani,44187
+Romania,Medgidia,43315
+Romania,Lugoj,43243
+Romania,Campina,41554
+Romania,Miercurea-Ciuc,41282
+Romania,Tecuci,41154
+Romania,Sighetu Marmatiei,40653
+Romania,Mangalia,39619
+Romania,Ramnicu Sarat,38526
+Romania,Dej,38033
+Romania,Odorheiu Secuiesc,36532
+Romania,Reghin-Sat,35490
+Romania,Sighisoara,34537
+Romania,Caracal,33761
+Romania,Navodari,33106
+Romania,Fetesti,32866
+Romania,Curtea de Arges,32178
+Romania,Dorohoi,30776
+Romania,Fagaras,30714
+Malawi,Lilongwe,646750
+Malawi,Blantyre,584877
+Malawi,Mzuzu,175345
+Malawi,Zomba,80932
+Malawi,Kasungu,42555
+Malawi,Mangochi,40236
+Malawi,Karonga,34207
+Malawi,Salima,30052
+Malawi,Nkhotakota,24865
+Malawi,Liwonde,22469
+Malawi,Nsanje,21774
+Malawi,Rumphi,20727
+Malawi,Mzimba,19308
+Malawi,Balaka,18902
+Malawi,Mchinji,18305
+Malawi,Mulanje,16483
+Malawi,Dedza,15608
+Chile,Santiago,4837295
+Chile,Puente Alto,510417
+Chile,Antofagasta,309832
+Chile,Vina del Mar,294551
+Chile,Valparaiso,282448
+Chile,Talcahuano,252968
+Chile,San Bernardo,249858
+Chile,Temuco,238129
+Chile,Iquique,227499
+Chile,Concepcion,215413
+Chile,Rancagua,212695
+Chile,La Pintana,201178
+Chile,Talca,197479
+Chile,Arica,185999
+Chile,Coquimbo,161317
+Chile,Puerto Montt,160054
+Chile,La Serena,154521
+Chile,Chillan,150396
+Chile,Calama,143084
+Chile,Osorno,135773
+Chile,Valdivia,133419
+Chile,Quilpue,130263
+Chile,Copiapo,129280
+Chile,Los Angeles,125430
+Chile,Punta Arenas,117430
+Chile,Lo Prado,104316
+Chile,Curico,102438
+Chile,Villa Alemana,97320
+Chile,Coronel,92940
+Chile,San Antonio,85651
+Chile,Chiguayante,82545
+Chile,Ovalle,77138
+Chile,Linares,69535
+Chile,Quillota,67779
+Chile,Penaflor,65495
+Chile,Melipilla,63100
+Chile,San Felipe,59294
+Chile,Los Andes,56859
+Chile,Buin,55441
+Chile,Talagante,51764
+Chile,Lota,49763
+Chile,Hacienda La Calera,49106
+Chile,Tome,46698
+Chile,Penco,46091
+Chile,Coyhaique,45787
+Chile,Vallenar,44895
+Chile,Angol,44856
+Chile,Rengo,38100
+Chile,Constitucion,37917
+Chile,Limache,35876
+Chile,Santa Cruz,33283
+Chile,Paine,32766
+Chile,Villarrica,31602
+Chile,San Carlos,31517
+Chile,Cauquenes,31362
+Chile,Curanilahue,30611
+Chile,Las Animas,30000
+Chile,Castro,29926
+Chile,San Vicente de Tagua Tagua,29560
+Chile,Lampa,29250
+Chile,Molina,28775
+Chile,Ancud,28020
+Chile,Machali,27595
+Chile,Pucon,26953
+Chile,Parral,26904
+Chile,La Union,26298
+Chile,Puerto Varas,24958
+Chile,La Ligua,24857
+Chile,Arauco,24659
+Chile,Victoria,24555
+Kazakhstan,Almaty,2000900
+Kazakhstan,Karagandy,451800
+Kazakhstan,Shymkent,414032
+Kazakhstan,Taraz,358153
+Kazakhstan,Nur-Sultan,345604
+Kazakhstan,Pavlodar,329002
+Kazakhstan,Ust-Kamenogorsk,319067
+Kazakhstan,Kyzylorda,300000
+Kazakhstan,Kyzyl-Orda,300000
+Kazakhstan,Semey,292780
+Kazakhstan,Aktobe,262457
+Kazakhstan,Kostanay,210000
+Kazakhstan,Petropavl,200920
+Kazakhstan,Oral,200000
+Kazakhstan,Atyrau,180000
+Kazakhstan,Temirtau,170600
+Kazakhstan,Aktau,147443
+Kazakhstan,Kokshetau,124444
+Kazakhstan,Rudnyy,124000
+Kazakhstan,Ekibastuz,121470
+Kazakhstan,Taldykorgan,116558
+Kazakhstan,Zhezqazghan,104357
+Kazakhstan,Zhanaozen,103598
+Kazakhstan,Turkestan,97360
+Kazakhstan,Balqash,81364
+Kazakhstan,Sarkand,76919
+Kazakhstan,Baikonur,70000
+Kazakhstan,Kentau,57408
+Kazakhstan,Ridder,52664
+Kazakhstan,Qulsary,51216
+Kazakhstan,Shchuchinsk,47290
+Kazakhstan,Stepnogorsk,46736
+Kazakhstan,Zyryanovsk,44929
+Kazakhstan,Aksu,44808
+Kazakhstan,Dzhetygara,43104
+Kazakhstan,Soran,42552
+Kazakhstan,Talghar,42194
+Kazakhstan,Kapshagay,42167
+Kazakhstan,Arkalyk,42000
+Kazakhstan,Shakhtinsk,41602
+Kazakhstan,Lisakovsk,40000
+Kazakhstan,Chu,39785
+Kazakhstan,Karatau,37881
+Kazakhstan,Arys,36285
+Kazakhstan,Ayteke Bi,35883
+Kazakhstan,Abay,35454
+Kazakhstan,Aqsay,34799
+Kazakhstan,Atbasar,34797
+Kazakhstan,Zharkent,34422
+Kazakhstan,Zhangatas,33492
+Kazakhstan,Ayagoz,33479
+Kazakhstan,Aral,33017
+Kazakhstan,Esik,32995
+Kazakhstan,Shieli,29832
+Kazakhstan,Kandyagash,28196
+Kazakhstan,Shalqar,27399
+Kazakhstan,Shalkar,27072
+Kazakhstan,Tekeli,26678
+Kazakhstan,Belyye Vody,26115
+Kazakhstan,Chardara,25356
+Kazakhstan,Saryaghash,25139
+Kazakhstan,Khromtau,23715
+Kazakhstan,Georgievka,22047
+Kazakhstan,Yanykurgan,21339
+Kazakhstan,Lenger,21238
+Kazakhstan,Burunday,20996
+Kazakhstan,Ush-Tyube,20492
+Kazakhstan,Shemonaikha,20087
+Kazakhstan,Zhosaly,20065
+Kazakhstan,Balykshi,19260
+Zambia,Lusaka,1267440
+Zambia,Kitwe,400914
+Zambia,Ndola,394518
+Zambia,Kabwe,188979
+Zambia,Chingola,148564
+Zambia,Mufulira,120500
+Zambia,Luanshya,113365
+Zambia,Livingstone,109203
+Zambia,Kasama,91056
+Zambia,Chipata,85963
+Zambia,Kalulushi,66575
+Zambia,Mazabuka,64006
+Zambia,Chililabombwe,57328
+Zambia,Mongu,52534
+Zambia,Kafue,47554
+Zambia,Choma,46746
+Zambia,Mansa,42277
+Zambia,Kansanshi,40705
+Zambia,Kapiri Mposhi,37942
+Zambia,Monze,30257
+Zambia,Mpika,28445
+Zambia,Nchelenge,23693
+Zambia,Kawambwa,20589
+Zambia,Mbala,20570
+Zambia,Samfya,20470
+Zambia,Sesheke,20149
+Zambia,Petauke,19296
+Zambia,Mumbwa,19086
+Zambia,Siavonga,18638
+Guatemala,Guatemala City,994938
+Guatemala,Mixco,473080
+Guatemala,Villa Nueva,406830
+Guatemala,Petapa,141455
+Guatemala,San Juan Sacatepequez,136886
+Guatemala,Quetzaltenango,132230
+Guatemala,Villa Canales,122194
+Guatemala,Escuintla,103165
+Guatemala,Chinautla,97172
+Guatemala,Chimaltenango,82370
+Guatemala,Chichicastenango,79759
+Guatemala,Huehuetenango,79426
+Guatemala,Amatitlan,71836
+Guatemala,Totonicapan,69734
+Guatemala,Santa Catarina Pinula,67994
+Guatemala,Santa Lucia Cotzumalguapa,62097
+Guatemala,Puerto Barrios,56605
+Guatemala,San Francisco El Alto,54493
+Guatemala,Coban,53375
+Guatemala,San Jose Pinula,47247
+Guatemala,San Pedro Ayampuc,46803
+Guatemala,Jalapa,45834
+Guatemala,Coatepeque,45654
+Guatemala,Solola,45373
+Guatemala,Mazatenango,44132
+Guatemala,Chiquimula,41521
+Guatemala,San Pedro Sacatepequez,40021
+Guatemala,Salama,40000
+Guatemala,Antigua Guatemala,39368
+Guatemala,Retalhuleu,36656
+Guatemala,Zacapa,36088
+Guatemala,Jutiapa,34332
+Guatemala,Jacaltenango,34084
+Guatemala,Santiago Atitlan,33309
+Guatemala,Momostenango,31739
+Guatemala,Palin,31329
+Guatemala,San Benito,30764
+Guatemala,Barberena,30539
+Guatemala,Ciudad Vieja,30203
+Guatemala,Ostuncalco,28894
+Guatemala,Fraijanes,28492
+Guatemala,Nahuala,27690
+Guatemala,Cantel,26063
+Guatemala,Panzos,25569
+Guatemala,San Marcos,25088
+Guatemala,Santiago Sacatepequez,24210
+Guatemala,La Gomera,24001
+Guatemala,Santa Cruz del Quiche,23618
+Guatemala,Nebaj,23301
+Guatemala,Tecpan Guatemala,21978
+Guatemala,Sumpango,20884
+Guatemala,Comalapa,20738
+Guatemala,Esquipulas,20674
+Guatemala,Flores,20464
+Guatemala,Chicacao,20426
+Guatemala,San Pablo Jocopilas,20259
+Guatemala,Comitancillo,19669
+Guatemala,San Cristobal Verapaz,19664
+Guatemala,Gualan,19354
+Guatemala,Nuevo San Carlos,19162
+Guatemala,Colomba,19115
+Guatemala,Morales,18994
+Guatemala,Patzun,18704
+Guatemala,Puerto San Jose,18655
+Guatemala,San Andres Itzapa,18647
+Guatemala,Palencia,18574
+Guatemala,Tiquisate,18189
+Guatemala,San Lucas Sacatepequez,17959
+Guatemala,Jocotenango,17918
+Guatemala,Alotenango,17410
+Ecuador,Guayaquil,1952029
+Ecuador,Quito,1399814
+Ecuador,Cuenca,276964
+Ecuador,Santo Domingo de los Colorados,200421
+Ecuador,Machala,198123
+Ecuador,Manta,183166
+Ecuador,Portoviejo,170326
+Ecuador,Eloy Alfaro,167784
+Ecuador,Esmeraldas,165216
+Ecuador,Ambato,154369
+Ecuador,Tutamandahostel,140000
+Ecuador,Milagro,133508
+Ecuador,Ibarra,132977
+Ecuador,Riobamba,124478
+Ecuador,Quevedo,119436
+Ecuador,Loja,117796
+Ecuador,Tulcan,86498
+Ecuador,Babahoyo,76279
+Ecuador,La Libertad,75881
+Ecuador,Latacunga,51717
+Ecuador,Velasco Ibarra,48754
+Ecuador,Puerto Francisco de Orellana,48144
+Ecuador,Ventanas,46708
+Ecuador,Pasaje,44860
+Ecuador,Chone,44751
+Ecuador,Salinas,43862
+Ecuador,Santa Elena,42214
+Ecuador,Rosa Zarate,42121
+Ecuador,Santa Rosa,41816
+Ecuador,Balzar,40115
+Ecuador,Huaquillas,39757
+Ecuador,Bahia de Caraquez,37056
+Ecuador,La Troncal,36353
+Ecuador,Jipijapa,35901
+Ecuador,Azogues,34877
+Ecuador,Naranjito,34206
+Ecuador,Vinces,32497
+Ecuador,Otavalo,32330
+Ecuador,El Triunfo,32282
+Ecuador,Naranjal,32045
+Ecuador,Playas,30564
+Ecuador,Yaguachi Nuevo,27947
+Ecuador,Cayambe,26582
+Ecuador,Machachi,25742
+Ecuador,Puyo,24881
+Ecuador,Nueva Loja,24211
+Ecuador,Samborondon,24118
+Ecuador,Macas,23687
+Ecuador,Pedro Carbo,23372
+Ecuador,Guaranda,22199
+Ecuador,Boca Suno,20313
+Ecuador,San Lorenzo de Esmeraldas,20209
+Ecuador,Catamayo,18565
+Ecuador,Montecristi,18351
+Ecuador,Atuntaqui,17456
+Ecuador,Calceta,17286
+Ecuador,Tena,17172
+Ecuador,Gualaceo,17122
+Ecuador,Pinas,16981
+Ecuador,Cariamanga,16862
+Ecuador,Pelileo,16572
+Ecuador,La Mana,16450
+Ecuador,Pujili,16168
+Ecuador,Montalvo,15547
+Ecuador,Sucre,15286
+Ecuador,Zamora,15276
+Ecuador,San Gabriel,15112
+Syria,Aleppo,1602264
+Syria,Damascus,1569394
+Syria,Homs,775404
+Syria,Hamah,460602
+Syria,Latakia,340181
+Syria,Deir ez-Zor,242565
+Syria,Ar Raqqah,177636
+Syria,Al Bab,130745
+Syria,Idlib,128840
+Syria,Douma,111864
+Syria,Manbij,99497
+Syria,Dar'a,97969
+Syria,As Salamiyah,94887
+Syria,Tartouss,89457
+Syria,Ath Thawrah,87880
+Syria,Al Hasakah,81539
+Syria,Darayya,71596
+Syria,I`zaz,66138
+Syria,Jablah,65915
+Syria,As Safirah,63708
+Syria,As Suwayda',59052
+Syria,Albu Kamal,57572
+Syria,At Tall,55561
+Syria,Al Mayadin,54534
+Syria,Ar Rastan,53152
+Syria,Tadmur,51015
+Syria,'Ayn al 'Arab,50000
+Syria,An Nabk,49372
+Syria,Khan Shaykhun,48975
+Syria,`Afrin,48693
+Syria,Kafranbel,45652
+Syria,`Irbin,42474
+Syria,Al Qusayr,41062
+Syria,Yabrud,40502
+Syria,Jisr ash Shughur,39311
+Syria,Baniyas,39066
+Syria,Tallbisah,38491
+Syria,Harasta,37348
+Syria,Al Qunaytirah,36143
+Syria,Tadif,34670
+Syria,Saraqib,34231
+Syria,Jayrud,32352
+Syria,Masyaf,32262
+Syria,Ma`arratmisrin,32163
+Syria,Al Qaryatayn,31748
+Syria,Salqin,31608
+Syria,Tafas,31249
+Syria,Souran,30716
+Syria,Binnish,30354
+Syria,Jasim,30283
+Syria,Tallkalakh,29754
+Syria,Az Zabadani,29549
+Syria,Tayyibat al Imam,29259
+Syria,Hajin,29237
+Syria,Inkhil,29076
+Syria,Dayr Hafir,28905
+Syria,Satita,27815
+Syria,Ash Shaykh Miskin,25920
+Syria,As Sanamayn,25702
+Syria,Tall Rif`at,25658
+Syria,Nubl,25546
+Syria,Subaykhan,25514
+Syria,Jarabulus,24997
+Syria,Al Harak,23784
+Syria,Al Kiswah,23526
+Syria,Halfaya,23403
+Syria,Kafr Takharim,22436
+Syria,Ad Dana,21987
+Syria,Kafr Zayta,21845
+Syria,Kafr Laha,21819
+Netherlands,Amsterdam,741636
+Netherlands,Rotterdam,598199
+Netherlands,The Hague,474292
+Netherlands,Utrecht,290529
+Netherlands,Eindhoven,209620
+Netherlands,Tilburg,199613
+Netherlands,Groningen,181194
+Netherlands,Almere Stad,176432
+Netherlands,Breda,167673
+Netherlands,Nijmegen,158732
+Netherlands,Enschede,153655
+Netherlands,Haarlem,147590
+Netherlands,Arnhem,141674
+Netherlands,Zaanstad,140085
+Netherlands,Amersfoort,139914
+Netherlands,Apeldoorn,136670
+Netherlands,'s-Hertogenbosch,134520
+Netherlands,Hoofddorp,132734
+Netherlands,Maastricht,122378
+Netherlands,Leiden,119713
+Netherlands,Dordrecht,119260
+Netherlands,Zoetermeer,115845
+Netherlands,Zwolle,111805
+Netherlands,Deventer,97331
+Netherlands,Delft,95060
+Netherlands,Alkmaar,94853
+Netherlands,Heerlen,93084
+Netherlands,Venlo,92403
+Netherlands,Leeuwarden,91424
+Netherlands,Amsterdam-Zuidoost,84811
+Netherlands,Hilversum,83640
+Netherlands,Hengelo,80809
+Netherlands,Amstelveen,79639
+Netherlands,Roosendaal,77725
+Netherlands,Purmerend,76745
+Netherlands,Oss,76430
+Netherlands,Schiedam,75438
+Netherlands,Spijkenisse,74988
+Netherlands,Helmond,74740
+Netherlands,Vlaardingen,73798
+Netherlands,Almelo,72725
+Netherlands,Gouda,71952
+Netherlands,Zaandam,71708
+Netherlands,Lelystad,70741
+Netherlands,Alphen aan den Rijn,70251
+Netherlands,Hoorn,68852
+Netherlands,Velsen-Zuid,67758
+Netherlands,Ede,67670
+Netherlands,Bergen op Zoom,66256
+Netherlands,Capelle aan den IJssel,65255
+Netherlands,Assen,62237
+Netherlands,Nieuwegein,61489
+Netherlands,Veenendaal,61271
+Netherlands,Zeist,60949
+Netherlands,Den Helder,59569
+Netherlands,Hardenberg,57909
+Netherlands,Emmen,57010
+Netherlands,Oosterhout,53107
+Netherlands,Doetinchem,49906
+Netherlands,Kerkrade,49777
+Netherlands,Kampen,48980
+Netherlands,Weert,48662
+Netherlands,Woerden,48431
+Netherlands,Sittard,48400
+Netherlands,Heerhugowaard,47580
+Netherlands,Rijswijk,47299
+Netherlands,Middelburg,46485
+Netherlands,Emmeloord,46409
+Netherlands,Zwijndrecht,45696
+Netherlands,Waalwijk,45610
+Senegal,Dakar,2476400
+Senegal,Pikine,874062
+Senegal,Touba,529176
+Senegal,Thies,320000
+Senegal,Thies Nones,252320
+Senegal,Saint-Louis,176000
+Senegal,Kaolack,172305
+Senegal,Ziguinchor,159778
+Senegal,Tiebo,100289
+Senegal,Tambacounda,78800
+Senegal,Mbake,74100
+Senegal,Louga,67154
+Senegal,Kolda,58809
+Senegal,Richard-Toll,44752
+Senegal,Joal-Fadiout,36735
+Senegal,N'diareme limamoulaye,35171
+Senegal,Dara,30000
+Senegal,Kaffrine,28396
+Senegal,Ndibene Dahra,27741
+Senegal,Bignona,26237
+Senegal,Pourham,24146
+Senegal,Velingara,22441
+Senegal,Nioro du Rip,20711
+Senegal,Sedhiou,19702
+Senegal,Mekhe,19242
+Senegal,Kedougou,17922
+Senegal,Nguekhokh,17885
+Senegal,Pout,17752
+Senegal,Kayar,17193
+Senegal,Guinguineo,15395
+Senegal,Matam,15306
+Cambodia,Phnom Penh,1573544
+Cambodia,Takeo,843931
+Cambodia,Sihanoukville,156691
+Cambodia,Battambang,150444
+Cambodia,Siem Reap,139458
+Cambodia,Paoy Paet,79000
+Cambodia,Kampong Chhnang,75244
+Cambodia,Kampong Cham,61750
+Cambodia,Pursat,52476
+Cambodia,Ta Khmau,52066
+Cambodia,Phumi Veal Sre,44270
+Cambodia,Kampong Speu,33231
+Cambodia,Koh Kong,33134
+Cambodia,Prey Veng,33079
+Cambodia,Suong,30000
+Cambodia,Smach Mean Chey,29329
+Cambodia,Stung Treng,25000
+Cambodia,Tbeng Meanchey,24380
+Cambodia,Svay Rieng,23956
+Cambodia,Sisophon,23218
+Cambodia,Kampot,22691
+Cambodia,Kratie,19975
+Cambodia,Kampong Thom,19951
+Cambodia,Lumphat,19205
+Cambodia,Samraong,18694
+Cambodia,Pailin,17850
+Cambodia,Banlung,17000
+Chad,N'Djamena,721081
+Chad,Moundou,135167
+Chad,Sarh,102528
+Chad,Abeche,74188
+Chad,Kelo,42533
+Chad,Koumra,36263
+Chad,Pala,35466
+Chad,Am Timan,28885
+Chad,Bongor,27770
+Chad,Mongo,27763
+Chad,Doba,24336
+Chad,Ati,24074
+Chad,Fada,23786
+Chad,Lai,19382
+Chad,Oum Hadjer,19271
+Chad,Bitkine,18495
+Chad,Mao,18031
+Chad,Massaguet,17906
+Chad,Dourbali,17682
+Chad,Mboursou Lere,17132
+Chad,Kyabe,16177
+Chad,Benoy,15717
+Chad,Massakory,15406
+Chad,Moussoro,15190
+Somalia,Mogadishu,2587183
+Somalia,Hargeysa,477876
+Somalia,Berbera,242344
+Somalia,Kismayo,234852
+Somalia,Marka,230100
+Somalia,Jamaame,185270
+Somalia,Baidoa,129839
+Somalia,Burao,99270
+Somalia,Bosaso,74287
+Somalia,Afgooye,65461
+Somalia,Gaalkacyo,61200
+Somalia,Laascaanood,60100
+Somalia,Garoowe,57300
+Somalia,Beledweyne,55410
+Somalia,Qoryooley,51720
+Somalia,Jawhar,47086
+Somalia,Jilib,43694
+Somalia,Baardheere,42240
+Somalia,Ceerigaabo,33853
+Somalia,Luuq,33820
+Somalia,Buurhakaba,27792
+Somalia,Ceeldheer,26562
+Somalia,Wanlaweyn,22022
+Somalia,Baki,20000
+Somalia,Eyl,18904
+Somalia,Buulobarde,16928
+Somalia,Qandala,15923
+Zimbabwe,Harare,1542813
+Zimbabwe,Bulawayo,699385
+Zimbabwe,Chitungwiza,340360
+Zimbabwe,Mutare,184205
+Zimbabwe,Gweru,146073
+Zimbabwe,Epworth,123250
+Zimbabwe,Kwekwe,99149
+Zimbabwe,Kadoma,79174
+Zimbabwe,Masvingo,76290
+Zimbabwe,Chinhoyi,61739
+Zimbabwe,Marondera,57082
+Zimbabwe,Norton,52054
+Zimbabwe,Chegutu,47294
+Zimbabwe,Bindura,37423
+Zimbabwe,Zvishavane,35896
+Zimbabwe,Victoria Falls,35761
+Zimbabwe,Hwange,33210
+Zimbabwe,Redcliff,33197
+Zimbabwe,Ruwa,30000
+Zimbabwe,Rusape,29292
+Zimbabwe,Chiredzi,28205
+Zimbabwe,Beitbridge,26459
+Zimbabwe,Kariba,25531
+Zimbabwe,Karoi,25030
+Zimbabwe,Gokwe,18942
+Zimbabwe,Chipinge,18860
+Zimbabwe,Shurugwi,17075
+Guinea,Camayenne,1871242
+Guinea,Conakry,1767200
+Guinea,Nzerekore,132728
+Guinea,Kindia,117062
+Guinea,Kankan,114009
+Guinea,Gueckedou,79140
+Guinea,Coyah,77103
+Guinea,Labe,58649
+Guinea,Kissidougou,47099
+Guinea,Fria,44369
+Guinea,Siguiri,43601
+Guinea,Macenta,43102
+Guinea,Mamou,41619
+Guinea,Telimele,30311
+Guinea,Tougue,25531
+Guinea,Pita,20052
+Guinea,Boke,15460
+Rwanda,Kigali,745261
+Rwanda,Butare,89600
+Rwanda,Gitarama,87613
+Rwanda,Musanze,86685
+Rwanda,Gisenyi,83623
+Rwanda,Byumba,70593
+Rwanda,Cyangugu,63883
+Rwanda,Kibuye,48024
+Rwanda,Rwamagana,47203
+Rwanda,Kibungo,46240
+Rwanda,Nzega,33832
+Benin,Cotonou,780000
+Benin,Abomey-Calavi,385755
+Benin,Djougou,237040
+Benin,Porto-Novo,234168
+Benin,Parakou,163753
+Benin,Bohicon,125092
+Benin,Kandi,109701
+Benin,Lokossa,86971
+Benin,Ouidah,83503
+Benin,Abomey,82154
+Benin,Natitingou,80892
+Benin,Save,75970
+Benin,Nikki,54009
+Benin,Dogbo,41312
+Benin,Cove,38566
+Benin,Malanville,37117
+Benin,Pobe,32983
+Benin,Savalou,30187
+Benin,Sakete,30111
+Benin,Come,29208
+Benin,Bembereke,24006
+Benin,Bassila,23616
+Benin,Banikoara,22487
+Benin,Ketou,22341
+Benin,Dassa-Zoume,21672
+Benin,Tchaourou,20971
+Benin,Allada,20094
+Benin,Aplahoue,19862
+Benin,Tanguieta,19833
+Burundi,Bujumbura,331700
+Burundi,Muyinga,71076
+Burundi,Ruyigi,38458
+Burundi,Gitega,23167
+Burundi,Ngozi,21506
+Burundi,Rutana,20893
+Burundi,Bururi,19740
+Burundi,Makamba,19642
+Burundi,Kayanza,19443
+Burundi,Muramvya,18041
+Tunisia,Tunis,693210
+Tunisia,Sfax,277278
+Tunisia,Sousse,164123
+Tunisia,Kairouan,119794
+Tunisia,Bizerte,115268
+Tunisia,Gabes,110075
+Tunisia,Ariana,97687
+Tunisia,Kasserine,81987
+Tunisia,Gafsa,81232
+Tunisia,La Goulette,79795
+Tunisia,Zarzis,79316
+Tunisia,Ben Arous,74932
+Tunisia,Monastir,71546
+Tunisia,La Mohammedia,66593
+Tunisia,Al Marsa,65640
+Tunisia,Msaken,64563
+Tunisia,Skanes,64222
+Tunisia,Houmt El Souk,62583
+Tunisia,Tataouine,62577
+Tunisia,El Hamma,62000
+Tunisia,Medenine,61705
+Tunisia,Douane,60192
+Tunisia,Beja,57233
+Tunisia,Nabeul,56387
+Tunisia,Hammamet,53733
+Tunisia,Jendouba,51408
+Tunisia,El Kef,47979
+Tunisia,Hammam-Lif,47760
+Tunisia,Oued Lill,47101
+Tunisia,Menzel Bourguiba,46245
+Tunisia,Mahdia,45977
+Tunisia,Zouila,44349
+Tunisia,Rades,44298
+Tunisia,Kelibia,43209
+Tunisia,Sidi Bouzid,42098
+Tunisia,Metlaoui,41899
+Tunisia,Djemmal,39990
+Tunisia,Ksar Hellal,39792
+Tunisia,Tozeur,34943
+Tunisia,Dar Chabanne,33953
+Tunisia,Hammam Sousse,33834
+Tunisia,Gremda,33744
+Tunisia,Korba,33589
+Tunisia,La Sebala du Mornag,33421
+Tunisia,Midoun,32000
+Tunisia,Mateur,31005
+Tunisia,Ar Rudayyif,30048
+Tunisia,Douz,28127
+Tunisia,Ksour Essaf,27936
+Tunisia,Siliana,26960
+Tunisia,Manouba,24948
+Tunisia,Nefta,21720
+Tunisia,Chebba,21559
+Tunisia,Menzel Jemil,21542
+Tunisia,Takelsa,20659
+Tunisia,Medjez el Bab,20118
+Tunisia,El Jem,20029
+Tunisia,Akouda,20027
+Tunisia,Kebili,19875
+Tunisia,Tajerouine,18909
+Tunisia,Douar Tindja,18551
+Tunisia,Ouardenine,18287
+Tunisia,El Fahs,18083
+Tunisia,Beni Khiar,18011
+Tunisia,Zaghouan,16911
+Tunisia,Mennzel Bou Zelfa,16231
+Tunisia,El Alia,16083
+Tunisia,Thala,16068
+Tunisia,Bekalta,15937
+Tunisia,Carthage,15922
+Bolivia,Santa Cruz de la Sierra,1364389
+Bolivia,Cochabamba,900414
+Bolivia,La Paz,812799
+Bolivia,Sucre,224838
+Bolivia,Oruro,208684
+Bolivia,Tarija,159269
+Bolivia,Potosi,141251
+Bolivia,Sacaba,107628
+Bolivia,Montero,88616
+Bolivia,Quillacollo,87309
+Bolivia,Trinidad,84259
+Bolivia,Yacuiba,82803
+Bolivia,Riberalta,74014
+Bolivia,Tiquipaya,53904
+Bolivia,Guayaramerin,36008
+Bolivia,Bermejo,35411
+Bolivia,Mizque,30481
+Bolivia,Villazon,30253
+Bolivia,Llallagua,28069
+Bolivia,Camiri,27961
+Bolivia,Cobija,26585
+Bolivia,San Borja,24610
+Bolivia,San Ignacio de Velasco,23569
+Bolivia,Tupiza,22233
+Bolivia,Warnes,22036
+Bolivia,San Borja,19640
+Bolivia,Ascencion de Guarayos,18816
+Bolivia,Villamontes,18761
+Bolivia,Cotoca,18347
+Bolivia,Villa Yapacani,18187
+Bolivia,Santiago del Torno,15543
+Bolivia,Huanuni,15492
+Bolivia,Punata,15194
+Belgium,Brussels,1019022
+Belgium,Antwerpen,459805
+Belgium,Gent,231493
+Belgium,Charleroi,200132
+Belgium,Liege,182597
+Belgium,Brugge,116709
+Belgium,Namur,106284
+Belgium,Leuven,92892
+Belgium,Mons,91277
+Belgium,Deurne,78747
+Belgium,Aalst,77534
+Belgium,Mechelen,77530
+Belgium,La Louviere,76668
+Belgium,Kortrijk,73879
+Belgium,Hasselt,69222
+Belgium,Ostend,69011
+Belgium,Sint-Niklaas,69010
+Belgium,Tournai,67721
+Belgium,Genk,63666
+Belgium,Seraing,60737
+Belgium,Roeselare,56016
+Belgium,Verviers,52824
+Belgium,Mouscron,52069
+Belgium,Beveren,45179
+Belgium,Dendermonde,43055
+Belgium,Beringen,40930
+Belgium,Turnhout,39654
+Belgium,Dilbeek,39482
+Belgium,Heist-op-den-Berg,37873
+Belgium,Sint-Truiden,37859
+Belgium,Lokeren,37567
+Belgium,Braine-l'Alleud,37512
+Belgium,Brasschaat,37040
+Belgium,Vilvoorde,36955
+Belgium,Herstal,36503
+Belgium,Maasmechelen,36251
+Belgium,Waregem,35896
+Belgium,Chatelet,35238
+Belgium,Ieper,35089
+Belgium,Ninove,34795
+Belgium,Geel,34697
+Belgium,Halle,34479
+Belgium,Hoboken,34443
+Belgium,Knokke-Heist,33781
+Belgium,Schoten,33622
+Belgium,Grimbergen,33561
+Belgium,Lier,33272
+Belgium,Mol,32659
+Belgium,Wavre,32112
+Belgium,Binche,32030
+Belgium,Lommel,31993
+Belgium,Menen,31916
+Belgium,Tienen,31743
+Belgium,Evergem,31615
+Belgium,Heusden,31017
+Belgium,Wevelgem,30954
+Belgium,Geraardsbergen,30807
+Belgium,Sint-Pieters-Leeuw,30446
+Belgium,Houthalen,30050
+Belgium,Helchteren,30050
+Belgium,Tongeren,29816
+Belgium,Deinze,29815
+Belgium,Waterloo,29778
+Belgium,Bilzen,29622
+Belgium,Louvain-la-Neuve,29521
+Belgium,Courcelles,29473
+Belgium,Asse,28985
+Belgium,Zaventem,28188
+Belgium,Oudenaarde,27935
+Belgium,Aarschot,27656
+Haiti,Port-au-Prince,1234742
+Haiti,Carrefour,442156
+Haiti,Delmas 73,382920
+Haiti,Petionville,283052
+Haiti,Port-de-Paix,250000
+Haiti,Croix-des-Bouquets,229127
+Haiti,Jacmel,137966
+Haiti,Okap,134815
+Haiti,Leogane,134190
+Haiti,Les Cayes,125799
+Haiti,Tigwav,117504
+Haiti,Jeremie,97503
+Haiti,Miragoane,89202
+Haiti,Gonaives,84961
+Haiti,Saint-Marc,66226
+Haiti,Thomazeau,52017
+Haiti,Grangwav,49288
+Haiti,Verrettes,48724
+Haiti,Kenscoff,42175
+Haiti,Saint-Raphael,37739
+Haiti,Ti Port-de-Paix,34657
+Haiti,Lenbe,32645
+Haiti,Gressier,25947
+Haiti,Hinche,18590
+Haiti,Fond Parisien,18256
+Haiti,Desarmes,15594
+Cuba,Havana,2163824
+Cuba,Santiago de Cuba,555865
+Cuba,Camaguey,347562
+Cuba,Holguin,319102
+Cuba,Guantanamo,272801
+Cuba,Santa Clara,250512
+Cuba,Diez de Octubre,227293
+Cuba,Arroyo Naranjo,210053
+Cuba,Las Tunas,203684
+Cuba,Bayamo,192632
+Cuba,Boyeros,188593
+Cuba,Pinar del Rio,186990
+Cuba,Cienfuegos,186644
+Cuba,Habana del Este,178041
+Cuba,San Miguel del Padron,159273
+Cuba,Centro Habana,158151
+Cuba,Matanzas,146733
+Cuba,Ciego de Avila,142027
+Cuba,Cerro,132351
+Cuba,Manzanillo,128188
+Cuba,Sancti Spiritus,127069
+Cuba,Guanabacoa,112964
+Cuba,Palma Soriano,102826
+Cuba,Alamar,100000
+Cuba,Cardenas,98515
+Cuba,La Habana Vieja,95383
+Cuba,Moa,92852
+Cuba,Puerto Padre,76838
+Cuba,Contramaestre,70438
+Cuba,Guira de Melena,69879
+Cuba,Consolacion del Sur,69857
+Cuba,Gueines,68935
+Cuba,Artemisa,68073
+Cuba,San Luis,67293
+Cuba,Moron,66060
+Cuba,Colon,63882
+Cuba,Florida,63007
+Cuba,Sagua la Grande,62073
+Cuba,Trinidad,60206
+Cuba,San Cristobal,59579
+Cuba,Placetas,55408
+Cuba,San Jose de las Lajas,54847
+Cuba,Jaguey Grande,54363
+Cuba,Nuevitas,54022
+Cuba,Banes,53104
+Cuba,Bartolome Maso,53024
+Cuba,Corralillo,51881
+Cuba,Jesus Menendez,51002
+Cuba,Jobabo,49403
+Cuba,Baracoa,48362
+Cuba,Jovellanos,47164
+Cuba,Bauta,45768
+Cuba,Santo Domingo,45476
+Cuba,Cabaiguan,44515
+Cuba,Regla,44431
+Cuba,San German,43892
+Cuba,Ranchuelo,43695
+Cuba,San Antonio de los Banos,42724
+Cuba,Cacocum,42623
+Cuba,Yaguajay,42218
+Cuba,Manicaragua,41532
+Cuba,Amancio,41523
+Cuba,Jiguani,41106
+Cuba,Cifuentes,40142
+Cuba,Guaimaro,39358
+Cuba,Caibarien,39140
+Cuba,Cumanayagua,38687
+Cuba,Condado,38248
+Cuba,Camajuani,35515
+Cuba,Santiago de las Vegas,35241
+South Sudan,Juba,450000
+South Sudan,Winejok,300000
+South Sudan,Malakal,160765
+South Sudan,Wau,127384
+South Sudan,Pajok,49000
+South Sudan,Yambio,40382
+South Sudan,Yei,40382
+South Sudan,Aweil,38745
+South Sudan,Gogrial,38572
+South Sudan,Rumbek,32083
+South Sudan,Bor,26782
+South Sudan,Torit,20048
+South Sudan,Tonj,17338
+Dominican Republic,Santo Domingo,2201941
+Dominican Republic,Santiago de los Caballeros,1200000
+Dominican Republic,Santo Domingo Oeste,701269
+Dominican Republic,Santo Domingo Este,700000
+Dominican Republic,San Pedro de Macoris,217899
+Dominican Republic,La Romana,208437
+Dominican Republic,Bella Vista,175683
+Dominican Republic,San Cristobal,154040
+Dominican Republic,Puerto Plata,146000
+Dominican Republic,San Francisco de Macoris,124763
+Dominican Republic,Salvaleon de Higueey,123787
+Dominican Republic,Concepcion de La Vega,102426
+Dominican Republic,Punta Cana,100023
+Dominican Republic,Santa Cruz de Barahona,77160
+Dominican Republic,Bonao,73269
+Dominican Republic,San Juan de la Maguana,72950
+Dominican Republic,Bajos de Haina,66784
+Dominican Republic,Bani,66709
+Dominican Republic,Moca,61834
+Dominican Republic,Azua,59139
+Dominican Republic,Villa Francisca,50185
+Dominican Republic,Mao,48297
+Dominican Republic,Boca Chica,46300
+Dominican Republic,Salcedo,45299
+Dominican Republic,Esperanza,42169
+Dominican Republic,Cotui,41641
+Dominican Republic,Villa Altagracia,40027
+Dominican Republic,Hato Mayor del Rey,35999
+Dominican Republic,Nagua,33862
+Dominican Republic,Villa Bisono,33137
+Dominican Republic,Jarabacoa,29983
+Dominican Republic,Constanza,29481
+Dominican Republic,Villa Consuelo,28621
+Dominican Republic,Santa Cruz de El Seibo,23547
+Dominican Republic,Tamboril,23304
+Dominican Republic,Las Matas de Farfan,21802
+Dominican Republic,San Jose de Ocoa,21148
+Dominican Republic,Bayaguana,21055
+Dominican Republic,Rio Grande,20154
+Dominican Republic,Monte Llano,19029
+Dominican Republic,Ciudad Nueva,18756
+Dominican Republic,Neiba,18670
+Dominican Republic,Quisqueya,17694
+Dominican Republic,San Fernando de Monte Cristi,17001
+Dominican Republic,Sabana Grande de Boya,16834
+Dominican Republic,Dajabon,16398
+Dominican Republic,Sabaneta,16380
+Dominican Republic,Monte Plata,15532
+Czech Republic (Czechia),Prague,1165581
+Czech Republic (Czechia),Brno,369559
+Czech Republic (Czechia),Ostrava,313088
+Czech Republic (Czechia),Pilsen,164180
+Czech Republic (Czechia),Olomouc,101268
+Czech Republic (Czechia),Liberec,97770
+Czech Republic (Czechia),Ceske Budejovice,96053
+Czech Republic (Czechia),Hradec Kralove,95195
+Czech Republic (Czechia),Usti nad Labem,94105
+Czech Republic (Czechia),Pardubice,88741
+Czech Republic (Czechia),Havirov,82768
+Czech Republic (Czechia),Zlin,78759
+Czech Republic (Czechia),Kladno,70003
+Czech Republic (Czechia),Most,67905
+Czech Republic (Czechia),Karvina,63677
+Czech Republic (Czechia),Opava,60252
+Czech Republic (Czechia),Frydek-Mistek,59416
+Czech Republic (Czechia),Decin,52058
+Czech Republic (Czechia),Karlovy Vary,51807
+Czech Republic (Czechia),Teplice,51223
+Czech Republic (Czechia),Chomutov,50251
+Czech Republic (Czechia),Jihlava,50100
+Czech Republic (Czechia),Prostejov,47374
+Czech Republic (Czechia),Prerov,47311
+Czech Republic (Czechia),Jablonec nad Nisou,44878
+Czech Republic (Czechia),Mlada Boleslav,43684
+Czech Republic (Czechia),Ceska Lipa,38841
+Czech Republic (Czechia),Trebic,38785
+Czech Republic (Czechia),Trinec,38415
+Czech Republic (Czechia),Tabor,36264
+Czech Republic (Czechia),Znojmo,35280
+Czech Republic (Czechia),Pribram,35251
+Czech Republic (Czechia),Orlova,34282
+Czech Republic (Czechia),Cheb,33242
+Czech Republic (Czechia),Modrany,31901
+Czech Republic (Czechia),Liben,31756
+Czech Republic (Czechia),Trutnov,31398
+Czech Republic (Czechia),Pisek,29774
+Czech Republic (Czechia),Kolin,29690
+Czech Republic (Czechia),Kromeriz,29126
+Czech Republic (Czechia),Sumperk,28768
+Czech Republic (Czechia),Vsetin,28575
+Czech Republic (Czechia),Valasske Mezirici,27481
+Czech Republic (Czechia),Litvinov,27022
+Czech Republic (Czechia),Novy Jicin,26547
+Czech Republic (Czechia),Uherske Hradiste,26421
+Czech Republic (Czechia),Hodonin,26345
+Czech Republic (Czechia),Breclav,25789
+Czech Republic (Czechia),Cesky Tesin,25750
+Czech Republic (Czechia),Krnov,25547
+Czech Republic (Czechia),Sokolov,24901
+Czech Republic (Czechia),Litomerice,24489
+Czech Republic (Czechia),Havlickuv Brod,24356
+Czech Republic (Czechia),Zgar nad Sazavou,24030
+Czech Republic (Czechia),Zgar nad Sazavou Druhy,23996
+Czech Republic (Czechia),Chrudim,23630
+Czech Republic (Czechia),Strakonice,23545
+Czech Republic (Czechia),Koprivnice,23424
+Czech Republic (Czechia),Klatovy,23102
+Czech Republic (Czechia),Bohumin,23075
+Czech Republic (Czechia),Stary Bohumin,23034
+Czech Republic (Czechia),Jindrichuv Hradec,22812
+Czech Republic (Czechia),Vyskov,22265
+Czech Republic (Czechia),Cerny Most,21500
+Czech Republic (Czechia),Kutna Hora,21280
+Czech Republic (Czechia),Nachod,21263
+Czech Republic (Czechia),Jirkov,21056
+Czech Republic (Czechia),Blansko,20384
+Czech Republic (Czechia),Zatec,19607
+Czech Republic (Czechia),Hranice,19582
+Greece,Athens,664046
+Greece,Thessaloniki,354290
+Greece,Patra,168034
+Greece,Piraeus,163688
+Greece,Larisa,144651
+Greece,Peristeri,139981
+Greece,Irakleion,137154
+Greece,Kallithea,100641
+Greece,Acharnes,99346
+Greece,Kalamaria,91617
+Greece,Nikaia,89380
+Greece,Glyfada,87305
+Greece,Volos,86048
+Greece,Ilion,84793
+Greece,Ilioupoli,78153
+Greece,Keratsini,77077
+Greece,Khalandrion,74192
+Greece,Nea Smyrni,73076
+Greece,Marousi,72333
+Greece,Agios Dimitrios,71294
+Greece,Zografos,71026
+Greece,Aigaleo,69946
+Greece,Nea Ionia,67134
+Greece,Ioannina,65574
+Greece,Palaio Faliro,64021
+Greece,Korydallos,63445
+Greece,Trikala,61653
+Greece,Vyronas,61308
+Greece,Agia Paraskevi,59704
+Greece,Galatsi,59345
+Greece,Chalkida,59125
+Greece,Petroupolis,58979
+Greece,Serres,58287
+Greece,Rodos,56128
+Greece,Kalamata,54100
+Greece,Kavala,54027
+Greece,Chania,53910
+Greece,Katerini,53293
+Greece,Alexandroupoli,52979
+Greece,Lamia,52006
+Greece,Irakleio,49642
+Greece,Xanthi,48221
+Greece,Kifisia,47332
+Greece,Agrinio,46899
+Greece,Chaidari,45642
+Greece,Komotini,45631
+Greece,Sykies,44955
+Greece,Drama,44823
+Greece,Veroia,44464
+Greece,Alimos,41720
+Greece,Polichni,39765
+Greece,Kozani,36481
+Greece,Agioi Anargyroi,34168
+Greece,Argyroupoli,34097
+Greece,Ano Liosia,33565
+Greece,Karditsa,32789
+Greece,Nea Ionia,32661
+Greece,Rethymno,32468
+Greece,Cholargos,30840
+Greece,Vrilissia,30741
+Greece,Aspropyrgos,30251
+Greece,Korinthos,30176
+Greece,Ptolemaida,30045
+Greece,Gerakas,29939
+Greece,Metamorfosi,29891
+Greece,Voula,28364
+Greece,Kamateron,28361
+Greece,Mytilene,28322
+Greece,Giannitsa,27817
+Greece,Neapoli,27084
+Jordan,Amman,1275857
+Jordan,Zarqa,792665
+Jordan,Irbid,307480
+Jordan,Russeifa,268237
+Jordan,Wadi as Sir,181212
+Jordan,'Ajlun,125557
+Jordan,Aqaba,95048
+Jordan,Rukban,85000
+Jordan,Madaba,82335
+Jordan,As Salt,80189
+Jordan,Ar Ramtha,74901
+Jordan,Mafraq,57118
+Jordan,Ma'an,50350
+Jordan,Al Jubayhah,46834
+Jordan,Sahab,40241
+Jordan,Hayy al Quwaysimah,32396
+Jordan,Jarash,27046
+Jordan,At Tafilah,25429
+Jordan,`Izra,22756
+Jordan,Qir Moav,22581
+Jordan,Karak City,21678
+Jordan,Judita,20000
+Jordan,Aydun,18376
+Jordan,Umm as Summaq,18274
+Jordan,Kurayyimah,17837
+Jordan,`Anjarah,17634
+Jordan,Safi,15200
+Portugal,Lisbon,517802
+Portugal,Porto,249633
+Portugal,Amadora,178858
+Portugal,Braga,121394
+Portugal,Setubal,117110
+Portugal,Coimbra,106582
+Portugal,Queluz,103399
+Portugal,Funchal,100847
+Portugal,Cacem,93982
+Portugal,Vila Nova de Gaia,70811
+Portugal,Algueirao,66250
+Portugal,Loures,66231
+Portugal,Felgueiras,58065
+Portugal,Evora,55620
+Portugal,Rio de Mouro,54695
+Portugal,Odivelas,54624
+Portugal,Aveiro,54162
+Portugal,Amora,52577
+Portugal,Corroios,52520
+Portugal,Barreiro,51280
+Portugal,Monsanto,50000
+Portugal,Rio Tinto,49966
+Portugal,Sao Domingos de Rana,46718
+Portugal,Figueira da Foz,46600
+Portugal,Leiria,45112
+Portugal,Ponte de Lima,44667
+Portugal,Faro,41355
+Portugal,Sesimbra,41134
+Portugal,Guimaraes,40604
+Portugal,Ermesinde,39420
+Portugal,Santo Antonio dos Olivais,38936
+Portugal,Portimao,38487
+Portugal,Benfica,36985
+Portugal,Cascais,36436
+Portugal,Maia,36426
+Portugal,Viana do Castelo,36148
+Portugal,Oeiras,35000
+Portugal,Beja,34760
+Portugal,Esposende,34625
+Portugal,Braganca,34375
+Portugal,Almada,34008
+Portugal,Olivais,33788
+Portugal,Castelo Branco,33479
+Portugal,Alcabideche,33315
+Portugal,Espinho,32786
+Portugal,Camara de Lobos,32209
+Portugal,Guarda,32111
+Portugal,Alvalade,31813
+Portugal,Arrentela,30156
+Portugal,Montijo,30011
+Portugal,Charneca de Caparica,29763
+Portugal,Santarem,29385
+Portugal,Olhao,29239
+Portugal,Povoa de Varzim,29044
+Portugal,Senhora da Hora,28930
+Portugal,Marinha Grande,28916
+Portugal,Povoa de Santa Iria,28901
+Portugal,Sequeira,28502
+Portugal,Massama,28112
+Portugal,Matosinhos,28070
+Portugal,Gondomar,27691
+Portugal,Aguas Santas,27686
+Portugal,Vila do Conde,27642
+Portugal,Caldas da Rainha,27378
+Portugal,Sao Martinho,26482
+Portugal,Canidelo,26431
+Portugal,Viseu,26364
+Portugal,Sintra,26193
+Portugal,Paco de Arcos,25974
+Portugal,Sao Mamede de Infesta,25940
+Azerbaijan,Baku,1116513
+Azerbaijan,Ganja,313300
+Azerbaijan,Sumqayit,265150
+Azerbaijan,Lankaran,240300
+Azerbaijan,Mingelchaur,95453
+Azerbaijan,Saatli,87000
+Azerbaijan,Qaracuxur,72989
+Azerbaijan,Sirvan,70220
+Azerbaijan,Bakixanov,66686
+Azerbaijan,Nakhchivan,64754
+Azerbaijan,Sheki,63000
+Azerbaijan,Yevlakh,59036
+Azerbaijan,Xankandi,53100
+Azerbaijan,Bilajari,42194
+Azerbaijan,Mastaga,40092
+Azerbaijan,Agdam,39451
+Azerbaijan,Khirdalan,37949
+Azerbaijan,Barda,37372
+Azerbaijan,Xacmaz,37175
+Azerbaijan,Salyan,36555
+Azerbaijan,Hovsan,36293
+Azerbaijan,Jalilabad,36259
+Azerbaijan,Shamkhor,35421
+Azerbaijan,Geoktschai,35348
+Azerbaijan,Agdzhabedy,34989
+Azerbaijan,Imishli,34178
+Azerbaijan,Lokbatan,30694
+Azerbaijan,Shamakhi,29403
+Azerbaijan,Sabirabad,28075
+Azerbaijan,Amirdzhan,26798
+Azerbaijan,Fizuli,26765
+Azerbaijan,Buzovna,24795
+Azerbaijan,Biny Selo,24596
+Azerbaijan,Agdas,23528
+Azerbaijan,Divichibazar,23248
+Azerbaijan,Haciqabul,23102
+Azerbaijan,Quba,22405
+Azerbaijan,Zabrat,21396
+Azerbaijan,Sabuncu,20996
+Azerbaijan,Kyurdarmir,19088
+Azerbaijan,Haci Zeynalabdin,19019
+Azerbaijan,Qazax,18903
+Azerbaijan,Shushi,18662
+Azerbaijan,Neftcala,18661
+Azerbaijan,Zaqatala,18277
+Azerbaijan,Terter,18185
+Azerbaijan,Pushkino,18182
+Azerbaijan,Yelenendorf,17816
+Azerbaijan,Ahmadbayli,17242
+Azerbaijan,Aghsu,17209
+Azerbaijan,Yeni Suraxani,16127
+Azerbaijan,Qusar,16022
+Azerbaijan,Ujar,15741
+Azerbaijan,Beylagan,15599
+Azerbaijan,Mardakan,15267
+Azerbaijan,Astara,15190
+Sweden,Stockholm,1515017
+Sweden,Goeteborg,572799
+Sweden,Malmoe,301706
+Sweden,Uppsala,149245
+Sweden,Sollentuna,139606
+Sweden,Soedermalm,127323
+Sweden,Vaesteras,117746
+Sweden,OErebro,115765
+Sweden,Linkoeping,106502
+Sweden,Helsingborg,104250
+Sweden,Joenkoeping,93797
+Sweden,Norrkoeping,93765
+Sweden,Huddinge,90182
+Sweden,Lund,87244
+Sweden,Umea,83249
+Sweden,Haninge,74968
+Sweden,Gaevle,74884
+Sweden,Boras,71700
+Sweden,Soedertaelje,70777
+Sweden,Kungsholmen,69363
+Sweden,Eskilstuna,67359
+Sweden,Solna,66909
+Sweden,Halmstad,66124
+Sweden,Vaexjoe,65383
+Sweden,Karlstad,61492
+Sweden,Bromma,61000
+Sweden,Moelndal,59430
+Sweden,Vasastan,58458
+Sweden,Taby,58123
+Sweden,Sundsvall,57606
+Sweden,OEstersund,49806
+Sweden,Trollhaettan,48573
+Sweden,Lulea,43574
+Sweden,Lidingoe,42466
+Sweden,Borlaenge,41955
+Sweden,Tumba,40832
+Sweden,Kristianstad,39762
+Sweden,Kalmar,38408
+Sweden,Falun,37000
+Sweden,Skoevde,36842
+Sweden,Upplands Vaesby,36534
+Sweden,Karlskrona,36477
+Sweden,OEstermalm,36418
+Sweden,Skelleftea,35516
+Sweden,Uddevalla,34781
+Sweden,Sundbyberg,34529
+Sweden,Varberg,34248
+Sweden,Akersberga,32659
+Sweden,OErnskoeldsvik,32493
+Sweden,Landskrona,32229
+Sweden,Nykoeping,32224
+Sweden,Vallentuna,31937
+Sweden,Motala,30944
+Sweden,Trelleborg,29316
+Sweden,Majorna,29254
+Sweden,Partille,28648
+Sweden,Karlskoga,27490
+Sweden,Maersta,27034
+Sweden,Lerum,26913
+Sweden,Alingsas,26329
+Sweden,Nacka,25170
+Sweden,Sandviken,24724
+Sweden,Kungaelv,24101
+Sweden,Falkenberg,24099
+Sweden,Boo,24052
+Sweden,Jakobsberg,24046
+Sweden,Visby,23402
+Sweden,Katrineholm,23283
+Sweden,AEngelholm,23240
+Sweden,Vaenersborg,23119
+Honduras,Tegucigalpa,850848
+Honduras,San Pedro Sula,489466
+Honduras,Choloma,139100
+Honduras,La Ceiba,130218
+Honduras,El Progreso,100810
+Honduras,Ciudad Choluteca,75872
+Honduras,Comayagua,58784
+Honduras,Puerto Cortez,48013
+Honduras,La Lima,45955
+Honduras,Danli,44799
+Honduras,Siguatepeque,43141
+Honduras,Juticalpa,33686
+Honduras,Villanueva,31571
+Honduras,Tocoa,30785
+Honduras,Tela,29325
+Honduras,Santa Rosa de Copan,27753
+Honduras,Olanchito,25969
+Honduras,San Lorenzo,22289
+Honduras,Cofradia,20353
+Honduras,El Paraiso,18779
+Honduras,La Paz,17555
+Honduras,Yoro,15774
+Honduras,Potrerillos,15707
+Honduras,Santa Barbara,15119
+United Arab Emirates,Dubai,1137347
+United Arab Emirates,Abu Dhabi,603492
+United Arab Emirates,Sharjah,543733
+United Arab Emirates,Al Ain,408733
+United Arab Emirates,Ajman,226172
+United Arab Emirates,Ras al-Khaimah,115949
+United Arab Emirates,Al Fujayrah,62415
+United Arab Emirates,Umm al Qaywayn,44411
+United Arab Emirates,Khawr Fakkan,33575
+United Arab Emirates,Dibba Al-Fujairah,30000
+United Arab Emirates,Dibba Al-Hisn,26395
+United Arab Emirates,Adh Dhayd,24716
+United Arab Emirates,Ar Ruways,16000
+Hungary,Budapest,1741041
+Hungary,Debrecen,204124
+Hungary,Miskolc,172637
+Hungary,Szeged,164883
+Hungary,Pecs,156649
+Hungary,Budapest XI. keruelet,139049
+Hungary,Zuglo,130000
+Hungary,Gyor,128265
+Hungary,Budapest III. keruelet,123723
+Hungary,Nyiregyhaza,116298
+Hungary,Budapest XIII. keruelet,113531
+Hungary,Kecskemet,109847
+Hungary,Szekesfehervar,101600
+Hungary,Budapest IV. keruelet,98374
+Hungary,Budapest XVIII. keruelet,93225
+Hungary,Budapest II. keruelet,88729
+Hungary,Budapest VIII. keruelet,82222
+Hungary,Budapest XV. keruelet,80218
+Hungary,Szombathely,79534
+Hungary,Budapest X. keruelet,79270
+Hungary,Budapest XVII. keruelet,78250
+Hungary,Jozsefvaros,76957
+Hungary,Budapest XXI. keruelet,76339
+Hungary,Paradsasvar,76000
+Hungary,Szolnok,75474
+Hungary,Tatabanya,70541
+Hungary,Budapest XVI. keruelet,68484
+Hungary,Kaposvar,67746
+Hungary,Bekescsaba,65206
+Hungary,Budapest XX. keruelet,63371
+Hungary,Erd,62408
+Hungary,Veszprem,62023
+Hungary,Erzsebetvaros,62000
+Hungary,Zalaegerszeg,61898
+Hungary,Budapest XIX. keruelet,61610
+Hungary,Kispest,61453
+Hungary,Sopron,57210
+Hungary,Eger,56647
+Hungary,Budapest XII. keruelet,56544
+Hungary,Nagykanizsa,50823
+Hungary,Budapest XXII. keruelet,50499
+Hungary,Dunaujvaros,50084
+Hungary,Hodmezovasarhely,47485
+Hungary,Budapest VI. keruelet,42120
+Hungary,Salgotarjan,39640
+Hungary,Cegled,39287
+Hungary,Ozd,38476
+Hungary,Baja,37714
+Hungary,Vac,35108
+Hungary,Szekszard,34174
+Hungary,Papa,32990
+Hungary,Gyongyos,32938
+Hungary,Kazincbarcika,32396
+Hungary,Godollo,32374
+Hungary,Gyula,32269
+Hungary,Hajduboszormeny,31957
+Hungary,Kiskunfelegyhaza,31720
+Hungary,Ajka,31407
+Hungary,Oroshaza,31373
+Hungary,Mosonmagyarovar,30359
+Hungary,Dunakeszi,30246
+Hungary,Kiskunhalas,29354
+Hungary,Esztergom,28785
+Hungary,Jaszbereny,27835
+Hungary,Komlo,26924
+Hungary,Nagykoros,26711
+Hungary,Mako,25135
+Hungary,Budaors,25089
+Hungary,Szigetszentmiklos,24874
+Hungary,Budapest I. keruelet,24728
+Tajikistan,Dushanbe,679400
+Tajikistan,Khujand,144865
+Tajikistan,Kulob,78786
+Tajikistan,Qurghonteppa,65000
+Tajikistan,Istaravshan,52851
+Tajikistan,Konibodom,50359
+Tajikistan,Vahdat,45693
+Tajikistan,Isfara,37738
+Tajikistan,Tursunzoda,37000
+Tajikistan,Panjakent,35085
+Tajikistan,Khorugh,30000
+Tajikistan,Ishqoshim,26000
+Tajikistan,Hisor,23978
+Tajikistan,Boshkengash,23696
+Tajikistan,Danghara,22824
+Tajikistan,Moskovskiy,22100
+Tajikistan,Vose',21736
+Tajikistan,Farkhor,21736
+Tajikistan,Chkalov,21537
+Tajikistan,Chubek,19563
+Tajikistan,Kolkhozobod,18476
+Tajikistan,Norak,18122
+Tajikistan,Yovon,17471
+Tajikistan,Proletar,16441
+Tajikistan,Vakhsh,15215
+Belarus,Minsk,1742124
+Belarus,Homyel',480951
+Belarus,Mahilyow,369200
+Belarus,Vitebsk,342700
+Belarus,Hrodna,317365
+Belarus,Brest,300715
+Belarus,Babruysk,220517
+Belarus,Baranovichi,168772
+Belarus,Barysaw,143919
+Belarus,Pinsk,130777
+Belarus,Orsha,125347
+Belarus,Novoye Medvezhino,120000
+Belarus,Mazyr,112137
+Belarus,Malinovka,105000
+Belarus,Salihorsk,101614
+Belarus,Maladzyechna,101300
+Belarus,Navapolatsk,100885
+Belarus,Lida,98036
+Belarus,Polatsk,82258
+Belarus,Zhlobin,73089
+Belarus,Svyetlahorsk,71250
+Belarus,Rechytsa,65400
+Belarus,Slutsk,62228
+Belarus,Horad Zhodzina,61007
+Belarus,Slonim,51434
+Belarus,Kobryn,50691
+Belarus,Volkovysk,47300
+Belarus,Kalinkavichy,37190
+Belarus,Smarhon',36900
+Belarus,Rahachow,34700
+Belarus,Asipovichy,34591
+Belarus,Horki,33897
+Belarus,Novogrudok,30748
+Belarus,Vilyeyka,30000
+Belarus,Byaroza,29645
+Belarus,Krychaw,27681
+Belarus,Luninyets,25000
+Belarus,Dzyarzhynsk,24609
+Belarus,Ivatsevichy,24200
+Belarus,Hlybokaye,22000
+Belarus,Pastavy,20218
+Belarus,Mar''ina Horka,20100
+Belarus,Pruzhany,19135
+Belarus,Dobrush,19083
+Belarus,Bykhaw,17500
+Belarus,Lyepyel',17400
+Belarus,Kalodzishchy,17000
+Belarus,Mosty,16102
+Belarus,Shchuchyn,15700
+Belarus,Stowbtsy,15500
+Austria,Vienna,1691468
+Austria,Graz,222326
+Austria,Linz,204846
+Austria,Favoriten,201882
+Austria,Donaustadt,187007
+Austria,Floridsdorf,162779
+Austria,Salzburg,153377
+Austria,Innsbruck,132493
+Austria,Ottakring,104627
+Austria,Simmering,101420
+Austria,Meidling,97624
+Austria,Klagenfurt am Woerthersee,90610
+Austria,Villach,58882
+Austria,Hernals,57546
+Austria,Hietzing,54265
+Austria,Dornbirn,49278
+Austria,Wiener Neustadt,44820
+Austria,Steyr,38331
+Austria,Hoetting,35043
+Austria,Feldkirch,33420
+Austria,Jakomini,32912
+Austria,Pradl,32588
+Austria,Lend,31147
+Austria,Bregenz,29471
+Austria,Gries,29363
+Austria,Baden,26286
+Austria,Geidorf,24767
+Austria,Weinzierl bei Krems,24092
+Austria,Lustenau,22821
+Austria,Sankt Poelten,21911
+Austria,Moedling,20555
+Austria,Eggenberg,20511
+Austria,Sankt Peter,20320
+Austria,Sankt Martin,20000
+Austria,Andritz,19020
+Austria,Wilten,18142
+Austria,Wels,16857
+Austria,Innere Stadt,16450
+Austria,Hohenems,16317
+Austria,Stockerau,16292
+Austria,Strassgang,16268
+Austria,Sankt Leonhard,15853
+Austria,Wetzelsdorf,15687
+Austria,Klosterneuburg,15614
+Austria,Amstetten,15559
+Austria,Telfs,15229
+Austria,Sankt Peter,15187
+Austria,Perchtoldsdorf,15047
+Papua New Guinea,Port Moresby,283733
+Papua New Guinea,Lae,76255
+Papua New Guinea,Arawa,40266
+Papua New Guinea,Mount Hagen,33623
+Papua New Guinea,Popondetta,28198
+Papua New Guinea,Madang,27419
+Papua New Guinea,Kokopo,26273
+Papua New Guinea,Mendi,26252
+Papua New Guinea,Kimbe,18847
+Papua New Guinea,Goroka,18503
+Papua New Guinea,Wewak,18230
+Papua New Guinea,Bulolo,16042
+Papua New Guinea,Daru,15214
+Serbia,Belgrade,1273651
+Serbia,Nis,250000
+Serbia,Novi Sad,215400
+Serbia,Zemun,155591
+Serbia,Kragujevac,147473
+Serbia,Cacak,117072
+Serbia,Subotica,100000
+Serbia,Leskovac,94758
+Serbia,Novi Pazar,85996
+Serbia,Kraljevo,82846
+Serbia,Zrenjanin,79773
+Serbia,Pancevo,76654
+Serbia,Krusevac,75256
+Serbia,Uzice,63577
+Serbia,Smederevo,62000
+Serbia,Valjevo,61035
+Serbia,Vranje,56199
+Serbia,Sabac,55114
+Serbia,Zajecar,49800
+Serbia,Trstenik,49043
+Serbia,Sombor,48454
+Serbia,Kikinda,41935
+Serbia,Pozarevac,41736
+Serbia,Pirot,40678
+Serbia,Bor,39387
+Serbia,Sremska Mitrovica,39084
+Serbia,Vrsac,36300
+Serbia,Jagodina,35589
+Serbia,Ruma,32229
+Serbia,Backa Palanka,29449
+Serbia,Prokuplje,27673
+Serbia,Smederevska Palanka,27000
+Serbia,Ingija,26247
+Serbia,Vrbas,25907
+Serbia,Becej,25774
+Serbia,Knjazevac,25000
+Serbia,Arangelovac,24309
+Serbia,Gornji Milanovac,23982
+Serbia,Lazarevac,23551
+Serbia,Sremcica,23000
+Serbia,Cuprija,20585
+Serbia,Senta,20302
+Serbia,Apatin,18320
+Serbia,Negotin,17612
+Serbia,Obrenovac,16821
+Serbia,Stara Pazova,16217
+Serbia,Backa Topola,16154
+Serbia,Nova Pazova,15488
+Israel,Jerusalem,801000
+Israel,Tel Aviv,432892
+Israel,West Jerusalem,400000
+Israel,Haifa,267300
+Israel,Ashdod,224656
+Israel,Rishon LeZiyyon,220492
+Israel,Petah Tiqwa,200000
+Israel,Beersheba,186600
+Israel,Netanya,171676
+Israel,Holon,165787
+Israel,Bnei Brak,154400
+Israel,Rehovot,132671
+Israel,Bat Yam,128979
+Israel,Ramat Gan,128095
+Israel,Ashkelon,105995
+Israel,Jaffa,100000
+Israel,Modi'in Makkabbim Re'ut,88749
+Israel,Herzliya,83600
+Israel,Kfar Saba,80773
+Israel,Ra'anana,80000
+Israel,Hadera,75854
+Israel,Bet Shemesh,67100
+Israel,Lod,66589
+Israel,Nazareth,64800
+Israel,Modiin Ilit,64179
+Israel,Ramla,63860
+Israel,Nahariyya,51200
+Israel,Qiryat Ata,48966
+Israel,Givatayim,48000
+Israel,Qiryat Gat,47450
+Israel,Acre,45603
+Israel,Eilat,45588
+Israel,Afula,44930
+Israel,Karmi'el,44382
+Israel,Hod HaSharon,43185
+Israel,Umm el Fahm,41030
+Israel,Tiberias,39790
+Israel,Qiryat Mozqin,39404
+Israel,Qiryat Yam,39273
+Israel,Rosh Ha'Ayin,39215
+Israel,Ness Ziona,38700
+Israel,Qiryat Bialik,36551
+Israel,Ramat HaSharon,36137
+Israel,Dimona,33558
+Israel,Et Taiyiba,32978
+Israel,Yavne,31774
+Israel,Or Yehuda,30802
+Israel,Yehud-Monosson,29312
+Israel,Safed,27816
+Israel,Gedera,26217
+Israel,Tamra,25917
+Israel,Yehud,25600
+Israel,Daliyat al Karmel,25000
+Israel,Migdal Ha`Emeq,24800
+Israel,Sakhnin,24596
+Israel,Netivot,24564
+Israel,Mevasseret Ziyyon,24409
+Israel,Ofaqim,24311
+Israel,Arad,23700
+Israel,Gan Yavne,22453
+Israel,Qiryat Shemona,22035
+Israel,Kefar Yona,21611
+Israel,maalot Tarshiha,21400
+Israel,Nesher,21245
+Israel,Tirah,20786
+Israel,Shoham,20740
+Israel,Sederot,20228
+Israel,Rahat,19586
+Israel,Tirat Karmel,18993
+Israel,Maghar,18915
+Switzerland,Zurich,341730
+Switzerland,Geneve,183981
+Switzerland,Basel,164488
+Switzerland,Bern,121631
+Switzerland,Lausanne,116751
+Switzerland,Winterthur,91908
+Switzerland,Sankt Gallen,70572
+Switzerland,Lugano,63000
+Switzerland,Luzern,57066
+Switzerland,Zuerich (Kreis 11),54260
+Switzerland,Biel/Bienne,48614
+Switzerland,Zuerich (Kreis 3),46018
+Switzerland,Zuerich (Kreis 9),44878
+Switzerland,Thun,42136
+Switzerland,Koniz,37196
+Switzerland,La Chaux-de-Fonds,36825
+Switzerland,Zuerich (Kreis 10),36216
+Switzerland,Rapperswil,34776
+Switzerland,Schaffhausen,33863
+Switzerland,Zuerich (Kreis 7),33820
+Switzerland,Fribourg,32827
+Switzerland,Chur,32429
+Switzerland,Neuchatel,31270
+Switzerland,Vernier,30086
+Switzerland,Zuerich (Kreis 6),29951
+Switzerland,Zuerich (Kreis 2),29215
+Switzerland,Zuerich (Kreis 9) / Altstetten,28307
+Switzerland,Zuerich (Kreis 12),28189
+Switzerland,Sitten,28045
+Switzerland,Lancy,27291
+Switzerland,Zuerich (Kreis 4) / Aussersihl,27273
+Switzerland,Emmen,26889
+Switzerland,Kriens,25010
+Switzerland,Yverdon-les-Bains,23702
+Switzerland,Zug,23435
+Switzerland,Uster,23279
+Switzerland,Montreux,22897
+Switzerland,Frauenfeld,21979
+Switzerland,Zuerich (Kreis 3) / Sihlfeld,20977
+Switzerland,Dietikon,20893
+Switzerland,Baar,20546
+Switzerland,Zuerich (Kreis 6) / Unterstrass,20045
+Switzerland,Riehen,20000
+Switzerland,Dubendorf,19882
+Switzerland,Meyrin,19772
+Switzerland,Carouge,19344
+Switzerland,Wettingen,18191
+Switzerland,Allschwil,18189
+Switzerland,Zuerich (Kreis 11) / Oerlikon,17922
+Switzerland,Zuerich (Kreis 11) / Seebach,17851
+Switzerland,Renens,17811
+Switzerland,Kreuzlingen,17655
+Switzerland,Jona,17655
+Switzerland,Onex,17302
+Switzerland,Zuerich (Kreis 11) / Affoltern,17241
+Switzerland,Zuerich (Kreis 10) / Hoengg,17117
+Switzerland,Gossau,17043
+Switzerland,Muttenz,16927
+Switzerland,Wil,16808
+Switzerland,Nyon,16797
+Switzerland,Bellinzona,16572
+Switzerland,Zuerich (Kreis 9) / Albisrieden,16480
+Switzerland,Olten,16411
+Switzerland,Oberwinterthur (Kreis 2),16356
+Switzerland,Kloten,16289
+Switzerland,Pully,16263
+Switzerland,Stadt Winterthur (Kreis 1),16182
+Switzerland,Littau,16121
+Switzerland,Baden,16118
+Switzerland,Zuerich (Kreis 2) / Wollishofen,16073
+Togo,Lome,749700
+Togo,Sokode,117811
+Togo,Kara,104207
+Togo,Atakpame,80683
+Togo,Kpalime,75084
+Togo,Bassar,61845
+Togo,Tsevie,55775
+Togo,Aneho,47579
+Togo,Sansanne-Mango,37748
+Togo,Dapaong,33324
+Togo,Tchamba,25668
+Togo,Badou,24000
+Togo,Niamtougou,23261
+Togo,Bafilo,22543
+Togo,Notse,22017
+Togo,Sotouboua,21054
+Togo,Vogan,20569
+Sierra Leone,Freetown,802639
+Sierra Leone,Bo,174354
+Sierra Leone,Kenema,143137
+Sierra Leone,Koidu,88000
+Sierra Leone,Makeni,87679
+Sierra Leone,Lunsar,22461
+Sierra Leone,Port Loko,21308
+Sierra Leone,Waterloo,19750
+Sierra Leone,Kabala,17948
+Sierra Leone,Segbwema,16532
+Hong Kong,Hong Kong,7012738
+Hong Kong,Kowloon,2019533
+Hong Kong,Tsuen Wan,288728
+Hong Kong,Yuen Long Kau Hui,141900
+Hong Kong,Tung Chung,45000
+Hong Kong,Sha Tin,21559
+Hong Kong,Tuen Mun,16940
+Hong Kong,Tai Po,16302
+Laos,Vientiane,196731
+Laos,Pakse,88332
+Laos,Thakhek,85000
+Laos,Savannakhet,66553
+Laos,Luang Prabang,47378
+Laos,Xam Nua,38992
+Laos,Muang Phonsavan,37507
+Laos,Muang Xay,25000
+Laos,Vangviang,25000
+Laos,Muang Pakxan,21967
+Laos,Ban Houakhoua,15500
+Paraguay,Asuncion,1482200
+Paraguay,Ciudad del Este,320782
+Paraguay,San Lorenzo,227876
+Paraguay,Capiata,198553
+Paraguay,Lambare,126377
+Paraguay,Fernando de la Mora,120167
+Paraguay,Limpio,96143
+Paraguay,Nemby,94641
+Paraguay,Pedro Juan Caballero,75109
+Paraguay,Encarnacion,74983
+Paraguay,Mariano Roque Alonso,72008
+Paraguay,Itaugua,64997
+Paraguay,Villa Elisa,64099
+Paraguay,Villa Hayes,57217
+Paraguay,San Antonio,55754
+Paraguay,Caaguazu,54808
+Paraguay,Presidente Franco,54292
+Paraguay,Coronel Oviedo,51286
+Paraguay,Concepcion,48123
+Paraguay,Villarrica,41157
+Paraguay,Pilar,28716
+Paraguay,Caazapa,23996
+Paraguay,Caacupe,21696
+Paraguay,Ita,18459
+Paraguay,San Juan Bautista,16593
+Bulgaria,Sofia,1152556
+Bulgaria,Plovdiv,340494
+Bulgaria,Varna,312770
+Bulgaria,Burgas,195966
+Bulgaria,Ruse,156238
+Bulgaria,Stara Zagora,143431
+Bulgaria,Pleven,118675
+Bulgaria,Sliven,96368
+Bulgaria,Dobrich,94831
+Bulgaria,Shumen,87283
+Bulgaria,Pernik,82467
+Bulgaria,Yambol,80116
+Bulgaria,Haskovo,79699
+Bulgaria,Pazardzhik,75977
+Bulgaria,Blagoevgrad,71306
+Bulgaria,Veliko Turnovo,66217
+Bulgaria,Gabrovo,66175
+Bulgaria,Vratsa,64941
+Bulgaria,Kazanlak,55196
+Bulgaria,Vidin,54409
+Bulgaria,Asenovgrad,52170
+Bulgaria,Kardzhali,51000
+Bulgaria,Kyustendil,48286
+Bulgaria,Montana,47445
+Bulgaria,Dimitrovgrad,43288
+Bulgaria,Lovech,42211
+Bulgaria,Silistra,39715
+Bulgaria,Razgrad,38285
+Bulgaria,Targovishte,37774
+Bulgaria,Dupnitsa,34764
+Bulgaria,Gorna Oryahovitsa,32792
+Bulgaria,Svishtov,32256
+Bulgaria,Smolyan,32069
+Bulgaria,Petrich,30308
+Bulgaria,Samokov,26765
+Bulgaria,Lom,26594
+Bulgaria,Sandanski,26459
+Bulgaria,Sevlievo,24582
+Bulgaria,Nova Zagora,24340
+Bulgaria,Velingrad,24036
+Bulgaria,Cherven Bryag,21688
+Bulgaria,Troyan,21162
+Bulgaria,Aytos,20986
+Bulgaria,Botevgrad,20909
+Bulgaria,Gotse Delchev,20471
+Bulgaria,Karlovo,19958
+Bulgaria,Karnobat,19709
+Bulgaria,Panagyurishte,19389
+Bulgaria,Svilengrad,19279
+Bulgaria,Harmanli,18931
+Bulgaria,Peshtera,18676
+Bulgaria,Chirpan,17243
+Bulgaria,Parvomay,17000
+Bulgaria,Popovo,16571
+Bulgaria,Rakovski,15782
+Bulgaria,Berkovitsa,15027
+Libya,Tripoli,1150989
+Libya,Benghazi,650629
+Libya,Misratah,386120
+Libya,Tarhuna,210697
+Libya,Al Khums,201943
+Libya,Az Zawiyah,200000
+Libya,Zawiya,186123
+Libya,Ajdabiya,134358
+Libya,Al Ajaylat,130546
+Libya,Sabha,130000
+Libya,Sirte,128123
+Libya,Al Jadid,126386
+Libya,Tobruk,121052
+Libya,Zliten,109972
+Libya,Sabratah,102038
+Libya,Tagiura,100000
+Libya,Al Marj,85315
+Libya,Gharyan,85219
+Libya,Darnah,78782
+Libya,Al Bayda',74594
+Libya,Yafran,67638
+Libya,Bani Walid,46350
+Libya,At Taj,46050
+Libya,Zuwarah,45000
+Libya,Murzuq,43732
+Libya,Ubari,42975
+Libya,Brak,39444
+Libya,Zintan,33000
+Libya,Al Abyar,32563
+Libya,Waddan,27590
+Libya,Nalut,26256
+Libya,Mizdah,26107
+Libya,Surman,25235
+Libya,Al Qubbah,24631
+Libya,Ghat,24347
+Libya,Masallatah,23702
+Libya,Tukrah,23164
+Libya,Az Zuwaytinah,21015
+Libya,Hun,18878
+Libya,Zaltan,17700
+Libya,Al Jawf,17320
+Libya,Qaryat Suluq,15543
+Lebanon,Beirut,1916100
+Lebanon,Ra's Bayrut,1251739
+Lebanon,Tripoli,229398
+Lebanon,Sidon,163554
+Lebanon,Tyre,135204
+Lebanon,Nabatiye et Tahta,120000
+Lebanon,Habbouch,98433
+Lebanon,Jounieh,96315
+Lebanon,Zahle,78145
+Lebanon,Baalbek,30916
+Lebanon,En Naqoura,24910
+Lebanon,Jbail,20784
+Lebanon,Bcharre,20000
+Nicaragua,Managua,973087
+Nicaragua,Leon,144538
+Nicaragua,Masaya,130113
+Nicaragua,Chinandega,126387
+Nicaragua,Matagalpa,109089
+Nicaragua,Esteli,96422
+Nicaragua,Granada,89409
+Nicaragua,Jinotega,55000
+Nicaragua,El Viejo,53504
+Nicaragua,Nueva Guinea,52929
+Nicaragua,Tipitapa,50000
+Nicaragua,Juigalpa,50000
+Nicaragua,Ciudad Sandino,50000
+Nicaragua,Bluefields,44373
+Nicaragua,Diriamba,35008
+Nicaragua,Ocotal,33928
+Nicaragua,Puerto Cabezas,33635
+Nicaragua,Chichigalpa,33137
+Nicaragua,Rivas,30000
+Nicaragua,San Rafael del Sur,29836
+Nicaragua,Jinotepe,29507
+Nicaragua,Boaco,29046
+Nicaragua,Nagarote,26270
+Nicaragua,Jalapa,24037
+Nicaragua,La Paz Centro,23481
+Nicaragua,San Marcos,23347
+Nicaragua,Masatepe,21452
+Nicaragua,Nandaime,20810
+Nicaragua,El Rama,20456
+Nicaragua,Somoto,20316
+Nicaragua,Corinto,19183
+Nicaragua,Rio Blanco,17018
+Nicaragua,Camoapa,16653
+Nicaragua,El Crucero,16469
+Nicaragua,Siuna,16056
+Nicaragua,Somotillo,15385
+Kyrgyzstan,Bishkek,900000
+Kyrgyzstan,Osh,200000
+Kyrgyzstan,Jalal-Abad,75700
+Kyrgyzstan,Karakol,70171
+Kyrgyzstan,Tokmok,63047
+Kyrgyzstan,Kara-Balta,62796
+Kyrgyzstan,Naryn,52300
+Kyrgyzstan,Uzgen,40360
+Kyrgyzstan,Balykchy,40000
+Kyrgyzstan,Talas,35172
+Kyrgyzstan,Kyzyl-Kyya,32000
+Kyrgyzstan,Bazar-Korgon,27704
+Kyrgyzstan,Iradan,26200
+Kyrgyzstan,Tash-Kumyr,23594
+Kyrgyzstan,Kant,20181
+Kyrgyzstan,Toktogul,19336
+Kyrgyzstan,Cholpon-Ata,18595
+Kyrgyzstan,Kara Suu,17800
+Kyrgyzstan,Isfana,16952
+Kyrgyzstan,Kyzyl-Suu,16927
+Kyrgyzstan,At-Bashi,15226
+Kyrgyzstan,Suluktu,15019
+El Salvador,San Salvador,525990
+El Salvador,Soyapango,329708
+El Salvador,Santa Ana,176661
+El Salvador,San Miguel,161880
+El Salvador,Mejicanos,160317
+El Salvador,Santa Tecla,124694
+El Salvador,Apopa,112158
+El Salvador,Delgado,71594
+El Salvador,Sonsonate,59468
+El Salvador,San Marcos,54615
+El Salvador,Usulutan,51910
+El Salvador,Cojutepeque,48411
+El Salvador,Cuscatancingo,44369
+El Salvador,San Vicente,41504
+El Salvador,Zacatecoluca,39613
+El Salvador,San Martin,39361
+El Salvador,Ilopango,38890
+El Salvador,Ahuachapan,34102
+El Salvador,Antiguo Cuscatlan,33767
+El Salvador,Chalchuapa,32282
+El Salvador,Quezaltepeque,28886
+El Salvador,La Union,26807
+El Salvador,Ayutuxtepeque,25426
+El Salvador,Acajutla,22763
+El Salvador,Aguilares,21445
+El Salvador,Sensuntepeque,20386
+El Salvador,Chalatenango,19364
+El Salvador,Izalco,19197
+El Salvador,Metapan,19143
+El Salvador,San Rafael Oriente,19095
+El Salvador,Puerto El Triunfo,19074
+El Salvador,La Libertad,16855
+El Salvador,San Francisco,16152
+El Salvador,Sonzacate,15446
+El Salvador,Santiago de Maria,15032
+Turkmenistan,Ashgabat,727700
+Turkmenistan,Turkmenabat,234817
+Turkmenistan,Dasoguz,166500
+Turkmenistan,Mary,114680
+Turkmenistan,Balkanabat,87822
+Turkmenistan,Bayramaly,75797
+Turkmenistan,Turkmenbasy,68292
+Turkmenistan,Tejen,67294
+Turkmenistan,Abadan,39481
+Turkmenistan,Yoloeten,37705
+Turkmenistan,Gowurdak,34745
+Turkmenistan,Atamyrat,33242
+Turkmenistan,Koeneuergench,30000
+Turkmenistan,Annau,27526
+Turkmenistan,Yylanly,26901
+Turkmenistan,Gumdag,24312
+Turkmenistan,Baharly,22991
+Turkmenistan,Boldumsaz,21159
+Turkmenistan,Bereket,21090
+Turkmenistan,Gazojak,21021
+Turkmenistan,Kaka,18545
+Turkmenistan,Sayat,17762
+Turkmenistan,Seydi,17762
+Turkmenistan,Tagta,16635
+Singapore,Singapore,3547809
+Denmark,Copenhagen,1153615
+Denmark,Arhus,237551
+Denmark,Odense,145931
+Denmark,Aalborg,122219
+Denmark,Frederiksberg,95029
+Denmark,Esbjerg,72205
+Denmark,Horsens,58646
+Denmark,Randers,55780
+Denmark,Kolding,55363
+Denmark,Vejle,51177
+Denmark,Hvidovre,49380
+Denmark,Greve,47671
+Denmark,Herning,44763
+Denmark,Roskilde,44285
+Denmark,Silkeborg,41674
+Denmark,Naestved,40660
+Denmark,Charlottenlund,40000
+Denmark,Ballerup,40000
+Denmark,Vanlose,37115
+Denmark,Fredericia,36946
+Denmark,Horsholm,36670
+Denmark,Helsingor,35048
+Denmark,Viborg,34831
+Denmark,Koge,33885
+Denmark,Holstebro,32072
+Denmark,Slagelse,31896
+Denmark,Taastrup,30977
+Denmark,Hillerod,30853
+Denmark,Albertslund,30000
+Denmark,Rodovre,30000
+Denmark,Svendborg,27553
+Denmark,Sonderborg,27033
+Denmark,Hjorring,24634
+Denmark,Holbaek,24544
+Denmark,Frederikshavn,24103
+Denmark,Norresundby,22083
+Denmark,Haderslev,20825
+Denmark,Skive,20815
+Denmark,Glostrup,20673
+Denmark,Ringsted,20188
+Denmark,Stenlose,19998
+Denmark,Ishoj,19453
+Denmark,Birkerod,18901
+Denmark,Farum,18376
+Denmark,Nykobing Falster,16807
+Denmark,Aabenraa,16344
+Denmark,Kalundborg,15939
+Denmark,Nyborg,15826
+Denmark,Lillerod,15359
+Denmark,Korsor,15029
+Finland,Helsinki,558457
+Finland,Espoo,256760
+Finland,Tampere,202687
+Finland,Vantaa,190058
+Finland,Turku,175945
+Finland,Oulu,128618
+Finland,Lahti,98826
+Finland,Kuopio,89104
+Finland,Jyvaeskylae,85026
+Finland,Pori,76772
+Finland,Lappeenranta,59276
+Finland,Vaasa,57014
+Finland,Kotka,54616
+Finland,Joensuu,53388
+Finland,Haemeenlinna,47261
+Finland,Porvoo,47192
+Finland,Mikkeli,46550
+Finland,Hyvinge,43515
+Finland,Jaervenpaeae,38148
+Finland,Nurmijaervi,37073
+Finland,Rauma,36550
+Finland,Mellunkylae,36360
+Finland,Lohja,35960
+Finland,Vuosaari,35826
+Finland,Kokkola,35586
+Finland,Kajaani,35375
+Finland,Rovaniemi,34781
+Finland,Tuusula,34725
+Finland,Kirkkonummi,32920
+Finland,Seinaejoki,32149
+Finland,Kerava,31347
+Finland,Kouvola,31133
+Finland,Imatra,29615
+Finland,Nokia,28676
+Finland,Savonlinna,27353
+Finland,Kallio,27051
+Finland,Riihimaeki,26451
+Finland,Kaarela,26414
+Finland,Vihti,26280
+Finland,Salo,24900
+Finland,Kangasala,24291
+Finland,Raisio,23597
+Finland,Karhula,22867
+Finland,Kemi,22641
+Finland,Iisalmi,22588
+Finland,Varkaus,22365
+Finland,Raahe,22217
+Finland,Yloejaervi,22140
+Finland,Hamina,21712
+Finland,Kaarina,21684
+Finland,Tornio,21236
+Finland,Heinola,20849
+Finland,Hollola,20405
+Finland,Valkeakoski,20376
+Finland,Siilinjaervi,20209
+Finland,Lauttasaari,20000
+Finland,Sibbo,19430
+Finland,Jakobstad,19238
+Finland,Lempaeaelae,18096
+Finland,Maentsaelae,18074
+Finland,Forssa,17852
+Finland,Kuusamo,17400
+Finland,Munkkiniemi,17334
+Finland,Haukipudas,17298
+Finland,Korsholm,17176
+Finland,Laukaa,17093
+Finland,Anjala,16779
+Finland,Uusikaupunki,16226
+Finland,Janakkala,15698
+Finland,Pirkkala,15615
+Congo,Brazzaville,1284609
+Congo,Pointe-Noire,659084
+Congo,Dolisie,103894
+Congo,Kayes,58737
+Congo,Owando,23952
+Congo,Ouesso,23915
+Congo,Loandjili,23204
+Congo,Madingou,22760
+Congo,Gamboma,20877
+Congo,Impfondo,20859
+Congo,Sibiti,19089
+Congo,Mossendjo,18231
+Slovakia,Bratislava,423737
+Slovakia,Kosice,236563
+Slovakia,Presov,94718
+Slovakia,Nitra,86329
+Slovakia,Zilina,85985
+Slovakia,Banska Bystrica,82336
+Slovakia,Trnava,69785
+Slovakia,Martin,60817
+Slovakia,Trencin,58278
+Slovakia,Poprad,57431
+Slovakia,Prievidza,52987
+Slovakia,Zvolen,44502
+Slovakia,Povazska Bystrica,43936
+Slovakia,Nove Zamky,42044
+Slovakia,Michalovce,40360
+Slovakia,Spisska Nova Ves,39195
+Slovakia,Levice,37574
+Slovakia,Komarno,36279
+Slovakia,Humenne,35367
+Slovakia,Liptovsky Mikulas,33509
+Slovakia,Bardejov,33060
+Slovakia,Ruzomberok,30806
+Slovakia,Piestany,30000
+Slovakia,Lucenec,28159
+Slovakia,Dubnica nad Vahom,26617
+Slovakia,Rimavska Sobota,25235
+Slovakia,Cadca,24670
+Slovakia,Sala,24513
+Slovakia,Partizanske,24370
+Slovakia,Hlohovec,23930
+Slovakia,Dunajska Streda,23639
+Slovakia,Vranov nad Topl'ou,23246
+Slovakia,Trebisov,22947
+Slovakia,Snina,22221
+Slovakia,Senica,21741
+Slovakia,Nove Mesto nad Vahom,21527
+Slovakia,Kezmarok,21391
+Slovakia,Pezinok,21343
+Slovakia,Brezno,21331
+Slovakia,Ziar nad Hronom,19392
+Slovakia,Roznava,19261
+Slovakia,Dolny Kubin,18995
+Slovakia,Banovce nad Bebravou,18933
+Slovakia,Puchov,18833
+Slovakia,Handlova,18018
+Slovakia,Malacky,17773
+Slovakia,Kysucke Nove Mesto,16558
+Slovakia,Galanta,16365
+Slovakia,Stara L'ubovna,16000
+Slovakia,Zlate Moravce,15618
+Slovakia,Detva,15020
+Slovakia,Skalica,15013
+Norway,Oslo,580000
+Norway,Bergen,213585
+Norway,Trondheim,147139
+Norway,Stavanger,121610
+Norway,Drammen,90722
+Norway,Fredrikstad,72760
+Norway,Kristiansand,63814
+Norway,Sandnes,63032
+Norway,Tromso,52436
+Norway,Sarpsborg,52159
+Norway,Skien,50595
+Norway,Alesund,44096
+Norway,Sandefjord,42654
+Norway,Haugesund,40321
+Norway,Tonsberg,38914
+Norway,Moss,34492
+Norway,Porsgrunn,34377
+Norway,Bodo,34073
+Norway,Arendal,30916
+Norway,Hamar,29479
+Norway,Ytrebygda,24044
+Norway,Larvik,23113
+Norway,Halden,21970
+Norway,Steinkjer,20000
+Norway,Harstad,19433
+Norway,Lillehammer,19096
+Norway,Molde,18594
+Norway,Mo i Rana,17853
+Norway,Kongsberg,17667
+Norway,Horten,17660
+Norway,Gjovik,17596
+Norway,Askoy,17224
+Norway,Kristiansund,16785
+Oman,Muscat,797000
+Oman,Seeb,237816
+Oman,Salalah,163140
+Oman,Bawshar,159487
+Oman,Sohar,108274
+Oman,As Suwayq,107143
+Oman,`Ibri,101640
+Oman,Saham,89327
+Oman,Barka',81647
+Oman,Rustaq,79383
+Oman,Al Buraymi,73670
+Oman,Nizwa,72076
+Oman,Sur,71152
+Oman,Bahla',54338
+Oman,Al Khaburah,50223
+Oman,Shinas,48009
+Oman,Sufalat Sama'il,47718
+Oman,Izki,36203
+Oman,Liwa,26372
+Oman,Ibra',25265
+Oman,Oman Smart Future City,25000
+Oman,Bidbid,21188
+Oman,Badiyah,18479
+Oman,Khasab,17904
+Oman,Adam,17283
+Oman,Yanqul,16599
+State of Palestine,East Jerusalem,428304
+State of Palestine,Gaza,410000
+State of Palestine,Khan Yunis,173183
+State of Palestine,Jabalya,168568
+State of Palestine,Hebron,160470
+State of Palestine,Nablus,130326
+State of Palestine,Rafah,126305
+State of Palestine,Dayr al Balah,59504
+State of Palestine,Bayt Lahya,56919
+State of Palestine,Tulkarm,44169
+State of Palestine,Qalqilyah,43212
+State of Palestine,Yuta,41425
+State of Palestine,Al Birah,38192
+State of Palestine,Bayt Hanun,37392
+State of Palestine,An Nusayrat,36123
+State of Palestine,Old City,36000
+State of Palestine,Al Burayj,34951
+State of Palestine,Janin,34730
+State of Palestine,Bani Suhayla,31272
+State of Palestine,Bethlehem,29019
+State of Palestine,Az Zahiriyah,27616
+State of Palestine,Kalandia,25595
+State of Palestine,Ar Ram wa Dahiyat al Barid,24838
+State of Palestine,Ramallah,24599
+State of Palestine,Halhul,21076
+State of Palestine,Dura,20835
+State of Palestine,Bani Na`im,19783
+State of Palestine,Jericho,19783
+State of Palestine,Al Qararah,19500
+State of Palestine,As Samu`,19355
+State of Palestine,Qabatiyah,19127
+State of Palestine,Idhna,18727
+State of Palestine,`Abasan al Kabirah,18163
+State of Palestine,Sa`ir,17775
+State of Palestine,Al `Ayzariyah,17455
+State of Palestine,Balatah,17146
+State of Palestine,Az Zuwaydah,16688
+State of Palestine,Bayt Jala,16183
+State of Palestine,Al Yamun,16164
+State of Palestine,Tubas,15591
+Costa Rica,San Jose,335007
+Costa Rica,Limon,63081
+Costa Rica,San Francisco,55923
+Costa Rica,Alajuela,47494
+Costa Rica,Liberia,45380
+Costa Rica,Paraiso,39702
+Costa Rica,Puntarenas,35650
+Costa Rica,San Isidro,34877
+Costa Rica,Curridabat,34586
+Costa Rica,San Vicente,34447
+Costa Rica,San Vicente de Moravia,34447
+Costa Rica,San Jose,31430
+Costa Rica,Purral,30034
+Costa Rica,Turrialba,28955
+Costa Rica,San Miguel,28827
+Costa Rica,San Pedro,27477
+Costa Rica,San Rafael Abajo,27419
+Costa Rica,Quesada,27310
+Costa Rica,Ipis,26669
+Costa Rica,Cartago,26594
+Costa Rica,Chacarita,26354
+Costa Rica,San Juan,26047
+Costa Rica,Mercedes,26007
+Costa Rica,Guadalupe,26005
+Costa Rica,Aserri,25874
+Costa Rica,San Rafael,25410
+Costa Rica,San Felipe,24985
+Costa Rica,Patarra,23983
+Costa Rica,Tejar,22433
+Costa Rica,Heredia,21947
+Costa Rica,San Pablo,21662
+Costa Rica,Calle Blancos,20710
+Costa Rica,Canas,20306
+Costa Rica,Guapiles,19092
+Costa Rica,Siquirres,18231
+Costa Rica,San Diego,16991
+Costa Rica,Colima,15875
+Costa Rica,Esparza,15575
+Costa Rica,San Juan de Dios,15469
+Costa Rica,Nicoya,15313
+Costa Rica,San Rafael Arriba,15051
+Liberia,Monrovia,939524
+Liberia,Gbarnga,45835
+Liberia,Kakata,33945
+Liberia,Bensonville,33188
+Liberia,Harper,32661
+Liberia,Voinjama,26594
+Liberia,Buchanan,25731
+Liberia,Zwedru,25678
+Liberia,New Yekepa,24695
+Liberia,Greenville,16434
+Ireland,Dublin,1024027
+Ireland,Cork,190384
+Ireland,Dun Laoghaire,185400
+Ireland,Luimneach,90054
+Ireland,Gaillimh,70686
+Ireland,Tallaght,64282
+Ireland,Waterford,47904
+Ireland,Swords,36924
+Ireland,Drogheda,33441
+Ireland,Dundalk,33428
+Ireland,Navan,24545
+Ireland,Ennis,24427
+Ireland,Balbriggan,23364
+Ireland,Tralee,22941
+Ireland,Sandyford,22288
+Ireland,Kilkenny,21589
+Ireland,Naas,20713
+Ireland,Sligo,20228
+Ireland,Carlow,20055
+Ireland,Loch Garman,19913
+Ireland,Finglas,19768
+Ireland,Celbridge,19537
+Ireland,Droichead Nua,18860
+Ireland,Cluain Meala,17394
+Ireland,An Muileann gCearr,17262
+Ireland,Letterkenny,16901
+Ireland,Blanchardstown,16511
+Ireland,Athlone,15951
+Ireland,Malahide,15846
+Ireland,Leixlip,15452
+Ireland,Donaghmede,15299
+Ireland,Lucan,15269
+Central African Republic,Bangui,542393
+Central African Republic,Bimbo,129655
+Central African Republic,Mbaiki,67132
+Central African Republic,Berberati,61815
+Central African Republic,Kaga Bandoro,56520
+Central African Republic,Bozoum,40201
+Central African Republic,Carnot,38071
+Central African Republic,Sibut,34267
+Central African Republic,Bambari,32547
+Central African Republic,Bria,29027
+Central African Republic,Bouar,28581
+Central African Republic,Bossangoa,27428
+Central African Republic,Nola,26809
+Central African Republic,Bangassou,24361
+Central African Republic,Damara,20093
+Central African Republic,Mobaye,19431
+Central African Republic,Paoua,18441
+Central African Republic,Boda,16655
+Central African Republic,Ippy,16571
+Central African Republic,Batangafo,15310
+New Zealand,Auckland,417910
+New Zealand,Wellington,381900
+New Zealand,Christchurch,363926
+New Zealand,Manukau City,362000
+New Zealand,Waitakere,208100
+New Zealand,North Shore,207865
+New Zealand,Hamilton,152641
+New Zealand,Dunedin,114347
+New Zealand,Tauranga,110338
+New Zealand,Lower Hutt,101194
+New Zealand,Palmerston North,75996
+New Zealand,Rotorua,65901
+New Zealand,Hastings,61696
+New Zealand,Nelson,59200
+New Zealand,Napier,56787
+New Zealand,Mangere,55266
+New Zealand,Porirua,50914
+New Zealand,Whangarei,50900
+New Zealand,New Plymouth,49168
+New Zealand,Invercargill,47287
+New Zealand,Wanganui,40268
+New Zealand,Upper Hutt,38400
+New Zealand,Gisborne,34274
+New Zealand,Ashburton,30100
+New Zealand,Papakura,28010
+New Zealand,Timaru,28007
+New Zealand,Blenheim,26550
+New Zealand,Paraparaumu,25263
+New Zealand,Taupo,22469
+New Zealand,Pukekohe East,21438
+New Zealand,Masterton,20698
+New Zealand,Levin,19789
+New Zealand,Whakatane,18602
+New Zealand,Taradale,16599
+New Zealand,Cambridge,15192
+Mauritania,Nouakchott,661400
+Mauritania,Nouadhibou,72337
+Mauritania,Nema,60000
+Mauritania,Kaedi,55374
+Mauritania,Rosso,48922
+Mauritania,Kiffa,40281
+Mauritania,Zouerate,38000
+Mauritania,Atar,24021
+Mauritania,Tekane,22041
+Mauritania,Selibaby,18424
+Mauritania,Aleg,15211
+Panama,Panama,408168
+Panama,San Miguelito,321501
+Panama,Juan Diaz,100636
+Panama,David,81957
+Panama,Arraijan,76815
+Panama,Colon,76643
+Panama,Las Cumbres,69102
+Panama,La Chorrera,61232
+Panama,Pedregal,51641
+Panama,Tocumen,50844
+Panama,Santiago de Veraguas,45355
+Panama,Parque Lefevre,36997
+Panama,Chilibre,33536
+Panama,Cativa,29607
+Panama,Rio Abajo,26607
+Panama,Nuevo Belen,24056
+Panama,Ancon,20706
+Panama,Alcalde Diaz,20285
+Panama,El Chorrillo,18302
+Panama,Changuinola,17997
+Panama,La Cabima,17975
+Panama,La Concepcion,17698
+Panama,Pedregal,17427
+Panama,Veracruz,17144
+Panama,Curundu,16361
+Panama,Penonome,16250
+Panama,Sabanitas,15577
+Kuwait,Al Ahmadi,637411
+Kuwait,Hawalli,164212
+Kuwait,As Salimiyah,147649
+Kuwait,Sabah as Salim,139163
+Kuwait,Al Farwaniyah,86525
+Kuwait,Al Fahahil,68290
+Kuwait,Kuwait City,60064
+Kuwait,Ar Rumaythiyah,58135
+Kuwait,Ar Riqqah,52068
+Kuwait,Salwa,40945
+Kuwait,Al Manqaf,39025
+Kuwait,Ar Rabiyah,36447
+Kuwait,Bayan,30635
+Kuwait,Al Jahra',24281
+Kuwait,Al Fintas,23071
+Kuwait,Janub as Surrah,18496
+Kuwait,Al Mahbulah,18178
+Kuwait,Ad Dasmah,17585
+Croatia,Zagreb,698966
+Croatia,Split,176314
+Croatia,Rijeka,141172
+Croatia,Osijek,88140
+Croatia,Zadar,71258
+Croatia,Slavonski Brod,60742
+Croatia,Pula,59078
+Croatia,Sesvete,52411
+Croatia,Karlovac,46833
+Croatia,Varazdin,41808
+Croatia,Stenjevec,41257
+Croatia,Sibenik,37112
+Croatia,Centar,37000
+Croatia,Sisak,35748
+Croatia,Velika Gorica,35072
+Croatia,Vinkovci,33314
+Croatia,Vukovar,29584
+Croatia,Dubrovnik,28428
+Croatia,Bjelovar,28275
+Croatia,Koprivnica,25579
+Croatia,Pozega,21153
+Croatia,Solin,20212
+Croatia,Zapresic,19664
+Croatia,GJakovo,19491
+Croatia,Cakovec,15867
+Croatia,Virovitica,15665
+Croatia,Samobor,15221
+Moldova,Chisinau,635994
+Moldova,Tiraspol,157000
+Moldova,Balti,125000
+Moldova,Bender,110175
+Moldova,Ribnita,55455
+Moldova,Cahul,34492
+Moldova,Ungheni,34422
+Moldova,Soroca,27423
+Moldova,Orhei,24918
+Moldova,Dubasari,23254
+Moldova,Comrat,22911
+Moldova,Edinet,22872
+Moldova,Ceadir-Lunga,22700
+Moldova,Causeni,21690
+Moldova,Straseni,19225
+Moldova,Hincesti,16900
+Moldova,Floresti,16759
+Moldova,Drochia,16080
+Moldova,Bilicenii Vechi,15479
+Moldova,Slobozia,15356
+Georgia,Tbilisi,1049498
+Georgia,Kutaisi,178338
+Georgia,Batumi,121806
+Georgia,Sokhumi,81546
+Georgia,Zugdidi,73006
+Georgia,Rust'avi,50000
+Georgia,P'ot'i,47149
+Georgia,Gori,46676
+Georgia,Ts'khinvali,30000
+Georgia,Samtredia,28748
+Georgia,Khashuri,27811
+Georgia,Senak'i,27752
+Georgia,Stantsiya Novyy Afon,26636
+Georgia,Zestap'oni,25891
+Georgia,Telavi,21800
+Georgia,Ozurgeti,20636
+Georgia,Marneuli,18755
+Georgia,Kobuleti,18600
+Georgia,Tqvarch'eli,17847
+Georgia,Akhaltsikhe,17298
+Georgia,Tsqaltubo,16736
+Georgia,Och'amch'ire,15517
+Eritrea,Asmara,563930
+Eritrea,Keren,74800
+Eritrea,Massawa,23100
+Eritrea,Assab,21300
+Eritrea,Mendefera,17781
+Eritrea,Barentu,15891
+Uruguay,Montevideo,1270737
+Uruguay,Salto,99823
+Uruguay,Paysandu,73249
+Uruguay,Las Piedras,69682
+Uruguay,Rivera,64631
+Uruguay,Maldonado,55478
+Uruguay,Tacuarembo,51854
+Uruguay,Melo,51023
+Uruguay,Mercedes,42359
+Uruguay,Artigas,41909
+Uruguay,Minas,38025
+Uruguay,San Jose de Mayo,36529
+Uruguay,Durazno,33926
+Uruguay,Florida,32234
+Uruguay,Barros Blancos,31650
+Uruguay,Treinta y Tres,25653
+Uruguay,Rocha,25515
+Uruguay,San Carlos,24938
+Uruguay,Pando,24047
+Uruguay,Fray Bentos,23279
+Uruguay,Colonia del Sacramento,21714
+Uruguay,Trinidad,21429
+Uruguay,La Paz,19913
+Uruguay,Canelones,19698
+Uruguay,Delta del Tigre,17973
+Uruguay,Carmelo,16921
+Uruguay,Santa Lucia,16438
+Uruguay,Progreso,15973
+Uruguay,Young,15924
+Uruguay,Dolores,15880
+Uruguay,Paso de Carrasco,15393
+Bosnia and Herzegovina,Sarajevo,696731
+Bosnia and Herzegovina,Banja Luka,221106
+Bosnia and Herzegovina,Zenica,164423
+Bosnia and Herzegovina,Tuzla,142486
+Bosnia and Herzegovina,Mostar,104518
+Bosnia and Herzegovina,Bihac,75641
+Bosnia and Herzegovina,Bugojno,41378
+Bosnia and Herzegovina,Brcko,38968
+Bosnia and Herzegovina,Bijeljina,37692
+Bosnia and Herzegovina,Prijedor,36347
+Bosnia and Herzegovina,Trebinje,33178
+Bosnia and Herzegovina,Travnik,31127
+Bosnia and Herzegovina,Doboj,27235
+Bosnia and Herzegovina,Cazin,21741
+Bosnia and Herzegovina,Velika Kladusa,19330
+Bosnia and Herzegovina,Visoko,17890
+Bosnia and Herzegovina,Gorazde,17650
+Bosnia and Herzegovina,Konjic,15950
+Bosnia and Herzegovina,Gracanica,15758
+Bosnia and Herzegovina,Gradacac,15659
+Bosnia and Herzegovina,Bosanska Krupa,15193
+Mongolia,Ulan Bator,844818
+Mongolia,Erdenet,79647
+Mongolia,Darhan,74300
+Mongolia,Khovd,30500
+Mongolia,OElgii,28400
+Mongolia,Ulaangom,28085
+Mongolia,Hovd,27924
+Mongolia,Murun-kuren,27690
+Mongolia,Bayanhongor,26252
+Mongolia,Arvayheer,25622
+Mongolia,Suhbaatar,24235
+Mongolia,Bayanhongor,23234
+Mongolia,Saynshand,19891
+Mongolia,Dzuunharaa,18830
+Mongolia,Zuunmod,17630
+Mongolia,Bulgan,17348
+Mongolia,Uliastay,16240
+Mongolia,Baruun-Urt,15805
+Mongolia,Altai,15800
+Mongolia,Mandalgovi,15430
+Mongolia,Dalandzadgad,15093
+Armenia,Yerevan,1093485
+Armenia,Gyumri,148381
+Armenia,Vanadzor,101098
+Armenia,Vagharshapat,46540
+Armenia,Hrazdan,40795
+Armenia,Abovyan,35673
+Armenia,Kapan,33160
+Armenia,Ararat,28832
+Armenia,Armavir,25963
+Armenia,Step'anavan,23782
+Armenia,Gavarr,21680
+Armenia,Artashat,20562
+Armenia,Goris,20379
+Armenia,Masis,18911
+Armenia,Ashtarak,18779
+Armenia,Sevan,17083
+Armenia,Hats'avan,15208
+Armenia,Spitak,15059
+Jamaica,Kingston,937700
+Jamaica,New Kingston,583958
+Jamaica,Spanish Town,145018
+Jamaica,Portmore,102861
+Jamaica,Montego Bay,82867
+Jamaica,Mandeville,47115
+Jamaica,May Pen,44755
+Jamaica,Old Harbour,26024
+Jamaica,Linstead,20660
+Jamaica,Half Way Tree,18552
+Jamaica,Savanna-la-Mar,16553
+Qatar,Doha,344939
+Qatar,Ar Rayyan,272465
+Qatar,Umm Salal Muhammad,29391
+Qatar,Al Wakrah,26436
+Qatar,Al Khawr,18923
+Albania,Tirana,374801
+Albania,Durres,122034
+Albania,Elbasan,100903
+Albania,Vlore,89546
+Albania,Shkoder,88245
+Albania,Pogradec,61530
+Albania,Fier-Cifci,60995
+Albania,Patos,60000
+Albania,Korce,58259
+Albania,Fier,56297
+Albania,Berat,46866
+Albania,Lushnje,41469
+Albania,Kavaje,29354
+Albania,Lac,24825
+Albania,Gjirokaster,23437
+Albania,Patos Fshat,22679
+Albania,Kruje,21286
+Albania,Lezhe,18695
+Albania,Kucove,18166
+Albania,Kukes,17832
+Albania,Burrel,15405
+Albania,Sarande,15147
+Puerto Rico,San Juan,418140
+Puerto Rico,Bayamon,203499
+Puerto Rico,Carolina,170404
+Puerto Rico,Ponce,152634
+Puerto Rico,Caguas,86804
+Puerto Rico,Guaynabo,81360
+Puerto Rico,Mayagueez,78647
+Puerto Rico,Trujillo Alto,54189
+Puerto Rico,Arecibo,49318
+Puerto Rico,Fajardo,34068
+Puerto Rico,Levittown,29785
+Puerto Rico,Vega Baja,29325
+Puerto Rico,Catano,28093
+Puerto Rico,Barceloneta,22322
+Puerto Rico,Guayama,21575
+Puerto Rico,Humacao,20387
+Puerto Rico,Yauco,20295
+Puerto Rico,Cayey,18494
+Puerto Rico,Candelaria,17631
+Puerto Rico,Manati,16092
+Puerto Rico,Aguadilla,16073
+Lithuania,Vilnius,542366
+Lithuania,Kaunas,374643
+Lithuania,Klaipeda,192307
+Lithuania,Siauliai,130587
+Lithuania,Panevezys,117395
+Lithuania,Alytus,70747
+Lithuania,Dainava (Kaunas),70000
+Lithuania,Eiguliai,61700
+Lithuania,Marijampole,47613
+Lithuania,Mazeikiai,41309
+Lithuania,Silainiai,40600
+Lithuania,Fabijoniskes,39759
+Lithuania,Jonava,34993
+Lithuania,Utena,33240
+Lithuania,Pasilaiciai,33056
+Lithuania,Kedainiai,31980
+Lithuania,Seskine,31333
+Lithuania,Lazdynai,31097
+Lithuania,Telsiai,30098
+Lithuania,Visaginas,28348
+Lithuania,Taurage,27662
+Lithuania,Justiniskes,27462
+Lithuania,Ukmerge,25886
+Lithuania,Aleksotas,24270
+Lithuania,Plunge,23381
+Lithuania,Naujamiestis,23232
+Lithuania,Kretinga,22236
+Lithuania,Silute,21760
+Lithuania,Vilkpede,21346
+Lithuania,Radviliskis,20339
+Lithuania,Pilaite,20320
+Lithuania,Palanga,17796
+Lithuania,Druskininkai,17791
+Lithuania,Gargzdai,16433
+Lithuania,Rokiskis,16255
+Namibia,Windhoek,268132
+Namibia,Rundu,58172
+Namibia,Walvis Bay,52058
+Namibia,Oshakati,33618
+Namibia,Swakopmund,25047
+Namibia,Katima Mulilo,25027
+Namibia,Grootfontein,24099
+Namibia,Rehoboth,21377
+Namibia,Katutura,21243
+Namibia,Otjiwarongo,21224
+Namibia,Okahandja,20879
+Namibia,Gobabis,16321
+Namibia,Keetmanshoop,15608
+Namibia,Luderitz,15137
+Gambia,Serekunda,340000
+Gambia,Brikama,77700
+Gambia,Bakau,43098
+Gambia,Banjul,34589
+Gambia,Farafenni,29867
+Gambia,Lamin,24797
+Gambia,Sukuta,15131
+Botswana,Gaborone,208411
+Botswana,Francistown,89979
+Botswana,Molepolole,63248
+Botswana,Selebi-Phikwe,53727
+Botswana,Maun,49945
+Botswana,Serowe,47419
+Botswana,Kanye,44716
+Botswana,Mahalapye,44471
+Botswana,Mogoditshane,43394
+Botswana,Mochudi,36962
+Botswana,Lobatse,30883
+Botswana,Palapye,30650
+Botswana,Ramotswa,21450
+Botswana,Thamaga,20756
+Botswana,Mosopa,19561
+Botswana,Letlhakane,18136
+Botswana,Tonota,17759
+Botswana,Janeng,16853
+Gabon,Libreville,578156
+Gabon,Port-Gentil,109163
+Gabon,Franceville,42967
+Gabon,Oyem,30870
+Gabon,Moanda,30151
+Gabon,Mouila,22469
+Gabon,Lambarene,20714
+Gabon,Tchibanga,19365
+Gabon,Koulamoutou,16222
+Lesotho,Maseru,118355
+Lesotho,Mafeteng,57059
+Lesotho,Leribe,47675
+Lesotho,Maputsoe,32117
+Lesotho,Mohale's Hoek,28310
+Lesotho,Qacha's Nek,25573
+Lesotho,Quthing,24130
+Lesotho,Butha-Buthe,16330
+North Macedonia,Skopje,474889
+North Macedonia,Bitola,86528
+North Macedonia,Kumanovo,76275
+North Macedonia,Prilep,73814
+North Macedonia,Tetovo,72944
+North Macedonia,Cair,64773
+North Macedonia,Kisela Voda,58216
+North Macedonia,Veles,57873
+North Macedonia,Ohrid,54908
+North Macedonia,Gostivar,50974
+North Macedonia,Shtip,48279
+North Macedonia,Strumica,45508
+North Macedonia,Centar Zupa,45412
+North Macedonia,Gjorce Petro,41000
+North Macedonia,Kavadarci,38799
+North Macedonia,Struga,37387
+North Macedonia,Butel,36154
+North Macedonia,Kochani,34258
+North Macedonia,Kicevo,31123
+North Macedonia,Lipkovo,28102
+North Macedonia,Zelino,25422
+North Macedonia,Saraj,25379
+North Macedonia,Radovis,24984
+North Macedonia,Tearce,23096
+North Macedonia,Kriva Palanka,20820
+North Macedonia,Suto Orizare,20800
+North Macedonia,Gevgelija,20664
+North Macedonia,Negotino,19515
+North Macedonia,Studenichani,18219
+North Macedonia,Vinica,18218
+North Macedonia,Debar,18074
+North Macedonia,Negotino,17518
+North Macedonia,Delcevo,17415
+North Macedonia,Resen,16539
+North Macedonia,Ilinden,16406
+North Macedonia,Brvenica,16267
+North Macedonia,Kamenjane,15376
+North Macedonia,Bogovinje,15166
+Slovenia,Ljubljana,272220
+Slovenia,Maribor,95171
+Slovenia,Celje,37520
+Slovenia,Kranj,36874
+Slovenia,Velenje,25456
+Slovenia,Koper,24996
+Slovenia,Novo Mesto,23341
+Slovenia,Ptuj,18164
+Slovenia,Trbovlje,15163
+Guinea-Bissau,Bissau,388028
+Guinea-Bissau,Bafata,22521
+Latvia,Riga,742572
+Latvia,Daugavpils,111564
+Latvia,Liepaja,85132
+Latvia,Jelgava,61791
+Latvia,Jurmala,54088
+Latvia,Ventspils,42644
+Latvia,Rezekne,38340
+Latvia,Jekabpils,27078
+Latvia,Valmiera,26963
+Latvia,Ogre,26760
+Latvia,Tukums,18348
+Latvia,Cesis,18198
+Latvia,Salaspils,17606
+Bahrain,Manama,147074
+Bahrain,Al Muharraq,97458
+Bahrain,Ar Rifa',79550
+Bahrain,Dar Kulayb,65466
+Bahrain,Madinat Hamad,52718
+Bahrain,Madinat `Isa,38090
+Bahrain,Sitrah,37657
+Bahrain,Jidd Hafs,31735
+Equatorial Guinea,Bata,173046
+Equatorial Guinea,Malabo,155963
+Equatorial Guinea,Ebebiyin,24831
+Trinidad and Tobago,Chaguanas,67433
+Trinidad and Tobago,Mon Repos,56380
+Trinidad and Tobago,San Fernando,55419
+Trinidad and Tobago,Port of Spain,49031
+Trinidad and Tobago,Rio Claro,35650
+Trinidad and Tobago,Arima,35000
+Trinidad and Tobago,Marabella,26700
+Trinidad and Tobago,Laventille,21000
+Trinidad and Tobago,Point Fortin,19056
+Trinidad and Tobago,Tunapuna,17758
+Trinidad and Tobago,Scarborough,17000
+Trinidad and Tobago,Sangre Grande,15968
+Trinidad and Tobago,Paradise,15067
+Estonia,Tallinn,394024
+Estonia,Tartu,101092
+Estonia,Narva,66980
+Estonia,Kohtla-Jaerve,46060
+Estonia,Paernu,44192
+Estonia,Viljandi,20309
+Estonia,Rakvere,16736
+Estonia,Sillamaee,16672
+Estonia,Maardu,16630
+Timor-Leste,Dili,150000
+Timor-Leste,Maliana,22000
+Timor-Leste,Suai,21539
+Timor-Leste,Likisa,19000
+Timor-Leste,Aileu,17356
+Timor-Leste,Lospalos,17186
+Timor-Leste,Maubara,16300
+Timor-Leste,Venilale,16000
+Timor-Leste,Baukau,16000
+Mauritius,Port Louis,155226
+Mauritius,Beau Bassin-Rose Hill,111355
+Mauritius,Vacoas,110000
+Mauritius,Curepipe,84200
+Mauritius,Quatre Bornes,80961
+Mauritius,Triolet,23269
+Mauritius,Goodlands,20910
+Mauritius,Centre de Flacq,17710
+Mauritius,Bel Air Riviere Seche,17671
+Mauritius,Mahebourg,17042
+Mauritius,Saint Pierre,16414
+Mauritius,Bambous,15345
+Mauritius,Le Hochet,15197
+Cyprus,Nicosia,200452
+Cyprus,Limassol,154000
+Cyprus,Larnaca,72000
+Cyprus,Famagusta,42526
+Cyprus,Paphos,35961
+Cyprus,Kyrenia,26701
+Cyprus,Protaras,20230
+Eswatini,Manzini,110537
+Eswatini,Mbabane,76218
+Djibouti,Djibouti,623891
+Djibouti,'Ali Sabieh,40074
+Djibouti,Danan,40074
+Djibouti,Tadjourah,22193
+Djibouti,Obock,17776
+Fiji,Suva,77366
+Fiji,Lautoka,52500
+Fiji,Nadi,42284
+Fiji,Labasa,27949
+Réunion,Saint-Denis,137195
+Réunion,Saint-Paul,99307
+Réunion,Saint-Pierre,76655
+Réunion,Le Tampon,69986
+Réunion,Saint-Andre,48674
+Réunion,Saint-Louis,47881
+Réunion,Le Port,40771
+Réunion,Saint-Benoit,35310
+Réunion,Saint-Joseph,33694
+Réunion,Sainte-Marie,31636
+Réunion,Piton Saint-Leu,29278
+Réunion,Saint-Leu,28278
+Réunion,La Possession,26865
+Réunion,Sainte-Suzanne,20530
+Comoros,Moroni,42872
+Comoros,Moutsamoudou,23594
+Guyana,Georgetown,235017
+Guyana,Linden,44690
+Guyana,New Amsterdam,35039
+Bhutan,Thimphu,98676
+Bhutan,Punakha,21500
+Bhutan,Tsirang,18667
+Bhutan,Phuntsholing,17043
+Solomon Islands,Honiara,56298
+Macao,Macau,520400
+Montenegro,Podgorica,136473
+Montenegro,Niksic,58212
+Montenegro,Herceg-Novi,19536
+Montenegro,Pljevlja,19489
+Montenegro,Budva,18000
+Montenegro,Bar,17727
+Montenegro,Bijelo Polje,15400
+Montenegro,Cetinje,15137
+Luxembourg,Luxembourg,76684
+Luxembourg,Esch-sur-Alzette,28228
+Luxembourg,Dudelange,18013
+Western Sahara,Laayoune,196331
+Western Sahara,Dakhla,75000
+Suriname,Paramaribo,223757
+Suriname,Lelydorp,18223
+Cabo Verde,Praia,113364
+Cabo Verde,Mindelo,70611
+Cabo Verde,Santa Maria,17231
+Cabo Verde,Cova Figueira,15350
+Maldives,Male,103693
+Malta,Birkirkara,21676
+Malta,Qormi,18230
+Malta,Mosta,17789
+Malta,Zabbar,15030
+Brunei ,Bandar Seri Begawan,64409
+Brunei ,Kuala Belait,31178
+Brunei ,Seria,30097
+Brunei ,Tutong,19151
+Guadeloupe,Les Abymes,63058
+Guadeloupe,Baie-Mahault,30551
+Guadeloupe,Le Gosier,28698
+Guadeloupe,Petit-Bourg,24994
+Guadeloupe,Sainte-Anne,22859
+Guadeloupe,Le Moule,22692
+Guadeloupe,Sainte-Rose,20192
+Guadeloupe,Capesterre-Belle-Eau,19821
+Guadeloupe,Pointe-a-Pitre,18264
+Guadeloupe,Basse-Terre,11472
+Belize,Belize City,61461
+Belize,San Ignacio,16812
+Belize,Orange Walk,15298
+Belize,Belmopan,13381
+Bahamas,Nassau,227940
+Bahamas,Lucaya,46525
+Bahamas,Freeport,26910
+Martinique,Fort-de-France,89995
+Martinique,Le Lamentin,39229
+Martinique,Le Robert,23814
+Martinique,Sainte-Marie,20380
+Martinique,Le Francois,19682
+Martinique,Ducos,17394
+Martinique,Saint-Joseph,16974
+Martinique,La Trinite,15040
+Iceland,Reykjavik,118918
+Iceland,Kopavogur,31719
+Iceland,Hafnarfjoerdur,26808
+Iceland,Akureyri,17693
+Vanuatu,Port-Vila,35901
+French Guiana,Cayenne,61550
+French Guiana,Matoury,26350
+French Guiana,Saint-Laurent-du-Maroni,24287
+French Guiana,Kourou,24029
+French Guiana,Remire-Montjoly,19029
+Barbados,Bridgetown,98511
+New Caledonia,Noumea,93060
+New Caledonia,Mont-Dore,24680
+New Caledonia,Dumbea,19346
+French Polynesia,Faaa,29851
+French Polynesia,Papeete,26357
+French Polynesia,Punaauia,25750
+Mayotte,Mamoudzou,54831
+Mayotte,Koungou,18118
+Mayotte,Dzaoudzi,15339
+Sao Tome & Principe,Sao Tome,53300
+Samoa,Apia,40407
+Saint Lucia,Castries,20000
+Guam,Dededo Village,44943
+Guam,Yigo Village,20539
+Guam,Tamuning,19685
+Guam,Tamuning-Tumon-Harmon Village,19685
+Guam,Mangilao Village,15191
+Curaçao,Willemstad,125000
+Kiribati,Tarawa,40311
+St. Vincent & Grenadines,Kingstown,24518
+St. Vincent & Grenadines,Kingstown Park,17994
+Aruba,Oranjestad,29998
+Aruba,Tanki Leendert,21500
+Aruba,San Nicolas,15200
+Tonga,Nuku'alofa,22400
+U.S. Virgin Islands,Saint Croix,50601
+U.S. Virgin Islands,Charlotte Amalie,20000
+Seychelles,Victoria,22881
+Antigua and Barbuda,Saint John's,24226
