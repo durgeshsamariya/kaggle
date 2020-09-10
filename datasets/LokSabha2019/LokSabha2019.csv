@@ -19,14 +19,14 @@ Ganti Harish Madhur,TDP,0,Graduate Professional,30,73049918,Amalapuram,1537488
 Janga Goutham,INC,0,Graduate,49,14768500,Amalapuram,0
 Manepalli Ayyaji Vema,BJP,0,Graduate Professional,59,6785061,Amalapuram,0
 Mojas Raja Sekhar Duggirala,Janasena Party, 1 ,Post Graduate,59,28930012,Amalapuram,0
-Mortha Sivarama Krishna,Pyramid Party of India,0,Graduate,29,Nil,Amalapuram,0
+Mortha Sivarama Krishna,Pyramid Party of India,0,Graduate,29,,Amalapuram,0
 Muralikrishna Kanderi,India Praja Bandhu Party,0,Others,41,12796,Amalapuram,0
 Panthagada Vijaya Chakravarthy,RPI(Khobragade),0,Post Graduate,65,550000,Amalapuram,0
 Rajani Chelle,Jana Jagruti Party,0,Graduate,30,261767,Amalapuram,0
 Revu Sudhakar,IND,0,10th Pass,34,11000,Amalapuram,0
 Dr.Beesetti Venkata Satyavathi,YSRCP,0,Graduate Professional,52,91526244,Anakapalle,11139279
 Adari Anand Kumar,TDP,0,10th Pass,43,410547212,Anakapalle,205591400
-Appala Naidu Tummagonta,IND,0,10th Pass,38,Nil,Anakapalle,0
+Appala Naidu Tummagonta,IND,0,10th Pass,38,,Anakapalle,0
 Chintala Partha Sarathi,Janasena Party,0,Post Graduate,56,335308506,Anakapalle,110928567
 Dr Gandi Venkata Satyanarayana Rao,BJP,0,Post Graduate,65,57688924,Anakapalle,9497894
 K B Swaroop,Jana Jagruti Party,0,Graduate Professional,51,24454500,Anakapalle,0
@@ -80,7 +80,7 @@ Naramalli Siva Prasad,TDP,0,Graduate Professional,68,69628816,Chittoor,0
 P. Ramachandran,IND,0,Graduate Professional,42,3580500,Chittoor,2313000
 Pallipattu. Abhinav Vishnu,Mundadugu Praja Party,0,Graduate Professional,27,92600,Chittoor,0
 Sridhar Kotagiri	,YSRCP,0,Graduate,46,462808829,Eluru,33560974
-Alaga Ravi Kumar,IND,0,10th Pass,49,Nil,Eluru,0
+Alaga Ravi Kumar,IND,0,10th Pass,49,,Eluru,0
 Chinnam Rama Kotayya,BJP,0,10th Pass,58,100961778,Eluru,7713964
 Gurunadha Rao Jetti,INC,0,Graduate,55,69600598,Eluru,2402881
 Josyula China Venkata Suryanarayana,Pyramid Party of India,0,Graduate,62,12035000,Eluru,2500000
@@ -227,11 +227,11 @@ Chandra Rajagopal,CPI(M), 2 ,10th Pass,67,2353200,Nellore,240000
 Chevuru Devakumar Reddy,INC, 2 ,12th Pass,61,73819429,Nellore,3948741
 Chinni Venkateswarlu,Pyramid Party of India,0,Literate,67,1280000,Nellore,0
 Dr. S. Suresh Babu,IND,0,Doctorate,42,9550548,Nellore,0
-Kankanala Penchala Naidu,IND,0,8th Pass,33,Nil,Nellore,0
+Kankanala Penchala Naidu,IND,0,8th Pass,33,,Nellore,0
 Meda Malla Reddy,IND,0,5th Pass,68,1640000,Nellore,0
 Narasapuram Prasad,IND,0,Others,50,8563000,Nellore,0
 Sannapureddy Suresh Reddy,BJP, 1 ,Graduate,58,28828964,Nellore,700000
-Shaik Mahaboob Basha (Mabu),RPI(A), 1 ,Graduate Professional,35,Nil,Nellore,0
+Shaik Mahaboob Basha (Mabu),RPI(A), 1 ,Graduate Professional,35,,Nellore,0
 Magunta Sreenivasulu Reddy,YSRCP,0,Graduate,65,266583686,Ongole,91302133
 Bellamkonda Saibabu,Janasena Party,0,Graduate Professional,49,13866784,Ongole,2472903
 Billa Chennaiah,IND,0,12th Pass,49,2837000,Ongole,1846848
@@ -534,7 +534,7 @@ Pramod Singh Weldone,IND, 4 ,10th Pass,50,31315852,Banka,81524
 Pravin Kumar Jha,IND,0,12th Pass,46,7341490,Banka,0
 Putul Kumari,IND, 3 ,Post Graduate,61,53801629,Banka,1700000
 Rajkishor Prasad,JMM, 2 ,12th Pass,42,173443409,Banka,7359160
-Sanjiv Kumar Kunal,IND,0,Graduate,25,Nil,Banka,0
+Sanjiv Kumar Kunal,IND,0,Graduate,25,,Banka,0
 Syed Alamdar Hussain,IND, 1 ,12th Pass,43,3895000,Banka,0
 Umakant Yadav,IND,0,Graduate Professional,68,1076000,Banka,0
 Giriraj Singh,BJP, 6 ,Graduate,66,83024577,Begusarai,12236000
@@ -720,7 +720,7 @@ Javed Akhter,AITC, 2 ,Graduate,53,22235300,Kishanganj,0
 Pradeep Kumar Singh,SHS,0,10th Pass,36,174500,Kishanganj,0
 Rajendra Paswan,Bahujan Mukti Party, 1 ,8th Pass,59,2016118,Kishanganj,559195
 Rajesh Kumar Dubey,IND,0,Graduate,42,507291,Kishanganj,0
-Shukal Murmu,JMM,0,Not Given,50,Nil,Kishanganj,0
+Shukal Murmu,JMM,0,Not Given,50,,Kishanganj,0
 Syed Mahmood Ashraf,JD(U), 4 ,12th Pass,54,19854930,Kishanganj,3598799
 Dinesh Chandra Yadav,JD(U), 1 ,Graduate Professional,67,37420953,Madhepura,700000
 Anil Bharti,Rashtravadi Janata Party,0,Post Graduate,49,13777000,Madhepura,0
@@ -1314,11 +1314,11 @@ Palsay Uranv,IND,0,8th Pass,38,1620000,Surguja,0
 Pawan Kumar Nag,Bahujan Mukti Party,0,Graduate,39,80000,Surguja,0
 Ramnath Cherwa,Shoshit Samaj Dal,0,8th Pass,48,2591151,Surguja,0
 Delkar Mohanbhai Sanjibhai,IND,0,Graduate,56,708885980,Dadra And Nagar Haveli,37268162
-Bhikhlabhai Vansabhai Khulat,Bhartiya Tribal Party, 1 ,10th Pass,51,Nil,Dadra And Nagar Haveli,0
+Bhikhlabhai Vansabhai Khulat,Bhartiya Tribal Party, 1 ,10th Pass,51,,Dadra And Nagar Haveli,0
 Dayat Manoj Ranchod,IND,0,12th Pass,31,168959,Dadra And Nagar Haveli,84060
 Dongarkar Ishwarbhai Gopjibhai,BSP,0,Literate,34,84000,Dadra And Nagar Haveli,0
-Halpati Rajeshbhai Bhanabhai,Navsarjan Bharat Party,0,12th Pass,35,Nil,Dadra And Nagar Haveli,0
-Janathiya Pravinbhai Ladakbhai,Bahujan Mukti Party,0,12th Pass,31,Nil,Dadra And Nagar Haveli,0
+Halpati Rajeshbhai Bhanabhai,Navsarjan Bharat Party,0,12th Pass,35,,Dadra And Nagar Haveli,0
+Janathiya Pravinbhai Ladakbhai,Bahujan Mukti Party,0,12th Pass,31,,Dadra And Nagar Haveli,0
 Kurada Deepakbhai,IND,0,Graduate,33,20095,Dadra And Nagar Haveli,0
 Patel Ankita Amrutbhai,SHS,0,Graduate Professional,35,46486347,Dadra And Nagar Haveli,12206998
 Patel Dhirubhai Chhotubhai,IND, 1 ,10th Pass,48,19595036,Dadra And Nagar Haveli,85861
@@ -1465,7 +1465,7 @@ Vasava Rajesh Somabhai,Bhartiya Tribal Party,0,Post Graduate,36,1064080,Chhota U
 Jasvantsinh Sumanbhai Bhabhor,BJP,0,Graduate Professional,52,27070480,Dahod,0
 Bhabhor Dhulabhai Ditabhai,BSP,0,10th Pass,64,71845,Dahod,0
 Damor Manabhai Bhavsing,IND,0,Others,45,675000,Dahod,150000
-Devadha Samsubhai Khatarabhai,IND,0,Graduate Professional,51,Nil,Dahod,0
+Devadha Samsubhai Khatarabhai,IND,0,Graduate Professional,51,,Dahod,0
 Jagdishbhai Manilal Meda,Bharatiya National Janta Dal,0,8th Pass,39,50000,Dahod,0
 Kalara Ramsingbhai Nanjibhai,Hindusthan Nirman Dal,0,12th Pass,47,283616,Dahod,0
 Katara Babubhai Khimabhai,INC, 1 ,Graduate,58,48020539,Dahod,2490502
@@ -2329,7 +2329,7 @@ Abdul Basheer,IND,0,10th Pass,71,1350000,Bangalore North,10132000
 Abdul Karim Hashimpeer Desai,IND,0,Post Graduate,61,16599316,Bangalore North,12400000
 Ahmed Khan,Bahujan Maha Party,0,10th Pass,33,7139,Bangalore North,0
 Amirtha Jai Kumar Essac Yesaiah,Karnataka Karmikara Paksha,0,Others,43,213000,Bangalore North,0
-C. Ravi Kumar,IND,0,5th Pass,50,Nil,Bangalore North,0
+C. Ravi Kumar,IND,0,5th Pass,50,,Bangalore North,0
 Dr. Meer Layaq Hussain,IND,0,Graduate Professional,58,20000,Bangalore North,0
 K.N. Jagadesh Kumar,IND, 1 ,Post Graduate,41,66824637,Bangalore North,661000
 Krishna Byregowda,INC,0,Post Graduate,46,132509044,Bangalore North,15596951
@@ -2412,7 +2412,7 @@ Laxman Bhimarao Dalavi,IND,0,10th Pass,44,468000,Belgaum,66970
 Mahadev Maruti Manganakar,IND,0,10th Pass,45,870200,Belgaum,0
 Manjunath Rajappanavar,Uttama Prajaakeeya Party,0,Graduate,38,2212500,Belgaum,0
 Maruti Siddappa Chougule,IND,0,10th Pass,51,2980500,Belgaum,0
-Megharaj Shivagoudappa Khanagoudar,IND,0,10th Pass,30,Nil,Belgaum,0
+Megharaj Shivagoudappa Khanagoudar,IND,0,10th Pass,30,,Belgaum,0
 Nagesh Subhash Bobate,IND,0,10th Pass,26,93500,Belgaum,0
 Nanda Maruti Kodachwadkar,IND,0,10th Pass,54,3795000,Belgaum,400000
 Neelkanth Mahadev Patil,IND,0,12th Pass,52,40801000,Belgaum,725000
@@ -2612,7 +2612,7 @@ Mallikarjun Kharge,INC,0,Graduate Professional,77,157722896,Gulbarga,3122000
 Rajkumar,Bhartiya Bahujan Kranti Dal,0,5th Pass,41,490000,Gulbarga,0
 Ramesh Bheemsingh Chavan,IND, 2 ,Post Graduate,34,5410000,Gulbarga,650000
 S. M. Sharma,SUCI(C), 1 ,Graduate,35,198372,Gulbarga,0
-Shankar Jadhav,Bharatiya Peoples Party,0,Illiterate,58,Nil,Gulbarga,0
+Shankar Jadhav,Bharatiya Peoples Party,0,Illiterate,58,,Gulbarga,0
 Vijay Jadhav,Sarva Janata Party,0,8th Pass,32,100000,Gulbarga,0
 Prajwal R,JD(S),0,Graduate Professional,28,97848632,Hassan,37253210
 H M Chandregowda,Uttama Prajaakeeya Party,0,12th Pass,65,124718018,Hassan,26075626
@@ -2781,7 +2781,7 @@ Ajmal Ismail,SDPI, 3 ,Graduate Professional,36,1508680,Attingal,200000
 Anitha,IND,0,Graduate,34,25000,Attingal,0
 Attingal Ajith Kumar,IND,0,10th Pass,51,50800,Attingal,0
 Devadathan,IND,0,10th Pass,70,75000,Attingal,0
-Irinjayam Suresh,IND,0,10th Pass,45,Nil,Attingal,0
+Irinjayam Suresh,IND,0,10th Pass,45,,Attingal,0
 K.G.Mohanan,IND,0,10th Pass,59,100000,Attingal,0
 Maheen Thevarupara,IND,0,10th Pass,31,335500,Attingal,0
 Manoj M,IND,0,10th Pass,30,69850,Attingal,0
@@ -3389,7 +3389,7 @@ Jitendra Banshkar,IND,0,10th Pass,33,170000,Tikamgarh,0
 Kamta Prasad,Pragatishil Samajwadi Party (Lohia),0,Post Graduate,51,1867562,Tikamgarh,0
 Kiran Singh Ahirwar,INC,0,Post Graduate,47,36507983,Tikamgarh,2500000
 Nandram Prajapati,Adarsh Nyay Rakshak Party,0,Post Graduate,48,1225800,Tikamgarh,0
-Narayan Das Jatav,Madhya Pradesh Jan Vikas Party,0,12th Pass,4,Nil,Tikamgarh,0
+Narayan Das Jatav,Madhya Pradesh Jan Vikas Party,0,12th Pass,4,,Tikamgarh,0
 Pramod Prajapati,IND,0,12th Pass,30,26163,Tikamgarh,0
 R.B. Prajapati Advocate,IND,0,Graduate Professional,39,414000,Tikamgarh,0
 R.D. Prajapati,SP,0,Graduate,57,8361117,Tikamgarh,8127000
@@ -3441,7 +3441,7 @@ Wakale Namdeo Arjun,BSP,0,Graduate Professional,51,180749234,Ahmednagar,250000
 Sanjay Shamrao Dhotre,BJP, 1 ,Graduate Professional,60,77153230,Akola,14985774
 Ambedkar Prakash Yashwant,Vanchit Bahujan Aaghadi,0,Graduate Professional,64,58722916,Akola,0
 Arun Kankar Wankhede,Peoples Party of India (Democratic),0,10th Pass,63,7335000,Akola,125000
-Arun Manohar Thakare,IND,0,10th Pass,61,Nil,Akola,0
+Arun Manohar Thakare,IND,0,10th Pass,61,,Akola,0
 Gajanan Onkar Harne,IND,0,12th Pass,50,4270000,Akola,0
 Hidayatulla Barakatulla Patel,INC, 1 ,10th Pass,60,14947292,Akola,483635
 Kamble Bhanudas Chokhoba,BSP,0,12th Pass,50,1042000,Akola,0
@@ -3545,9 +3545,9 @@ Sayyad Minhaj,IND,0,12th Pass,44,880000,Beed,105000
 Shaikh Sadek Shaikh Ibrahim,IND,0,8th Pass,35,445500,Beed,107800
 Shaikh Yashed Shaikh Tayyab,IND,0,Graduate Professional,33,94500,Beed,0
 Shinde Chandraprakash Ganpatrao,Ambedkarite Party of India,0,10th Pass,63,1945137,Beed,0
-Shivaji Naraynrao Kawathekar,IND,0,10th Pass,55,Nil,Beed,200000
+Shivaji Naraynrao Kawathekar,IND,0,10th Pass,55,,Beed,200000
 Tukaram Vyankati Chate,IND,0,5th Pass,64,580000,Beed,0
-Veer Shesherao Chokhoba,IND,0,Graduate,58,Nil,Beed,0
+Veer Shesherao Chokhoba,IND,0,Graduate,58,,Beed,0
 Vijay Rangnath Salve,IND,0,Graduate,46,211614,Beed,0
 Vishnu Jadhav,IND, 1 ,Post Graduate,62,4654000,Beed,1622000
 Sunil Baburao Mendhe,BJP, 2 ,Others,50,627543615,Bhandara Gondiya,19861338
@@ -3588,7 +3588,7 @@ Dr. Rajendra Bhaskarrav Shingne,NCP, 1 ,Graduate Professional,58,95350365,Buldha
 Gajanan Uttam Shantabai,IND,0,10th Pass,38,2192924,Buldhana,113902
 Pratap Pandharinath Patil,Bahujan Mukti Party,0,8th Pass,50,4996000,Buldhana,0
 Vijay Banwarilal Masani,IND,0,Post Graduate,36,1127000,Buldhana,3245000
-Vikas Prakash Nandve,IND, 1 ,12th Pass,27,Nil,Buldhana,0
+Vikas Prakash Nandve,IND, 1 ,12th Pass,27,,Buldhana,0
 Wamanrao Ganpatrao Akhare,IND,0,5th Pass,62,3525622,Buldhana,0
 Dhanorkar Suresh Narayan,INC, 5 ,12th Pass,43,137455342,Chandrapur,22752880
 Ahir Hansraj Gangaramji,BJP,0,10th Pass,64,18300860,Chandrapur,45386
@@ -3600,7 +3600,7 @@ Milind Pralhad Dahiwale,IND,0,10th Pass,39,407500,Chandrapur,0
 Namdeo Keshao Kinnake,IND,0,5th Pass,61,3155000,Chandrapur,300000
 Namdeo Shedmake,Gondvana Gantantra Party,0,10th Pass,50,358900,Chandrapur,332000
 Nitesh Anandrao Dongre,Ambedkarite Party of India,0,12th Pass,33,124000,Chandrapur,125000
-Rajendra Krishnarao Hajare,IND,0,Graduate,54,Nil,Chandrapur,0
+Rajendra Krishnarao Hajare,IND,0,Graduate,54,,Chandrapur,0
 Rajendra Shriramji Mahadole,Vanchit Bahujan Aaghadi, 2 ,Graduate Professional,48,19703000,Chandrapur,6978054
 Sushil Wasnik,BSP,0,12th Pass,54,10485000,Chandrapur,20000
 Subhash Ramrao Bhamre,BJP, 2 ,Post Graduate,66,158651112,Dhule,1000000
@@ -3684,8 +3684,8 @@ Subhash Nagorao Wankhede,Hum Bhartiya Party,0,5th Pass,58,1538900,Hingoli,100000
 Subhash Parasram Wankhede,Bahujan Maha Party,0,Literate,59,101000,Hingoli,0
 Subhash Vitthal Wankhede,IND,0,8th Pass,48,2121000,Hingoli,0
 Sunil Dashrath Ingole,IND, 1 ,8th Pass,38,198000,Hingoli,0
-Uttam Bhagaji Kamble,Prabuddha Republican Party,0,Post Graduate,51,Nil,Hingoli,0
-Uttam Maroti Dhabe,Akhand Hind Party,0,Illiterate,70,Nil,Hingoli,0
+Uttam Bhagaji Kamble,Prabuddha Republican Party,0,Post Graduate,51,,Hingoli,0
+Uttam Maroti Dhabe,Akhand Hind Party,0,Illiterate,70,,Hingoli,0
 Varsha Shivajirao Devsarkar,Bahujan Mukti Party, 1 ,10th Pass,41,20194509,Hingoli,3991000
 Wankhede Subhashrao Bapurao,INC, 1 ,10th Pass,56,99463540,Hingoli,8059000
 Wasant Kisan Paikrao,IND,0,Graduate Professional,59,23560000,Hingoli,260000
@@ -3705,7 +3705,7 @@ Sharad Gorakh Bhamre (Sutar),Rashtriya Janshakti Party (Secular),0,5th Pass,32,1
 Subhash Shivlal Khairnar,IND,0,Graduate,64,2020000,Jalgaon,0
 Danve Raosaheb Dadarao,BJP, 2 ,Graduate,65,229557992,Jalna,2400000
 Adv. Yogesh Dattu Gullapelli,IND,0,Post Graduate,29,408188,Jalna,0
-Ahemad Rahim Shaikh,IND,0,12th Pass,49,Nil,Jalna,0
+Ahemad Rahim Shaikh,IND,0,12th Pass,49,,Jalna,0
 Anita Lalchand Khandade (Rajput),IND,0,10th Pass,38,11513562,Jalna,2022033
 Annasaheb Devidasrao Ugale,IND,0,Illiterate,51,474300,Jalna,0
 Arun Chintaman Chavhan,IND,0,Graduate,32,58100,Jalna,0
@@ -3770,7 +3770,7 @@ Arun Ramrao Sontakke,Bahujan Republican Socialist Party,0,12th Pass,60,360000,La
 Dattu Prabhakar Karanjikar,Bahujan Mukti Party,0,12th Pass,40,3785000,Latur,0
 Kamant Machindra Gunaji,INC,0,Post Graduate,59,125045318,Latur,19268169
 Madhukar Sambhaji Kamble,IND,0,Graduate,65,7178804,Latur,0
-Papita Raosaheb Randive,IND,0,12th Pass,37,Nil,Latur,200000
+Papita Raosaheb Randive,IND,0,12th Pass,37,,Latur,200000
 Ramesh Nivrati Kambale,IND,0,5th Pass,48,6000,Latur,0
 Ramrao Garkar,Vanchit Bahujan Aaghadi,0,Post Graduate,59,14323873,Latur,540000
 Rupesh Shamrao Shanke,Swatantra Bharat Paksha,0,12th Pass,26,260000,Latur,18000
@@ -3952,7 +3952,7 @@ Dipak Laxmanrao Maske,IND,0,12th Pass,43,4559259,Nagpur,16191
 Dr. Manisha Bangar,Peoples Party of India (Democratic),0,Graduate Professional,49,14951925,Nagpur,1906973
 Dr. Vinod Kashiram Badole,Akhil Bhartiya Sarvadharma Samaj Party,0,Post Graduate,63,151887,Nagpur,350000
 Gopalkumar Ganeshu Kashyap,Chhattisgarh Swabhiman Manch,0,12th Pass,38,75000,Nagpur,0
-Kartik Gendalal Doke,IND,0,12th Pass,40,Nil,Nagpur,0
+Kartik Gendalal Doke,IND,0,12th Pass,40,,Nagpur,0
 Mane Suresh Tatoba,Bahujan Republican Socialist Party,0,Doctorate,58,84584324,Nagpur,0
 Manohar Alias Sagar Pundlikrao Dabrase,Vanchit Bahujan Aaghadi,0,Graduate,47,4197060,Nagpur,0
 Manoj Kothuji Bawane,IND,0,12th Pass,43,2179000,Nagpur,300000
@@ -3972,7 +3972,7 @@ Uday Rambhauji Borkar,IND,0,12th Pass,45,19762360,Nagpur,571000
 Vanita Jitendra Raut,Akhil Bharatiya Manavata Paksha,0,8th Pass,37,618945,Nagpur,14406
 Vitthhal Nanaji Gaikwad,Hum Bhartiya Party,0,12th Pass,64,3842634,Nagpur,30000
 Chikhalikar Pratap Govindrao,BJP,0,12th Pass,57,52178606,Nanded,594000
-Abdul Rais Ahmed Abdul Jabbar,Ambedkar National Congress, 1 ,5th Pass,51,Nil,Nanded,0
+Abdul Rais Ahmed Abdul Jabbar,Ambedkar National Congress, 1 ,5th Pass,51,,Nanded,0
 Abdul Samad,SP,0,12th Pass,62,6351722,Nanded,6110332
 Ashok Shankarrao Chavan,IND,0,8th Pass,28,1304000,Nanded,200000
 Ashokrao Shankarrao Chavan,INC, 3 ,Post Graduate,60,500037964,Nanded,48525290
@@ -3981,7 +3981,7 @@ Kadam Shrirang Uttomrao,IND,0,10th Pass,30,2241500,Nanded,0
 Madhavrao Sambhaji Gaikwad,IND,0,8th Pass,59,1320045,Nanded,0
 Mahesh Prakashrao Talegaonkar,IND,0,Graduate Professional,41,12279837,Nanded,4640370
 Manish Dattatray Wadje,IND,0,12th Pass,45,650500000,Nanded,27200000
-Mohan Anandrao Waghmare,Bahujan Mukti Party,0,10th Pass,0,Nil,Nanded,0
+Mohan Anandrao Waghmare,Bahujan Mukti Party,0,10th Pass,0,,Nanded,0
 Ranjit Gangadharrao Deshmukh,IND,0,Graduate,32,350000,Nanded,0
 Shivanand Ashokrao Deshmukh,IND,0,Post Graduate,30,13137,Nanded,0
 Sunil Manohar Sonsale,Bahujan Republican Socialist Party,0,10th Pass,37,120000,Nanded,0
@@ -4006,7 +4006,7 @@ Jawale Soniya Ramnath,Bhartiya Tribal Party,0,12th Pass,40,3729500,Nashik,138994
 Kedar Sindhubai Ravindra,IND,0,5th Pass,55,5923410,Nashik,700000
 Pavan Chandrakant Pawar,Vanchit Bahujan Aaghadi, 8 ,Others,38,9091869,Nashik,0
 Prakash Giridhar Kanoje,IND,0,12th Pass,51,980202,Nashik,200000
-Priyanka Ramrao Shirole,IND,0,Graduate,28,Nil,Nashik,0
+Priyanka Ramrao Shirole,IND,0,Graduate,28,,Nashik,0
 Sameer Magan Bhujbal,NCP, 16 ,10th Pass,45,654659863,Nashik,130481204
 Sanjay Sukhdev Ghodke,Bahujan Republican Socialist Party,0,Others,48,3291484,Nashik,2350000
 Sharad Damu Dhanrao,IND,0,12th Pass,40,165000,Nashik,0
@@ -4080,7 +4080,7 @@ Prof. Nalawade Hanmant Mahadeo,Ambedkarite Party of India,0,Post Graduate,49,470
 Rahul Vishwas Joshi,IND,0,Graduate,42,11680000,Pune,2300000
 Rajesh Surendrakumar Agarwal,Hamari Apni Party, 1 ,Graduate Professional,48,42151794,Pune,2851036
 Rakesh Prabhakar Chavan,IND,0,8th Pass,45,20608100,Pune,600000
-Ravindra Bansiram Mahapure,IND,0,Literate,52,Nil,Pune,0
+Ravindra Bansiram Mahapure,IND,0,Literate,52,,Pune,0
 Sanjay Baburao Jadhav,IND,0,10th Pass,47,2215000,Pune,165000
 Sayyad Raj Faiyaz,Bhartiya Kisan Party,0,Graduate,42,5200000,Pune,3650000
 Sim Khirid,Bahujan Maha Party,0,Post Graduate,45,34464531,Pune,5665918
@@ -4136,10 +4136,10 @@ D. D. Wani [Photographer],IND,0,10th Pass,58,569000,Raver,25000
 Dr.Ulhas Vasudeo Patil,INC, 1 ,Post Graduate,59,198503281,Raver,4508413
 Gaurav Damodar Surwade,IND,0,10th Pass,35,105000,Raver,0
 Madhukar Sopan Patil,Hindustan Janta Party,0,Graduate,70,50000,Raver,0
-Nazmin Shaikh Ramjan,IND,0,8th Pass,33,Nil,Raver,0
+Nazmin Shaikh Ramjan,IND,0,8th Pass,33,,Raver,0
 Nitin Pralhad Kandelkar,Vanchit Bahujan Aaghadi,0,12th Pass,39,8901000,Raver,4450000
 Roshan Aara Sadique Ali,IUML,0,12th Pass,37,1626675,Raver,958112
-Tawar Vijay Jagan,IND,0,10th Pass,42,Nil,Raver,0
+Tawar Vijay Jagan,IND,0,10th Pass,42,,Raver,0
 Yogendra Viththal Kolate,BSP, 1 ,Doctorate,41,6440000,Raver,2300000
 Sanjaykaka Patil,BJP, 1 ,10th Pass,54,191192187,Sangli,23345328
 Abhijit Vamanrao Awade-Bichukle,IND, 2 ,Graduate,43,441102,Sangli,0
@@ -4247,7 +4247,7 @@ Subhashchandra Ratandeo Jha,Sardar Vallabhbhai Patel Party,0,Graduate,50,1228000
 Sudhakar Narayan Shinde,Ambedkarite Party of India, 1 ,Graduate,65,17195035,Thane,0
 Surendrakumar Jain,Naitik Party,0,10th Pass,50,10416945,Thane,0
 Usman Moosa Shaikh,Bahujan Maha Party,0,10th Pass,47,299538,Thane,50000
-Vitthal Natha Chavan,IND,0,8th Pass,38,Nil,Thane,0
+Vitthal Natha Chavan,IND,0,8th Pass,38,,Thane,0
 Ramdas Chandrabhanji Tadas,BJP,0,10th Pass,65,65807822,Wardha,8961387
 Adv. Bhaskar Marotrao Neware,IND,0,Post Graduate,43,135345,Wardha,0
 Arvind Shamrao Lillore,IND,0,Others,40,247887,Wardha,0
@@ -4283,7 +4283,7 @@ Shahejad Samiullah Khan,IND,0,Graduate Professional,35,185000,Yavatmal Washim,0
 Shaikh Javed Shaikh Mushtaq,IND, 3 ,8th Pass,43,11422000,Yavatmal Washim,0
 Simpal Rajkumar Rathod,IND,0,Post Graduate,42,913631,Yavatmal Washim,235000
 Thakre Manikrao Govindrao,INC,0,12th Pass,64,30303524,Yavatmal Washim,1292750
-Uttam Bhagaji Kamble,Prabuddha Republican Party,0,Post Graduate,51,Nil,Yavatmal Washim,0
+Uttam Bhagaji Kamble,Prabuddha Republican Party,0,Post Graduate,51,,Yavatmal Washim,0
 Vaishali Sudhakar Yede,Prahar Janshakti Party,0,10th Pass,28,1168500,Yavatmal Washim,9000
 Dr Rajkumar Ranjan Singh,BJP,0,Doctorate,67,19616174,Inner Manipur,0
 Dr. Gurumayum Tonsana Sharma,Manipur Democratic Peoples Front,0,Doctorate,69,12452000,Inner Manipur,0
@@ -4593,7 +4593,7 @@ Kamalini Yadav,Bahujan Mukti Party,0,10th Pass,43,539221,Kalahandi,198800
 Premananda Bag,BSP,0,Graduate,62,6724123,Kalahandi,0
 Puspendra Singh Deo,BJD,0,10th Pass,52,25884601,Kalahandi,456763
 Achyutananda Samanta,BJD,0,Doctorate,55,1244722,Kandhamal,0
-Amir Nayak,BSP,0,Post Graduate,36,Nil,Kandhamal,0
+Amir Nayak,BSP,0,Post Graduate,36,,Kandhamal,0
 Mahameghabahan Aira Kharabela Swain,BJP,0,Post Graduate,66,9415000,Kandhamal,1050000
 Manoj Kumar Acharya,INC,0,Graduate,37,5330945,Kandhamal,0
 Tuna Mallick,CPI(ML) Red Star,0,12th Pass,27,40320,Kandhamal,0
@@ -4944,7 +4944,7 @@ Malvinder Singh Benipal,JD(U),0,Post Graduate,51,593202784,Sangrur,12118041
 Manish Kumar,Bhartiya Janraj Party,0,12th Pass,37,35463,Sangrur,0
 Mohinderpal Singh Dangarh,Bhartiya Lok Seva Dal, 6 ,12th Pass,39,13033873,Sangrur,200000
 Najeera Begam,Rashtriya Sahara Party,0,12th Pass,40,5379882,Sangrur,0
-Pappu Kumar,IND,0,Illiterate,51,Nil,Sangrur,0
+Pappu Kumar,IND,0,Illiterate,51,,Sangrur,0
 Parminder Singh Dhindsa,SAD, 1 ,Post Graduate,43,179035633,Sangrur,0
 Raj Kumar,IND,0,5th Pass,43,323000,Sangrur,0
 Rajvir Kaur,Hindustan Shakti Sena, 1 ,Post Graduate,32,600000,Sangrur,0
@@ -5104,7 +5104,7 @@ Ajay Pal,Bahujan Mukti Party,0,Post Graduate,34,375915,Jhunjhunu,0
 Bal Dev Prasad Saini,IND,0,8th Pass,33,820000,Jhunjhunu,22000
 Bhim Singh,IND,0,Literate,67,13090000,Jhunjhunu,0
 Dr. Tejpal,Right to Recall Party,0,Graduate Professional,31,633189,Jhunjhunu,592936
-Guru Gokulchand Rashtarwadi,IND,0,12th Pass,66,Nil,Jhunjhunu,0
+Guru Gokulchand Rashtarwadi,IND,0,12th Pass,66,,Jhunjhunu,0
 Kailash Karwasara,IND,0,10th Pass,29,38815,Jhunjhunu,94720
 Krishan Kumar,Rashtriya Mangalam Party,0,5th Pass,44,2534657,Jhunjhunu,480000
 Mahant Akash Giri,IND,0,Literate,37,57000,Jhunjhunu,0
@@ -5191,7 +5191,7 @@ Laxmi Kant (Bairwa),BSP,0,Graduate,30,163853,Tonk Sawai Madhopur,0
 Mukesh Kumar,SHS, 4 ,Literate,48,1015825000,Tonk Sawai Madhopur,100000000
 Namonarayan,INC,0,Post Graduate,75,46640598,Tonk Sawai Madhopur,0
 Naresh Kumar Atal,Ambedkarite Party of India,0,Graduate Professional,31,300000,Tonk Sawai Madhopur,0
-Prem Lata Banshiwal,IND,0,Not Given,55,Nil,Tonk Sawai Madhopur,0
+Prem Lata Banshiwal,IND,0,Not Given,55,,Tonk Sawai Madhopur,0
 Arjunlal Meena,BJP,0,Post Graduate,54,48196946,Udaipur,15602872
 Birdhi Lal Chhanwal,Bhartiya Tribal Party,0,Post Graduate,65,10682700,Udaipur,0
 Ghanshyam Singh Tawar,CPI,0,Graduate,51,330700,Udaipur,0
@@ -5600,7 +5600,7 @@ Saravanan M,AIADMK,0,Post Graduate,41,18492618,Nagapattinam,1429090
 Sengodi T,IND, 2 ,Graduate,36,793540,Nagapattinam,0
 Sivakumar P,IND,0,Graduate,44,128000,Nagapattinam,49000
 Soundararajan M,IND,0,8th Pass,62,172000,Nagapattinam,0
-Vedarethinam G,Anti Corruption Dynamic Party,0,12th Pass,50,Nil,Nagapattinam,0
+Vedarethinam G,Anti Corruption Dynamic Party,0,12th Pass,50,,Nagapattinam,0
 Chinraj A.K.P,DMK,0,Graduate,54,485205173,Namakkal,18642484
 Arumugam V,IND,0,10th Pass,51,309000,Namakkal,0
 Baskar B,Naam Tamilar Katchi,0,Doctorate,44,19918500,Namakkal,137800000
@@ -5978,7 +5978,7 @@ G.S. Ganesan Yadav,Pragatishil Samajwadi Party (Lohia),0,10th Pass,41,1668500,Ve
 J.S.K,IND,0,Post Graduate,39,1078984,Vellore,350000
 K. Kathiravan,IND,0,8th Pass,49,330000,Vellore,0
 K. Sugumar,IND,0,Graduate,67,675000,Vellore,0
-M. Balaraman,IND,0,10th Pass,81,Nil,Vellore,0
+M. Balaraman,IND,0,10th Pass,81,,Vellore,0
 M. Kathiravan,IND,0,Post Graduate,31,430000,Vellore,0
 M.R. Venkatesan,IND,0,10th Pass,47,127000,Vellore,0
 Mohanam,Marumalarchi Janata Katchi,0,10th Pass,66,1638340,Vellore,900000
@@ -6025,7 +6025,7 @@ Arulmozhithevan,Naam Tamilar Katchi,0,Graduate Professional,36,15835879,Virudhun
 "Sakkaravarthy, P.",All India Puratchi Thalaivar Makkal Munnettra,0,Graduate,59,6460000,Virudhunagar,3000000
 "Sankaranarayanan, N.",IND,0,Others,34,96540,Virudhunagar,0
 "Selvakumar, M.",IND,0,5th Pass,30,73000,Virudhunagar,0
-"Senthilkumar, S.",IND,0,8th Pass,32,Nil,Virudhunagar,0
+"Senthilkumar, S.",IND,0,8th Pass,32,,Virudhunagar,0
 "Sugan Rajeev, M.",IND,0,10th Pass,29,1197000,Virudhunagar,600000
 "Thiagarajan, P.I.D.",IND,0,10th Pass,73,1453770,Virudhunagar,0
 "Umayorubagam, M.",IND, 1 ,Graduate,67,333000,Virudhunagar,0
@@ -6038,7 +6038,7 @@ Ganta Pentanna,IND,0,Post Graduate,47,670000,Adilabad,0
 Godam Nagesh,TRS,0,Post Graduate,54,18477888,Adilabad,847000
 Kumra Raju,IND,0,10th Pass,29,30000,Adilabad,0
 Kumram Vandana,Nava Praja Rajyam Party,0,Illiterate,35,1300000,Adilabad,0
-Nethavath Ramdas,IND,0,Literate,46,Nil,Adilabad,0
+Nethavath Ramdas,IND,0,Literate,46,,Adilabad,0
 Pawar Krishna,IND,0,Post Graduate,39,1140000,Adilabad,0
 Ramesh Rathod,INC, 3 ,12th Pass,53,36491000,Adilabad,15300000
 Komatireddy Venakat Reddy,INC, 14 ,12th Pass,55,162543845,Bhongir,24069129
@@ -6046,11 +6046,11 @@ Bheemanaboina Ramesh,IND,0,10th Pass,32,110000,Bhongir,0
 Dr. Narsaiah Boora,TRS,0,Post Graduate,60,237458144,Bhongir,42963534
 Goda Sriramulu,CPI,0,8th Pass,54,15799990,Bhongir,7265216
 Kotha Kistaiah	,Ambedkar National Congress,0,10th Pass,41,1020000,Bhongir,0
-Moorigaadi Krishna,IND,0,Post Graduate,50,Nil,Bhongir,0
+Moorigaadi Krishna,IND,0,Post Graduate,50,,Bhongir,0
 Padala Venkata Shyam Sunder Rao,BJP, 7 ,Post Graduate,46,323073107,Bhongir,49080220
 Samrat Narender Boilla,RPI,0,Graduate Professional,36,3517000,Bhongir,11000
 Sapavat Devaram,IND,0,Graduate Professional,28,64986,Bhongir,0
-Singapaka Lingam,IND,0,Illiterate,44,Nil,Bhongir,0
+Singapaka Lingam,IND,0,Illiterate,44,,Bhongir,0
 Sirivolu Venkata Ramana Rao,Samajwadi Forward Bloc,0,10th Pass,52,290000,Bhongir,0
 Sriramulu Muthyala,IND,0,10th Pass,59,322500,Bhongir,0
 Dr.Gaddam Ranjith Reddy,TRS,0,Post Graduate,54,1634695131,Chevella,197007553
@@ -6081,11 +6081,11 @@ Beeramganti Venkat Ramesh Naidu,IND,0,Illiterate,59,3071000,Hyderabad,0
 Bhagavanth Rao Pawar,BJP, 3 ,Graduate Professional,67,8626993,Hyderabad,4839
 Dornala Jaya Prakash,New India Party, 2 ,Graduate,36,1364218,Hyderabad,100000
 Dr.Hingolikar Susheel Raj,IND,0,10th Pass,34,1644000,Hyderabad,2950000
-K Rangacharya,Samajwadi Forward Bloc,0,10th Pass,49,Nil,Hyderabad,0
+K Rangacharya,Samajwadi Forward Bloc,0,10th Pass,49,,Hyderabad,0
 K. Nagaraj,IND,0,8th Pass,45,368000,Hyderabad,0
 Ka Maheshwar,IND, 6 ,10th Pass,45,609000,Hyderabad,420000
 L Ashok Nath,IND,0,12th Pass,49,249000,Hyderabad,0
-Mohammed Abdul Azeem,IND,0,10th Pass,44,Nil,Hyderabad,0
+Mohammed Abdul Azeem,IND,0,10th Pass,44,,Hyderabad,0
 Mohammed Feroz Khan,INC,0,12th Pass,46,7470000,Hyderabad,0
 Mohd Ahmed,IND,0,10th Pass,34,400000,Hyderabad,0
 Pusthe Srikanth,TRS,0,Graduate Professional,46,30700000,Hyderabad,10400000
@@ -6130,7 +6130,7 @@ Shankara Rao Gopagani,IND,0,Post Graduate,61,6650000,Khammam,600000
 Umamaheswara Rao Cherukupalli,Telangana Yuva Shakti,0,Post Graduate,29,7690000,Khammam,1070000
 Venkateshwar Rao Pullakandam,Pyramid Party of India,0,10th Pass,57,22816840,Khammam,16176799
 Kavitha Malothu,TRS, 1 ,Graduate,39,19731269,Mahabubabad,1252068
-Arun Kumar Mypathi,Telangana Jana Samithi, 1 ,Post Graduate,33,Nil,Mahabubabad,0
+Arun Kumar Mypathi,Telangana Jana Samithi, 1 ,Post Graduate,33,,Mahabubabad,0
 Balaram Naik Porika	,INC, 1 ,10th Pass,55,43570110,Mahabubabad,33600000
 Balsingh Daravath,Bhartiya Anarakshit Party,0,Post Graduate,33,106000,Mahabubabad,0
 Balu Nayak Bhukya,IND,0,Post Graduate,38,2750000,Mahabubabad,1025000
@@ -6218,7 +6218,7 @@ Vemireddy Narasimha Reddy,TRS,0,Post Graduate,63,943184220,Nalgonda,208178829
 Dharmapuri Arvind,BJP, 1 ,Post Graduate,43,876930468,Nizamabad,337580746
 Aare Sayanna,IND,0,12th Pass,37,650000,Nizamabad,0
 Admala Mahipal Reddy,IND,0,12th Pass,36,1620000,Nizamabad,100000
-Akula Hanmandlu,IND,0,Literate,41,Nil,Nizamabad,0
+Akula Hanmandlu,IND,0,Literate,41,,Nizamabad,0
 Alakunta Rajanna,IND,0,Illiterate,55,1000,Nizamabad,0
 Aleti Malla Reddy,IND, 1 ,Illiterate,40,10383500,Nizamabad,230000
 Aleti Rajareddy,IND,0,10th Pass,44,1273000,Nizamabad,100000
@@ -6399,14 +6399,14 @@ Venkatesh Kola	,IND, 1 ,Graduate Professional,27,2910726,Nizamabad,0
 Vinay Tankasaala,IND,0,Illiterate,28,340000,Nizamabad,0
 Yellala Rajitha,IND,0,Graduate Professional,30,1931000,Nizamabad,0
 Venkatesh Netha Borlakunta,TRS,0,Doctorate,42,16597300,Peddapalle,0
-Ambala Mahendar	,IND,0,12th Pass,46,Nil,Peddapalle,0
-Arsham Ashok,IND,0,10th Pass,31,Nil,Peddapalle,0
+Ambala Mahendar	,IND,0,12th Pass,46,,Peddapalle,0
+Arsham Ashok,IND,0,10th Pass,31,,Peddapalle,0
 Bala Kalyan Panja,BSP,0,Graduate Professional,36,765220,Peddapalle,0
 Dr. Agama Chandrashekar,INC,0,Graduate Professional,60,63320000,Peddapalle,5000000
 Durgam. Rajanna,IND,0,Graduate Professional,27,15500,Peddapalle,0
 Erugurala Bhagya Laxmi,Pyramid Party of India,0,Post Graduate,27,2000,Peddapalle,0
 Gaddala Vinay Kumar,IND,0,8th Pass,62,12309436,Peddapalle,450000
-Godisella Nagamani,IND,0,10th Pass,28,Nil,Peddapalle,0
+Godisella Nagamani,IND,0,10th Pass,28,,Peddapalle,0
 Krishna Sabbani,Marxist Communist Party of India (United), 4 ,Others,57,6120000,Peddapalle,967827
 Kumar Sogula,BJP,0,Post Graduate,52,11933904,Peddapalle,3730368
 Kuntala Narsaiah,IND,0,10th Pass,42,720540,Peddapalle,0
@@ -6417,7 +6417,7 @@ Thadem Raj Prakash,India Praja Bandhu Party,0,Post Graduate,43,21530000,Peddapal
 Velthuru Mallaiah,RPI(Khobragade),0,10th Pass,63,255000,Peddapalle,570000
 Gangapuram Kishan Reddy,BJP,0,Others,58,81430778,Secunderabad,4500000
 Abdallah Ibrahim,IND,0,12th Pass,53,10238358,Secunderabad,0
-Abdul Azeem,IND,0,10th Pass,49,Nil,Secunderabad,0
+Abdul Azeem,IND,0,10th Pass,49,,Secunderabad,0
 Akhil Chirravuri,IND,0,Post Graduate,25,214000,Secunderabad,0
 Andrapu Sudharshan Gangaputra,IND,0,Graduate,43,60000,Secunderabad,0
 Andukuri Vijaya Bhaskar,India Praja Bandhu Party,0,Graduate Professional,49,5000,Secunderabad,0
@@ -6433,7 +6433,7 @@ Junaid Anam Siddiqui,IND,0,12th Pass,36,397385,Secunderabad,0
 K Venkatanarayana	,IND,0,12th Pass,31,14000,Secunderabad,0
 M . Ashok Kumar	,Samajwadi Forward Bloc,0,Graduate Professional,37,342000,Secunderabad,0
 M . D . Nazeer Uddin Quadri,Akhil Bharatiya Muslim League (Secular),0,10th Pass,43,5090000,Secunderabad,0
-Mallesh Jatavath,SUCI(C),0,Graduate,26,Nil,Secunderabad,0
+Mallesh Jatavath,SUCI(C),0,Graduate,26,,Secunderabad,0
 Meesala Gopal Sai Baba,IND,0,Graduate Professional,49,9774500,Secunderabad,3900000
 N . Shankar Goud,Janasena Party,0,8th Pass,46,34643000,Secunderabad,1800000
 Nandipati Vinod Kumar,IND,0,Graduate Professional,45,30000,Secunderabad,0
@@ -6449,12 +6449,12 @@ Barla Srinivas,IND,0,Post Graduate,30,15000,Warangal,0
 Bochu Krupakar,Hum Bhartiya Party,0,Graduate,45,1150000,Warangal,0
 Bollapally Saraiah,BSP,0,Graduate,60,9666781,Warangal,0
 Bunga Jyothi Ramana,Aihra National Party, 1 ,Graduate,45,1665000,Warangal,300000
-Chiluveru Prathap,IND,0,10th Pass,48,Nil,Warangal,0
+Chiluveru Prathap,IND,0,10th Pass,48,,Warangal,0
 Chintha Sambamurthy,BJP,0,12th Pass,65,2503100,Warangal,660000
 Jannu Narsaiah,IND, 1 ,Others,44,560000,Warangal,0
 Kannam Venkanna,Marxist Communist Party of India (United),0,12th Pass,42,320000,Warangal,0
 Paniganti Rajithavani,Pyramid Party of India,0,10th Pass,46,20000,Warangal,0
-Pasula Rammurthy,IND,0,8th Pass,46,Nil,Warangal,0
+Pasula Rammurthy,IND,0,8th Pass,46,,Warangal,0
 Sambaiah Dommati,INC,0,Graduate,56,12211566,Warangal,5552696
 Suresh Kanakam,Samajwadi Forward Bloc,0,12th Pass,46,6240000,Warangal,0
 Upendar Jeripothula,IND,0,Post Graduate,37,650000,Warangal,0
@@ -6486,7 +6486,7 @@ Brishaketu Debbarma,Indigenousn Peoples Front Of Tripura,0,Graduate,42,3460085,T
 Jayki Murasing,Ambedkarite Party of India,0,12th Pass,25,10700,Tripura West,0
 Kabrabam Dhirendra Singha,IND,0,Post Graduate,43,6587,Tripura West,0
 Maman Khan,AITC,0,Post Graduate,34,4984000,Tripura West,77412
-Narayan Chandra Dey,IND,0,8th Pass,49,Nil,Tripura West,0
+Narayan Chandra Dey,IND,0,8th Pass,49,,Tripura West,0
 Prabir Debnath,Amra Bangalee,0,Post Graduate,36,120000,Tripura West,0
 Pradip Chakraborty,IND, 2 ,10th Pass,52,5122000,Tripura West,0
 Sankar Prasad Datta,CPI(M),0,Post Graduate,61,27948486,Tripura West,0
@@ -7023,7 +7023,7 @@ Brij Bhushan Sharan Singh,BJP, 4 ,Graduate Professional,62,98905402,Kaiserganj,6
 Chandra Prakash Pandey,Naitik Party,0,12th Pass,0,153000,Kaiserganj,0
 Chandradev Ram Yadav,BSP, 3 ,Post Graduate,66,17297000,Kaiserganj,2000000
 Dhananjay Sharma,Pragatishil Samajwadi Party (Lohia),0,Graduate,46,1313579,Kaiserganj,45680
-Munni,IND,0,Illiterate,41,Nil,Kaiserganj,0
+Munni,IND,0,Illiterate,41,,Kaiserganj,0
 Om Prakash Mishra,IND,0,Graduate,35,680000,Kaiserganj,0
 Pramod Kumar,Samrat Ashok Sena Party,0,10th Pass,39,100000,Kaiserganj,0
 Santosh,Bharat Prabhat Party,0,Graduate Professional,39,60000,Kaiserganj,0
@@ -7146,7 +7146,7 @@ Mohan Kumar,IND,0,10th Pass,49,4090400,Maharajganj,0
 Pannelal,IND,0,8th Pass,33,1178000,Maharajganj,0
 Pappu Chauhan,Satya Kranti Party,0,12th Pass,63,774009,Maharajganj,0
 Pramod Kumar,IND, 1 ,Graduate,36,985543,Maharajganj,0
-Shiv Charan,Jai Hind Samaj Party,0,Post Graduate,30,Nil,Maharajganj,0
+Shiv Charan,Jai Hind Samaj Party,0,Post Graduate,30,,Maharajganj,0
 Sumit,Janhit Kisan Party,0,Graduate,31,2195000,Maharajganj,0
 Supriya Shrinate,INC,0,Post Graduate,41,85042997,Maharajganj,7395000
 Mulayam Singh Yadav,SP, 1 ,Post Graduate,79,205604593,Mainpuri,22055657
@@ -7344,7 +7344,7 @@ Rajaram,Suheldev Bhartiya Samaj Party,0,10th Pass,54,6310007,Salempur,0
 Rajesh Kumar Mishra,INC, 1 ,Doctorate,61,13088751,Salempur,903849
 Ramji Pratap Jigyasu,Hindusthan Nirman Dal, 1 ,12th Pass,44,229850,Salempur,0
 Sumeshwar Nath Tiwari,RASHTRIYA VIKLANG PARTY,0,Post Graduate,40,727004,Salempur,0
-Sunil Kumar Pandey,IND,0,Post Graduate,41,Nil,Salempur,0
+Sunil Kumar Pandey,IND,0,Post Graduate,41,,Salempur,0
 Vidya Shanker Pandey,IND,0,Post Graduate,65,53117000,Salempur,0
 Vishram,IND,0,12th Pass,40,2202599,Salempur,0
 Dr. Shafiqur Rehman Barq,SP,0,Graduate,86,13296671,Sambhal,0
@@ -7908,7 +7908,7 @@ Jawaharlal Mahato,Mulnibasi Party of India, 1 ,12th Pass,66,440000,Purulia,17700
 Laxmikanta Mahata,Amra Bangalee,0,Post Graduate,64,5601000,Purulia,0
 Mrityunjoy Mahato,IND,0,Graduate,57,1015951,Purulia,0
 Nepal Mahata,INC, 8 ,Post Graduate,58,5330178,Purulia,609500
-Rajib Mahato,SHS,0,10th Pass,41,Nil,Purulia,0
+Rajib Mahato,SHS,0,10th Pass,41,,Purulia,0
 Rangalal Kumar,SUCI(C), 1 ,10th Pass,48,500,Purulia,0
 Sekh Fatik,Bharatiya Nyay-Adhikar Raksha Party,0,8th Pass,30,245103,Purulia,58200
 Uma Charan Mahato,IND,0,Literate,77,1251564,Purulia,0
