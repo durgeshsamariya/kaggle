@@ -13,14 +13,14 @@ R S Uma Bharathy,NCP,1,Not Given,40,59977,Andaman & Nicobar Islands,35000,0,M
 Tapan Kumar Bepari,CPM,0,Post Graduate,46,2435276,Andaman & Nicobar Islands,0,0,M
 Madhusudhan Reddy Thakkala,TRS,0,Graduate Professional,59,7550000,Adilabad,120000,1,M
 Dr S Venugopala Chary,TDP,0,Others,42,11580000,Adilabad,1247053,0,M
-Mothe Barik Rao,PRBP,0,Graduate,32,Nil,Adilabad,30000,0,M
-Nainala Goverdhan,IND,0,Post Graduate,30,Nil,Adilabad,0,0,M
+Mothe Barik Rao,PRBP,0,Graduate,32,,Adilabad,30000,0,M
+Nainala Goverdhan,IND,0,Post Graduate,30,,Adilabad,0,0,M
 D. Muralikrishna,BSP,0,Others,59,6763811,Amalapuram,748000,0,M
 Dunna Janardhana Rao,TDP,0,Graduate,51,988000,Amalapuram,60000,0,M
 Muneeswara Rao Bhupati,IND,0,Others,59,236200,Amalapuram,35000,0,M
 Yalangi Ramesh,IND,0,Not Given,40,340000,Amalapuram,0,0,M
 Chalapathirao Pappala,TDP,0,Graduate,58,5396505,Anakapalli,246000,1,M
-Nanda Gopal Gandham,INC,0,Not Given,0,Nil,Anakapalli,0,0,M
+Nanda Gopal Gandham,INC,0,Not Given,0,,Anakapalli,0,0,M
 Anantha Venkata Rami Reddy,INC,0,Post Graduate,47,3890000,Anantapur,437636,1,M
 A. Jagan Mohan Rao,TRS,0,Graduate,32,505000,Anantapur,0,0,M
 B. S. Amarnath,IND,0,Graduate,42,33698,Anantapur,0,0,M
@@ -32,7 +32,7 @@ Daggubati Purandareswari,INC,0,Others,44,40907640,Bapatla,5212201,1,F
 Chellamalla Venkata Reddy,TRS,0,Graduate,0,70000,Bapatla,0,0,M
 Daggubati Ramanaidu,TDP,0,Graduate,67,98790428,Bapatla,0,0,M
 Inaganti Apparao,IND,0,Others,40,3298000,Bapatla,200000,0,M
-Prathipati Srinivasu,IND,0,Graduate,0,Nil,Bapatla,0,0,M
+Prathipati Srinivasu,IND,0,Graduate,0,,Bapatla,0,0,M
 Midiyam Babu Rao,CPM,0,Graduate Professional,52,542000,Bhadrachalam,130000,1,M
 Janni Appa Rao,BSP,0,12th Pass,30,100000,Bhadrachalam,0,0,M
 Smt.Kprk Phaneeswaramma,TDP,0,Others,39,2941913,Bhadrachalam,42000,0,F
@@ -42,17 +42,17 @@ Jhansi Botcha,INC,0,Post Graduate,40,25900500,Bobbili,0,0,F
 Peddinti Jaganmohan Rao,IND,0,Others,0,5988503,Bobbili,97000,0,M
 D.K. Audikesavulu,TDP,0,Not Given,63,670576468,Chittoor,0,1,M
 A.Malla Rao,TRS,0,Others,42,355000,Chittoor,0,0,M
-D.A Nagaraju,IND,0,Not Given,46,Nil,Chittoor,0,0,M
+D.A Nagaraju,IND,0,Not Given,46,,Chittoor,0,0,M
 Dr. Ravuri Venkata Swamy,INC,0,Graduate,54,11815429,Chittoor,228886,0,M
 S.Sahadeva Reddy,IND,0,Post Graduate,31,210000,Chittoor,0,0,M
-Shaik Jeelani Basha,IND,0,Not Given,54,Nil,Chittoor,0,0,M
+Shaik Jeelani Basha,IND,0,Not Given,54,,Chittoor,0,0,M
 Y.S. Vivekananda Reddy,INC,0,Graduate,51,36227380,Cuddapah,0,1,M
 B.Narayana Reddy,RPI,0,Not Given,42,1507000,Cuddapah,27000,0,M
 C.Balavarada Reddy,IND,0,Others,39,130000,Cuddapah,0,0,M
 C.Gopi Narasimha Reddy,IND,0,Graduate,28,20000,Cuddapah,20000,0,M
 G.Ravindranatha Reddy,JP,0,8th Pass,53,1811500,Cuddapah,310000,0,M
 Indi Reddy Thimma Reddy,RJD,2,Not Given,38,1150000,Cuddapah,180000,0,M
-Kondaboina Sreenivasulu K,PPOI,0,Not Given,35,Nil,Cuddapah,0,0,M
+Kondaboina Sreenivasulu K,PPOI,0,Not Given,35,,Cuddapah,0,0,M
 N Bhaskara Reddy,PP,0,Not Given,0,381000,Cuddapah,20000,0,M
 O.Subba Reddy,Akhil Bharatiya Jan Sangh,0,Others,54,408000,Cuddapah,30000,0,M
 Pechara Venkateshwar Rao,TRS,0,Graduate,36,1250000,Cuddapah,0,0,M
@@ -88,9 +88,9 @@ Majeedullah Khan @ Farhat Khan,MBT,0,12th Pass,36,700000,Hyderabad,0,0,M
 Mohsin-Bin-Hussain Al-Kasari,IND,0,Others,28,4715000,Hyderabad,0,0,M
 Salahuddin Ahmed S.K.,IND,0,Not Given,50,946744,Hyderabad,0,0,M
 Smt.G.Shobha Rani,BSP,0,Others,41,3900,Hyderabad,250000,0,F
-Smt.Varsha Dhawan,PPOI,0,12th Pass,48,Nil,Hyderabad,0,0,F
-Syed Gaffar,IND,0,Not Given,40,Nil,Hyderabad,0,0,M
-Mudragada Padmanabham,TDP,0,Not Given,0,Nil,Kakinada,0,0,M
+Smt.Varsha Dhawan,PPOI,0,12th Pass,48,,Hyderabad,0,0,M
+Syed Gaffar,IND,0,Not Given,40,,Hyderabad,0,0,M
+Mudragada Padmanabham,TDP,0,Not Given,0,,Kakinada,0,0,M
 Nainalasetti Murthy,CPI(ML)(L),0,Not Given,51,900000,Kakinada,562000,0,M
 K. Chandra Shakher Rao,TRS,0,Graduate,51,8598858,Karimnagar,2559507,1,M
 Chennamaneni Vidyasagar Rao,BJP,0,Graduate Professional,61,5196600,Karimnagar,0,0,M
@@ -114,7 +114,7 @@ Kambalapadu Ediga Krishnamurthi,TDP,0,Not Given,65,32496805,Kurnool,18682834,0,M
 R. V. Mohana Reddy,JP,0,Graduate,42,235000,Kurnool,0,0,M
 Reddipogu David,BSP,0,Not Given,47,537500,Kurnool,720000,0,M
 T. Seshaphani,IND,0,12th Pass,34,2000,Kurnool,0,0,M
-V. Ravinder Rao,TRS,0,Not Given,35,Nil,Kurnool,0,0,M
+V. Ravinder Rao,TRS,0,Not Given,35,,Kurnool,0,0,M
 Badiga Ramakrishna,INC,0,12th Pass,61,138545000,Machilipatnam,11559000,1,M
 Adapala Sivannarayana,PPOI,0,Others,32,298906,Machilipatnam,0,0,M
 Ambati Brahmanaiah,TDP,0,Post Graduate,64,1546471,Machilipatnam,168301,0,M
@@ -123,7 +123,7 @@ Dodda Kameswara Rao,IND,0,10th Pass,49,1500000,Machilipatnam,0,0,M
 Yenduri Subrahmanyeswara Rao (Mani),IND,0,Others,46,800000,Machilipatnam,0,0,M
 D. Vittal Rao,INC,0,Graduate,53,65075830,Mahabubnagar,3000000,1,M
 G. Ramchandraiah Yadav,BSP,0,Others,47,182,Mahabubnagar,0,0,M
-Mohd. Mazher Hussain,Muslim League Kerala State Committee,0,Not Given,52,Nil,Mahabubnagar,0,0,M
+Mohd. Mazher Hussain,Muslim League Kerala State Committee,0,Not Given,52,,Mahabubnagar,0,0,M
 Smt. Gundala Vijaya Lakshmi,PPOI,0,12th Pass,56,50000,Mahabubnagar,0,0,F
 Yelkoti Yella Reddy,TDP,0,12th Pass,64,1904000,Mahabubnagar,189910,0,M
 A. Narendra,TRS,0,Graduate,49,2020000,Medak,500000,1,M
@@ -135,19 +135,19 @@ P. Jeevula Naik,IND,0,5th Pass,57,2379500,Medak,0,0,M
 Jaipal Reddy Sudini,INC,0,Post Graduate,62,12264007,Miryalguda,1546865,1,M
 Marry Nehemiah,IND,0,Graduate,50,80000,Miryalguda,0,0,M
 Vangala Swamy Goud,TDP,0,Not Given,52,5001067,Miryalguda,1993070,0,M
-Varikuppala Venkanna,MCPI(S),0,10th Pass,33,Nil,Miryalguda,0,0,M
+Varikuppala Venkanna,MCPI(S),0,10th Pass,33,,Miryalguda,0,0,M
 Yanala Narsi Reddy,IND,0,12th Pass,37,62000,Miryalguda,0,0,M
 Dr.Manda Jagannath,TDP,0,Post Graduate,52,6545314,Nagarkurnool,2339000,1,M
 Dr. G.Raghavulu,IND,0,Others,47,135000,Nagarkurnool,170000,0,M
 K.S.Ratnam,IND,0,Not Given,46,6897500,Nagarkurnool,506545,0,M
 P. Lalaiah,BSP,0,Graduate,60,50000,Nagarkurnool,0,0,M
-P.Bhagavanthu,IND,0,Not Given,28,Nil,Nagarkurnool,0,0,M
+P.Bhagavanthu,IND,0,Not Given,28,,Nagarkurnool,0,0,M
 Suravaram Sudhakar Reddy,CPI,1,Graduate Professional,62,1990000,Nalgonda,962600,0,M
 A.Nageswara Rao,PPOI,0,Graduate,54,645000,Nalgonda,0,0,M
 Gummi Bakka Reddy,IND,0,Not Given,60,125000,Nalgonda,0,0,M
 Gyara Prathap,IND,0,10th Pass,41,800000,Nalgonda,0,0,M
 Nallu Indrasena Reddy,BJP,0,Post Graduate,53,16242000,Nalgonda,0,0,M
-Pudari Narsimha,BSP,0,Graduate,34,Nil,Nalgonda,125000,0,M
+Pudari Narsimha,BSP,0,Graduate,34,,Nalgonda,125000,0,M
 Vattipally Srinivas Goud,TRS,0,Graduate,40,4190972,Nalgonda,0,0,M
 S. P. Y. Reddy,INC,0,Graduate Professional,54,64646900,Nandyal,13374000,1,M
 A. C  V. Subbaiah,BSP,0,Graduate,40,100000,Nandyal,0,0,M
@@ -157,9 +157,9 @@ Injeti Krishna Reddy,IND,2,Not Given,40,3050000,Nandyal,30000,0,M
 Laku Obulesu,IND,0,Not Given,42,227000,Nandyal,200000,0,M
 Mala Gunam Palle Gokari,IND,0,Not Given,49,90000,Nandyal,0,0,M
 Ramakrishna Reddy. S,IND,0,Not Given,40,1480000,Nandyal,201500,0,M
-S. Vasudev Prasad,TRS,0,Not Given,29,Nil,Nandyal,0,0,M
+S. Vasudev Prasad,TRS,0,Not Given,29,,Nandyal,0,0,M
 Alluri Yugandhara  Raju,PPOI,0,Post Graduate,39,451000,Narasapur,0,0,M
-Uppalapati Venkatakrishnam Raju,BJP,0,Graduate,64,Nil,Narasapur,450000,0,M
+Uppalapati Venkatakrishnam Raju,BJP,0,Graduate,64,,Narasapur,450000,0,M
 Mekapati Rajamohan Reddy,INC,0,Graduate Professional,59,63961169,Narasaraopet,0,1,M
 Gontu Venkateswara Reddy,IND,0,Graduate,59,1075000,Narasaraopet,0,0,M
 Maddi Lakshmaiah,TDP,0,Others,74,169062689,Narasaraopet,157955,0,M
@@ -171,8 +171,8 @@ Dava Penchala Rao,IND,0,Others,0,100000,Nellore,24500,0,M
 Maddela Brahmanaidu,IND,0,Not Given,32,22000,Nellore,0,0,M
 Malakondaiah.Y,SP,0,Post Graduate,62,62000,Nellore,0,0,M
 Mangalapuri Venkateswarlu,BRPP,0,Graduate,54,67500,Nellore,39646,0,M
-Marlapati  Vemaiah,BSP,0,Graduate,37,Nil,Nellore,0,0,M
-Ouruvuru Krishnaiah,IND,0,10th Pass,40,Nil,Nellore,0,0,M
+Marlapati  Vemaiah,BSP,0,Graduate,37,,Nellore,0,0,M
+Ouruvuru Krishnaiah,IND,0,10th Pass,40,,Nellore,0,0,M
 Venkata Ram Ravinuthala,IND,0,Not Given,53,20000,Nellore,0,0,M
 Madhu Goud Yaskhi,INC,0,Post Graduate,45,142718537,Nizamabad,32560000,1,M
 Baisa Ramadasu,IND,0,12th Pass,48,11100,Nizamabad,0,0,M
@@ -180,7 +180,7 @@ Syed Yousuf Ali,TDP,0,Not Given,49,11801000,Nizamabad,200000,0,M
 Yedla Ramu,BSP,0,Post Graduate,48,5000,Nizamabad,0,0,M
 Sreenivasulu Reddy Magunta,INC,2,Graduate,49,141768943,Ongole,0,0,M
 Alla Rama Chandra Reddy,IND,0,5th Pass,57,900000,Ongole,25000,0,M
-Bathula Vijaya Bharathi,TDP,0,Not Given,0,Nil,Ongole,0,0,F
+Bathula Vijaya Bharathi,TDP,0,Not Given,0,,Ongole,0,0,M
 Boyalla Ranganayakulu,IND,0,Not Given,0,1200000,Ongole,0,0,M
 Gudipudi Narasimha Rao,IND,0,Not Given,0,20000,Ongole,300000,0,M
 Nalamalapu Lakshmi Narasa Reddy,IND,0,Not Given,35,181000,Ongole,0,0,M
@@ -193,7 +193,7 @@ Dadichiluka Veera Gouri Sankara Rao,TDP,0,Doctorate,35,921000,Parvathipuram,0,0,
 Uooyaka Mutyalu,IND,0,8th Pass,32,20000,Parvathipuram,0,0,M
 G. Venkat Swamy,INC,0,10th Pass,76,19464700,Peddapalli,0,1,M
 Dr.Mt. C. Suguna,TDP,0,Post Graduate,48,50279356,Peddapalli,0,0,F
-Kamilla Jaya Rao,IND,1,12th Pass,38,Nil,Peddapalli,0,0,M
+Kamilla Jaya Rao,IND,1,12th Pass,38,,Peddapalli,0,0,M
 Maddela Odelu,IND,0,Not Given,27,478000,Peddapalli,60000,0,M
 Aruna Kumar Vundavalli,INC,2,Graduate Professional,50,23431318,Rajahmundry,881017,0,M
 Duggireddy Dharma Reddy,IND,0,Not Given,0,59500,Rajahmundry,0,0,M
@@ -208,21 +208,21 @@ M. Anjan Kumar Yadav,INC,0,12th Pass,39,4250700,Secunderabad,810500,1,M
 Abdus Sattar Mujahed,Muslim League Kerala State Committee,0,Not Given,37,80000,Secunderabad,0,0,M
 Achanta Bapiraju,IND,0,Graduate,64,281447,Secunderabad,0,0,M
 Bandaru Dattatraya,BJP,0,Graduate,57,7363517,Secunderabad,0,0,M
-H.K. Jaiswal,IND,0,Not Given,62,Nil,Secunderabad,0,0,M
+H.K. Jaiswal,IND,0,Not Given,62,,Secunderabad,0,0,M
 Humera Aziz,AIMIM,0,Graduate,34,381000,Secunderabad,0,0,F
-Kailash Chandra,IND,0,12th Pass,64,Nil,Secunderabad,0,0,M
-M.D. Paul Vedanth,BSP,0,Graduate,44,Nil,Secunderabad,0,0,M
-Megha Murali,PPOI,0,Not Given,0,Nil,Secunderabad,0,0,M
-N. Chandra Shekar,MCPI(S),0,10th Pass,47,Nil,Secunderabad,0,0,M
-Padm Yadagiri,IND,0,Not Given,0,Nil,Secunderabad,0,0,M
+Kailash Chandra,IND,0,12th Pass,64,,Secunderabad,0,0,M
+M.D. Paul Vedanth,BSP,0,Graduate,44,,Secunderabad,0,0,M
+Megha Murali,PPOI,0,Not Given,0,,Secunderabad,0,0,M
+N. Chandra Shekar,MCPI(S),0,10th Pass,47,,Secunderabad,0,0,M
+Padm Yadagiri,IND,0,Not Given,0,,Secunderabad,0,0,M
 Seelam Narayana,IND,0,Post Graduate,40,2548000,Secunderabad,3602500,0,M
-Syed Nawaz Ahmed,IND,0,10th Pass,42,Nil,Secunderabad,0,0,M
+Syed Nawaz Ahmed,IND,0,10th Pass,42,,Secunderabad,0,0,M
 Sarvey Sathyanarayana,INC,0,Graduate Professional,49,1110000,Siddipet,480000,1,M
-Killi Kruparani,INC,0,Not Given,0,Nil,Srikakulam,0,0,F
-Mylapalli Lakshmudu,BSP,1,Post Graduate,36,Nil,Srikakulam,0,0,M
+Killi Kruparani,INC,0,Not Given,0,,Srikakulam,0,0,M
+Mylapalli Lakshmudu,BSP,1,Post Graduate,36,,Srikakulam,0,0,M
 Tammineni Jaganmohan Rao,IND,0,Graduate Professional,37,100543,Srikakulam,0,0,M
 Balashowry Vallabhaneni,INC,0,Graduate,36,103238914,Tenali,350000,1,M
-Dilip Raaja Donepudi,BSP,0,Graduate,44,Nil,Tenali,0,0,M
+Dilip Raaja Donepudi,BSP,0,Graduate,44,,Tenali,0,0,M
 Duggirala Raja  Ramkumar,IND,0,Post Graduate,53,1500000,Tenali,0,0,M
 Mandali Subrahmanyam,IND,0,Post Graduate,75,1560000,Tenali,0,0,M
 Narasimha Reddy Tera,TRS,0,Post Graduate,42,25000,Tenali,0,0,M
@@ -230,7 +230,7 @@ Ummareddy Venkateswarlu,TDP,0,Post Graduate,69,5975599,Tenali,0,0,M
 Venkateswarlu Palla,IND,0,Not Given,62,848200,Tenali,0,0,M
 Chinta Mohan,INC,0,Graduate Professional,49,3982900,Tirupathi,1325256,1,M
 Dr. N. Venkata Swamy,BJP,0,Post Graduate,72,7127164,Tirupathi,0,0,M
-K. Eswar Rao,TRS,0,12th Pass,27,Nil,Tirupathi,0,0,M
+K. Eswar Rao,TRS,0,12th Pass,27,,Tirupathi,0,0,M
 Kattamanchi Prabhakar,IND,0,Post Graduate,35,70000,Tirupathi,0,0,M
 Apparao Damalapati,IND,0,10th Pass,60,4296000,Vijayawada,0,0,M
 Aswini Dutt Chalasani,TDP,0,Others,53,26950458,Vijayawada,5935000,0,M
@@ -246,16 +246,16 @@ Janardhana Reddy Nedurumalli,INC,0,Graduate Professional,69,10916531,Visakhapatn
 Apparao Gudivada,IND,0,Not Given,63,226200,Visakhapatnam,0,0,M
 Bharanikana Rama Rao,IND,0,Post Graduate,0,9912102,Visakhapatnam,0,0,M
 Dr.M.V.V.S.Murthy,TDP,0,Not Given,65,27339275,Visakhapatnam,0,0,M
-Kolaventi Sundara Rao,BSP,0,Graduate Professional,64,Nil,Visakhapatnam,0,0,M
-Mamidi Somunaidu,RJD,0,Not Given,67,Nil,Visakhapatnam,0,0,M
+Kolaventi Sundara Rao,BSP,0,Graduate Professional,64,,Visakhapatnam,0,0,M
+Mamidi Somunaidu,RJD,0,Not Given,67,,Visakhapatnam,0,0,M
 S.V.B.Reddy,IND,0,Post Graduate,57,1662000,Visakhapatnam,0,0,M
 Satyanarayana Machiraju,IND,0,Graduate,60,7220000,Visakhapatnam,0,0,M
 Vamsi Kiran.B,PPOI,0,Not Given,28,10000,Visakhapatnam,0,0,M
-Bellaiah Tejavath,IND,0,Not Given,52,Nil,Warangal,0,0,M
+Bellaiah Tejavath,IND,0,Not Given,52,,Warangal,0,0,M
 Bodakunti Venkateshwarlu,TDP,0,Graduate,47,6933697,Warangal,3926747,0,M
-Gade Jhansi,IND,0,Graduate,40,Nil,Warangal,0,0,F
+Gade Jhansi,IND,0,Graduate,40,,Warangal,0,0,M
 Mamidala Elia,BSP,0,Post Graduate,59,3150000,Warangal,0,0,M
-Mumjala Bikshapathi,IND,0,Graduate,29,Nil,Warangal,0,0,M
+Mumjala Bikshapathi,IND,0,Graduate,29,,Warangal,0,0,M
 Tapir Gao,BJP,0,Post Graduate,42,5516640,Arunachal East,50000,1,M
 Matwang Chimyang,IND,0,10th Pass,39,1760000,Arunachal East,0,0,M
 Ogong Tamuk,IND,0,8th Pass,47,1520000,Arunachal East,0,0,M
@@ -339,7 +339,7 @@ Babul Roy,IND,0,Not Given,27,115000,Karimganj,0,0,M
 Lukendra Roy,IND,0,Not Given,28,75000,Karimganj,0,0,M
 Nepal Chandra Das,AGP,0,Literate,64,785894,Karimganj,0,0,M
 Parimal Sukla Baidya,BJP,0,Graduate,45,637272,Karimganj,250000,0,M
-Radha Kanta Tanty,IND,0,Post Graduate,62,Nil,Karimganj,0,0,M
+Radha Kanta Tanty,IND,0,Post Graduate,62,,Karimganj,0,0,M
 Sushil Kumar Das,IND,0,Not Given,33,80000,Karimganj,0,0,M
 Sansuma Khunggur Bwiswmuthiary,IND,0,Graduate,42,1694686,Kokrajhar,0,1,M
 Derhagra Mochahary,INC,0,12th Pass,51,70738,Kokrajhar,328192,0,M
@@ -354,7 +354,7 @@ Padmeswar Phukan,SAP,0,10th Pass,46,670000,Lakhimpur,0,0,M
 Puspa Gogoi,RSP,0,Doctorate,57,825000,Lakhimpur,0,0,M
 Rabin Deka,IND,0,Graduate,54,200000,Lakhimpur,0,0,M
 Ranee Narah,INC,0,Graduate,40,5556439,Lakhimpur,0,0,F
-Sunmoni Das,LJNSP,0,Post Graduate,34,Nil,Lakhimpur,0,0,M
+Sunmoni Das,LJNSP,0,Post Graduate,34,,Lakhimpur,0,0,M
 Uday Shankar Hazarika,BJP,0,Graduate,41,6105400,Lakhimpur,143298,0,M
 Narayan Chandra Borkataky,BJP,0,Graduate,60,5595818,Mangaldoi,301647,1,M
 Apurba Bhattacharjee,AGP,0,Post Graduate,40,177889,Mangaldoi,0,0,M
@@ -402,7 +402,7 @@ Kanti Singh,RJD,0,Graduate,47,11602840,Arrah,33797,1,F
 Ashok Kumar Verma,JD(U),2,Doctorate,35,1902066,Arrah,0,0,M
 Brahmeshwar Nath Sigh,IND,19,12th Pass,58,1525000,Arrah,76000,0,M
 Haridwar Prasad Singh,SAP,1,10th Pass,60,3733890,Arrah,0,0,M
-Jitendra Tiwary,Akhil Bharatiya Jan Sangh,0,Literate,34,Nil,Arrah,0,0,M
+Jitendra Tiwary,Akhil Bharatiya Jan Sangh,0,Literate,34,,Arrah,0,0,M
 Narendra Kumar Singh,SP,0,8th Pass,45,9711425,Arrah,2606417,0,M
 Ram Kundal Sharma,BSP,0,Graduate Professional,67,200000,Arrah,0,0,M
 Ram Naresh Ram,CPI(ML)(L),0,5th Pass,79,44354,Arrah,23138,0,M
@@ -411,7 +411,7 @@ Rameshwar Prasad Gupta,IND,0,10th Pass,37,1719000,Arrah,22000,0,M
 Rana Singh,IND,0,Not Given,37,37000,Arrah,0,0,M
 Nikhil Kumar,INC,0,Post Graduate,63,74489984,Aurangabad,1220000,1,M
 Aashutosh Kumar Singh,IND,0,10th Pass,44,807000,Aurangabad,90000,0,M
-Ann Kumar,AD,0,Literate,31,Nil,Aurangabad,0,0,M
+Ann Kumar,AD,0,Literate,31,,Aurangabad,0,0,M
 Indradeo Ram,IND,0,Literate,54,9000,Aurangabad,5000,0,M
 Jitendra Yadav,BSP,2,10th Pass,41,5550000,Aurangabad,0,0,M
 Kamta Paswan,IND,0,10th Pass,30,10000,Aurangabad,0,0,M
@@ -457,7 +457,7 @@ Uday Kumar Singh,IND,0,Not Given,43,5900000,Banka,0,0,M
 Vijay Krishna,RJD,1,Post Graduate,53,5832524,Barh,27725,0,M
 Anandi Mahto,BSP,0,10th Pass,73,953000,Barh,40000,0,M
 Indra Kumar Singh Chandapuri,SP,0,Others,45,570000,Barh,0,0,M
-Mithilesh Yadav,CPI(ML)(L),0,12th Pass,33,Nil,Barh,0,0,M
+Mithilesh Yadav,CPI(ML)(L),0,12th Pass,33,,Barh,0,0,M
 Nitish Kumar,JD(U),0,Graduate,52,4318464,Barh,672674,0,M
 Sanjay Kumar,RLD,0,Graduate,33,600,Barh,0,0,M
 Sarbind Kumar,IND,0,Post Graduate,0,559500,Barh,0,0,M
@@ -467,9 +467,9 @@ D. P. Ojha,IND,0,Others,59,10831738,Begusarai,94974,0,M
 Krishna Sahi,INC,0,Graduate Professional,73,18674805,Begusarai,0,0,F
 Kumar Suman Singh,IND,2,Post Graduate,27,4808448,Begusarai,0,0,M
 Manoj Kumar Mahto,BSP,0,Graduate,27,230000,Begusarai,0,0,M
-Rajendra Mahto,IND,0,Not Given,0,Nil,Begusarai,0,0,M
+Rajendra Mahto,IND,0,Not Given,0,,Begusarai,0,0,M
 Ram Kishun Sah,AD,0,Post Graduate,59,2441000,Begusarai,0,0,M
-Shankar Lal Chokhani,LSD,0,Not Given,0,Nil,Begusarai,0,0,M
+Shankar Lal Chokhani,LSD,0,Not Given,0,,Begusarai,0,0,M
 Sree Narayan Goswami,IJP,0,Literate,54,1710000,Begusarai,900,0,M
 Raghunath Jha,RJD,2,12th Pass,66,11267189,Bettiah,0,0,M
 Akbar Husain,IND,0,Graduate,28,68000,Bettiah,0,0,M
@@ -510,7 +510,7 @@ Ram Prasad Singh,RJD,0,Graduate,66,3070655,Bikramganj,0,0,M
 Rameshwar Prasad,IND,0,Graduate,40,189229,Bikramganj,0,0,M
 Shri Niwas Singh,IND,0,Graduate,42,560000,Bikramganj,0,0,M
 Sipahi Prasad,IND,0,Graduate,37,135000,Bikramganj,0,0,M
-Virendra Singh,IND,0,Not Given,0,Nil,Bikramganj,0,0,M
+Virendra Singh,IND,0,Not Given,0,,Bikramganj,0,0,M
 Lalmuni Chaubey,BJP,0,12th Pass,66,8431336,Buxar,0,1,M
 Bisheshwar Pandey,IND,1,10th Pass,39,50570,Buxar,0,0,M
 Dadan Singh,IND,2,10th Pass,40,1123000,Buxar,1281000,0,M
@@ -532,7 +532,7 @@ Narendra Kumar Singh,IND,0,Not Given,42,17483,Chapra,0,0,M
 Rajeev Pratap Rudy,BJP,0,Post Graduate,42,6175896,Chapra,1172932,0,M
 Rajeshwar Singh,AD,0,10th Pass,34,400000,Chapra,0,0,M
 Md. Ali Ashraf Fatmi,RJD,0,Post Graduate,48,2071240,Darbhanga,545183,1,M
-Baidya Nath Yadav,CPI(ML)(L),1,Post Graduate,37,Nil,Darbhanga,0,0,M
+Baidya Nath Yadav,CPI(ML)(L),1,Post Graduate,37,,Darbhanga,0,0,M
 Jhari Lal Das,IND,0,Graduate,79,150600,Darbhanga,0,0,M
 Kamal Narayan Sahu,BSP,0,Post Graduate,68,2200000,Darbhanga,7031,0,M
 Kirti Azad,BJP,1,Graduate,43,5389512,Darbhanga,0,0,M
@@ -540,20 +540,20 @@ Md. Safi Alam,IND,0,10th Pass,32,50000,Darbhanga,0,0,M
 Mithilesh Kumar Yadav,SP,0,Not Given,45,625000,Darbhanga,0,0,M
 Ram Swarath Safi,IND,0,Not Given,30,32000,Darbhanga,0,0,M
 Safi Ahmad,IND,0,Graduate,58,2550643,Darbhanga,9500,0,M
-Rajesh Kumar Manjhi,RJD,0,8th Pass,32,Nil,Gaya,26000,1,M
+Rajesh Kumar Manjhi,RJD,0,8th Pass,32,,Gaya,26000,0,M
 Ajay Kumar Choudhary,IND,0,Doctorate,43,5652,Gaya,63000,0,M
 Balbir Chand,BJP,0,Graduate,60,6376167,Gaya,0,0,M
 Janki Paswan,CPI,0,12th Pass,49,170600,Gaya,0,0,M
-Laldev Manjhi,IND,0,Others,35,Nil,Gaya,0,0,M
+Laldev Manjhi,IND,0,Others,35,,Gaya,0,0,M
 Manoj Kumar,SP,0,Graduate Professional,27,425000,Gaya,0,0,M
 Niranjan Kumar,CPI(ML)(L),0,Graduate,32,270000,Gaya,0,0,M
-Raju Manjhi,IND,0,10th Pass,42,Nil,Gaya,5000,0,M
+Raju Manjhi,IND,0,10th Pass,42,,Gaya,5000,0,M
 Ramadhar Rajwar,IJP,0,8th Pass,34,105000,Gaya,0,0,M
 Shakti Raj,BSP,0,Graduate,25,94500,Gaya,0,0,M
 Surbala Krishna,IND,0,Graduate,27,524000,Gaya,0,0,F
 Vishwanath Chaudahary,AD,0,Graduate,31,583000,Gaya,0,0,M
 Anirudh Prasad Alias Sadhu Yadav,RJD,3,Graduate,44,5234219,Gopalganj,443268,0,M
-Chhathu Shah,BSP,0,Others,71,Nil,Gopalganj,0,0,M
+Chhathu Shah,BSP,0,Others,71,,Gopalganj,0,0,M
 Dina Nath Manjhi,IND,0,Graduate,29,288000,Gopalganj,0,0,M
 Monika Tiwari,BED,0,Post Graduate,25,41000,Gopalganj,0,0,F
 Paras Nath Pathak,SP,0,Graduate,60,1374099,Gopalganj,0,0,M
@@ -564,7 +564,7 @@ Sushma Devi,IND,0,Graduate,26,495000,Gopalganj,0,0,F
 Ram Vilas Paswan,LJNSP,0,Post Graduate,57,8332433,Hajipur,0,1,M
 Chandeshwar Das,BSP,0,12th Pass,56,170000,Hajipur,0,0,M
 Chhedi Paswan,JD(U),0,Post Graduate,48,28615457,Hajipur,46085,0,M
-Jitendra Kumar,JP,0,Not Given,29,Nil,Hajipur,0,0,M
+Jitendra Kumar,JP,0,Not Given,29,,Hajipur,0,0,M
 Lalan Ram,IND,2,10th Pass,29,13300,Hajipur,50000,0,M
 Laxman Paswan,AD,0,10th Pass,49,40000,Hajipur,0,0,M
 Ram Sundar Das,Samajwadi Janata Party (Rashtriya),0,10th Pass,67,509587,Hajipur,1239302,0,M
@@ -592,7 +592,7 @@ Sanjay Kumar,IND,0,Graduate Professional,30,147000,Jhanjharpur,0,0,M
 Upendar Paswan,IND,0,8th Pass,38,203160,Jhanjharpur,0,0,M
 Nikhil Kumar Choudhary,BJP,1,Graduate,61,4535938,Katihar,0,0,M
 Binod Kumar Thakur,IND,0,Graduate,36,136200,Katihar,0,0,M
-Mahmad Iqbal Qureshi,IND,0,12th Pass,29,Nil,Katihar,0,0,M
+Mahmad Iqbal Qureshi,IND,0,12th Pass,29,,Katihar,0,0,M
 Mubarak Hussain,SP,1,Graduate,54,640000,Katihar,282000,0,M
 Pradeep Kumar Sah,IND,0,Graduate,39,65155,Katihar,0,0,M
 Pradeep Kumar Sharma,IND,0,12th Pass,43,267980,Katihar,0,0,M
@@ -620,7 +620,7 @@ Dev Kumar Sah,IND,0,10th Pass,29,25523,Kishanganj,0,0,M
 Dilip Kumar Panjiar,IND,0,Graduate,29,50000,Kishanganj,0,0,M
 Lal Chand Jalan,IND,0,10th Pass,42,1174124,Kishanganj,46200,0,M
 Nevi Lal Das,IND,0,Not Given,40,77000,Kishanganj,0,0,M
-Syam Sunder Thakur,IND,0,10th Pass,35,Nil,Kishanganj,0,0,M
+Syam Sunder Thakur,IND,0,10th Pass,35,,Kishanganj,0,0,M
 Syed Shahnawaz Hussain,BJP,0,10th Pass,35,3996000,Kishanganj,605000,0,M
 Vishwanath Kejariwal,BSP,0,Post Graduate,71,7090850,Kishanganj,5529,0,M
 Lalu Prasad,RJD,7,Graduate Professional,55,8768340,Madhepura,22041400,0,M
@@ -639,14 +639,14 @@ Dr. Shakeel Ahmad,INC,0,Graduate Professional,47,1859000,Madhubani,300000,1,M
 Ajay Kumar Purbe,SP,0,Others,42,4601993,Madhubani,0,0,M
 Chaturanan Mishra,CPI,1,10th Pass,79,452000,Madhubani,0,0,M
 Hukum Deo Narayan Yadav,BJP,0,Graduate,66,11296061,Madhubani,138313,0,M
-Irfanur Rahman,RLD,0,Others,30,Nil,Madhubani,0,0,M
+Irfanur Rahman,RLD,0,Others,30,,Madhubani,0,0,M
 Mishri Das,BSP,0,Post Graduate,45,42700,Madhubani,15000,0,M
-Parikshan Paswan,IND,0,10th Pass,26,Nil,Madhubani,0,0,M
+Parikshan Paswan,IND,0,10th Pass,26,,Madhubani,0,0,M
 Pashupati Chaudhary,IND,1,Not Given,35,17744,Madhubani,0,0,M
 Rajendra Yadav,IND,0,8th Pass,27,140000,Madhubani,0,0,M
 Ram Chandra Yadav,KSVP,0,12th Pass,0,1192000,Madhubani,300000,0,M
 Prabhunath Singh,JD(U),11,12th Pass,49,3296840,Maharajganj,530175,0,M
-Brajesh Singh,IND,0,12th Pass,41,Nil,Maharajganj,0,0,M
+Brajesh Singh,IND,0,12th Pass,41,,Maharajganj,0,0,M
 Dinesh Rai,IND,0,Not Given,27,1200,Maharajganj,0,0,M
 Dr. Mahachandra Prasad Singh,IND,0,Doctorate,55,3779612,Maharajganj,387780,0,M
 Girja Devi,IND,0,Post Graduate,60,9556899,Maharajganj,73350,0,F
@@ -683,7 +683,7 @@ Arvind Choudhary,RLSM,0,12th Pass,37,14552467,Muzaffarpur,1029649,0,M
 Bhagwan Lal Sahani,RJD,0,Doctorate,57,1918000,Muzaffarpur,0,0,M
 Bhikhari Ram,IND,0,Not Given,34,6500,Muzaffarpur,0,0,M
 Devendra Rakesh,IND,1,Post Graduate,49,5110574,Muzaffarpur,11800,0,M
-Dinesh Prasad Chaudhary,IND,0,Not Given,0,Nil,Muzaffarpur,0,0,M
+Dinesh Prasad Chaudhary,IND,0,Not Given,0,,Muzaffarpur,0,0,M
 Jitendra Yadav,CPI(ML)(L),0,12th Pass,31,377518,Muzaffarpur,0,0,M
 Maheshwar Prasad Yadav,SP,0,10th Pass,56,1193937,Muzaffarpur,333644,0,M
 Parmanand Singh,IND,0,Not Given,33,28000,Muzaffarpur,0,0,M
@@ -704,14 +704,14 @@ Rajesh Kumar,IND,0,Graduate,32,278252,Nalanda,1407,0,M
 Ram Prawesh Prasad,BSP,0,Graduate,48,686000,Nalanda,0,0,M
 Shiv Shankar Prasad,SHS,0,Illiterate,59,150000,Nalanda,0,0,M
 Virchandra Paswan,RJD,0,Post Graduate,41,1797522,Nawada,135728,1,M
-Banbari Ram,IND,0,Not Given,54,Nil,Nawada,0,0,M
+Banbari Ram,IND,0,Not Given,54,,Nawada,0,0,M
 Bhola Ram,BSP,0,Not Given,44,45000,Nawada,0,0,M
 Dalit Paswan,IJP,0,Post Graduate,61,3013957,Nawada,0,0,M
 Hari Choudhary,IND,0,Not Given,34,35200,Nawada,0,0,M
-Mahendra Paswan,JP,0,Not Given,26,Nil,Nawada,0,0,M
+Mahendra Paswan,JP,0,Not Given,26,,Nawada,0,0,M
 Mewalal Rajwanshi,CPI(ML)(L),1,Others,37,20000,Nawada,0,0,M
 Nagandra Kumar Vikal,IND,0,Post Graduate,29,413000,Nawada,0,0,M
-Polish Kumar Das,IND,0,Graduate,47,Nil,Nawada,0,0,M
+Polish Kumar Das,IND,0,Graduate,47,,Nawada,0,0,M
 Pramod Kumar Akela,IND,0,Graduate,33,590000,Nawada,0,0,M
 Raghunandan Mochi,IND,0,12th Pass,39,48400,Nawada,0,0,M
 Sanjay Paswan,BJP,0,Doctorate,43,3401950,Nawada,50000,0,M
@@ -721,25 +721,25 @@ Ram Kripal Yadav,RJD,0,Graduate,47,1400031,Patna,204942,1,M
 Amit Kumar Albela,IND,0,Graduate,34,233764,Patna,0,0,M
 C. P. Thakur,BJP,0,Graduate Professional,68,27229546,Patna,4991863,0,M
 Dwarika Singh,VJP,0,Graduate,54,665000,Patna,0,0,M
-Jitendra Thakur,AD,0,10th Pass,42,Nil,Patna,0,0,M
-Kameshwar Prasad Singha,IND,0,Not Given,74,Nil,Patna,0,0,M
-Kunj Bihari,IND,0,Not Given,25,Nil,Patna,0,0,M
+Jitendra Thakur,AD,0,10th Pass,42,,Patna,0,0,M
+Kameshwar Prasad Singha,IND,0,Not Given,74,,Patna,0,0,M
+Kunj Bihari,IND,0,Not Given,25,,Patna,0,0,M
 Manoj Kumar,IND,0,8th Pass,36,20000,Patna,0,0,M
 Manoj Kumar Singh,BSP,0,Graduate Professional,43,950000,Patna,0,0,M
 Md. Shahabuddin,SP,0,Graduate,45,586739,Patna,0,0,M
 N. M. Bajoriya,ABHM,0,Illiterate,70,431900,Patna,0,0,M
 Om Prakash Sinha,IND,0,Not Given,52,2703000,Patna,100,0,M
 Radhey Shyam Gupta Alias Radhe Shyam,JHSP,0,Others,39,599000,Patna,0,0,M
-Ram Kumar Singh,IND,0,Not Given,42,Nil,Patna,0,0,M
-Ram Nagina Choudhary,IND,0,Not Given,65,Nil,Patna,0,0,M
+Ram Kumar Singh,IND,0,Not Given,42,,Patna,0,0,M
+Ram Nagina Choudhary,IND,0,Not Given,65,,Patna,0,0,M
 Rama Nand Sinha,IND,0,Others,69,100000,Patna,0,0,M
 Ranjan Prasad Yadav,SPVD,0,Others,55,6466000,Patna,0,0,M
 Ravi Shankar Kushwaha,IND,0,12th Pass,0,50000,Patna,0,0,M
 Shajad Alam,IND,0,Post Graduate,39,54500,Patna,0,0,M
-Shatrudhan Sharma,IND,0,Not Given,37,Nil,Patna,0,0,M
-Sunil Kumar Choudhary Nishad,IND,0,Not Given,26,Nil,Patna,0,0,M
+Shatrudhan Sharma,IND,0,Not Given,37,,Patna,0,0,M
+Sunil Kumar Choudhary Nishad,IND,0,Not Given,26,,Patna,0,0,M
 Sunil Kumar Singh,RLD,0,Graduate,46,595000,Patna,4260,0,M
-Vidya Nand Vikal,CPI(ML)(L),0,Graduate,39,Nil,Patna,0,0,M
+Vidya Nand Vikal,CPI(ML)(L),0,Graduate,39,,Patna,0,0,M
 Uday Singh,BJP,0,12th Pass,44,30654143,Purnea,731440,1,M
 Awadesh Ku Mandal,IND,24,Literate,34,273000,Purnea,0,0,M
 Dr. Irshad Ahmad Khan,SP,0,Post Graduate,36,10762267,Purnea,0,0,M
@@ -760,8 +760,8 @@ Dashai Chaudhary,JD(U),1,Graduate,50,1537925,Rosera,368684,0,M
 Gulab Paswan,AD,0,10th Pass,62,320000,Rosera,0,0,M
 Halchal Ram,IND,0,Graduate,33,106000,Rosera,20000,0,M
 Kedar Paswan,SHS,0,Not Given,69,22000,Rosera,0,0,M
-Kripanath Ram,IND,0,Graduate,29,Nil,Rosera,0,0,M
-Lal Bahadur Sada,CPI(ML)(L),1,10th Pass,33,Nil,Rosera,0,0,M
+Kripanath Ram,IND,0,Graduate,29,,Rosera,0,0,M
+Lal Bahadur Sada,CPI(ML)(L),1,10th Pass,33,,Rosera,0,0,M
 Nandjee Ram,IND,7,10th Pass,41,24282,Rosera,0,0,M
 Sanatan Kumar Sathi,BSP,0,Graduate Professional,30,335000,Rosera,0,0,M
 Satrudhan Kumar Paswan,SP,0,Post Graduate,35,124000,Rosera,80000,0,M
@@ -794,9 +794,9 @@ Dukhi Ram,CPI(ML)(L),1,12th Pass,34,38000,Sasaram,0,0,M
 Madan Ram,BSP,0,10th Pass,37,158195,Sasaram,372000,0,M
 Muni Lall,BJP,0,Post Graduate,65,5436933,Sasaram,786779,0,M
 Phekhu Ram,IND,0,Doctorate,40,50000,Sasaram,0,0,M
-Ram Bachan Ram,SP,0,Post Graduate,54,Nil,Sasaram,0,0,M
+Ram Bachan Ram,SP,0,Post Graduate,54,,Sasaram,0,0,M
 Shiv Kumar Mushehar,AD,0,5th Pass,53,10000,Sasaram,0,0,M
-Sudarshan Ram,IND,0,12th Pass,41,Nil,Sasaram,0,0,M
+Sudarshan Ram,IND,0,12th Pass,41,,Sasaram,0,0,M
 Tengar Paswan,IND,0,10th Pass,44,120000,Sasaram,0,0,M
 Vashishth Paswan,IND,0,10th Pass,33,211200,Sasaram,0,0,M
 Sitaram Singh,RJD,0,Graduate,55,4624000,Sheohar,0,1,M
@@ -811,13 +811,13 @@ Sunil Singh,IND,0,Graduate,39,523551,Sheohar,0,0,M
 Sitaram Yadav,RJD,2,Graduate Professional,56,4805008,Sitamarhi,404410,0,M
 Awadh Kishore Yadav,IND,0,12th Pass,34,417000,Sitamarhi,25000,0,M
 Kamla Kant Mishra,IND,0,10th Pass,62,250000,Sitamarhi,0,0,M
-Mohammad Sagir,IND,0,Not Given,66,Nil,Sitamarhi,0,0,M
+Mohammad Sagir,IND,0,Not Given,66,,Sitamarhi,0,0,M
 Najmujjama,BSP,0,12th Pass,41,10000,Sitamarhi,0,0,M
 Naval Kishore Rai,JD(U),1,Graduate Professional,46,6055791,Sitamarhi,1166462,0,M
 Nawal Kishor Sahi,SAP,0,Post Graduate,58,64500,Sitamarhi,0,0,M
 Rajni Ranjan Sahu,SP,0,Graduate Professional,66,30941700,Sitamarhi,460000,0,M
 Ramashraya Rai,IND,0,Not Given,62,499782,Sitamarhi,0,0,M
-Ratneshwar Mishra,IND,0,Not Given,0,Nil,Sitamarhi,0,0,M
+Ratneshwar Mishra,IND,0,Not Given,0,,Sitamarhi,0,0,M
 Sitaram Rai,IND,0,10th Pass,39,70000,Sitamarhi,32000,0,M
 Sone Lal Sah,IND,0,5th Pass,56,738000,Sitamarhi,0,0,M
 Uttam Lal Das,IND,0,Not Given,37,2000,Sitamarhi,7500,0,M
@@ -868,16 +868,16 @@ Ramnath Sarfe,CPI,0,Post Graduate,45,77000,Bastar,20328,0,M
 Shivram,CPI(ML)(L),0,8th Pass,28,262000,Bastar,25000,0,M
 Shkuntala Ate,SP,0,5th Pass,30,50800,Bastar,0,0,F
 Punnulal Mohle,BJP,0,12th Pass,52,3727718,Bilaspur,0,1,M
-Chotelal Sumer,IND,0,Not Given,28,Nil,Bilaspur,0,0,M
-Dr. Basant Pahre,INC,0,Not Given,43,Nil,Bilaspur,0,0,M
-Dr. Bhagirathi Khute,GGP,0,Not Given,47,Nil,Bilaspur,0,0,M
-Engg.Rameshwar Khare,BSP,0,Not Given,40,Nil,Bilaspur,0,0,M
-Ramlal,SP,0,Not Given,43,Nil,Bilaspur,0,0,M
-Shekhar Kumar Banjare,IND,0,Not Given,29,Nil,Bilaspur,0,0,M
+Chotelal Sumer,IND,0,Not Given,28,,Bilaspur,0,0,M
+Dr. Basant Pahre,INC,0,Not Given,43,,Bilaspur,0,0,M
+Dr. Bhagirathi Khute,GGP,0,Not Given,47,,Bilaspur,0,0,M
+Engg.Rameshwar Khare,BSP,0,Not Given,40,,Bilaspur,0,0,M
+Ramlal,SP,0,Not Given,43,,Bilaspur,0,0,M
+Shekhar Kumar Banjare,IND,0,Not Given,29,,Bilaspur,0,0,M
 Tarachand Sahu,BJP,0,Post Graduate,57,3205175,Durg,1060847,1,M
-Arun Joshi,IND,0,Graduate,34,Nil,Durg,0,0,M
+Arun Joshi,IND,0,Graduate,34,,Durg,0,0,M
 Ashok Kumar Rajput,IND,0,Literate,40,333000,Durg,0,0,M
-Balvinder Singh,IND,0,Not Given,50,Nil,Durg,86714,0,M
+Balvinder Singh,IND,0,Not Given,50,,Durg,86714,0,M
 Bharat Bhushan Pandey,IND,6,12th Pass,42,1201254,Durg,0,0,M
 Bhupesh Baghel,INC,0,Post Graduate,42,7666901,Durg,306050,0,M
 Kiran Noni Urf Kiran Beti,IJP,0,Not Given,35,30000,Durg,0,0,F
@@ -885,19 +885,19 @@ Manharan Singh Chhedaiha,IND,0,10th Pass,34,10000,Durg,5000,0,M
 R. D. Jogansh,IND,0,12th Pass,63,258000,Durg,0,0,M
 Shiekh Rasool Alias Dada Bhai,SP,0,Literate,36,1620000,Durg,0,0,M
 Shri Mataji,BSP,0,12th Pass,36,425000,Durg,0,0,M
-Badkuram Dhruw,IND,0,Literate,25,Nil,Janjgir,0,0,M
+Badkuram Dhruw,IND,0,Literate,25,,Janjgir,0,0,M
 Bhagwati Prasad Shukla Guruji,BPSGKD,0,Not Given,63,130000,Janjgir,5000,0,M
 Dhanraj Patel,AD,0,12th Pass,35,460000,Janjgir,0,0,M
 Dr. Charandas Mahant,INC,0,Doctorate,48,6871000,Janjgir,1161000,0,M
 Dr. Vidyanand Tiwari,IND,0,Not Given,64,100000,Janjgir,0,0,M
-Dr.Urmila Marko,GGP,0,Graduate,41,Nil,Janjgir,0,0,F
+Dr.Urmila Marko,GGP,0,Graduate,41,,Janjgir,0,0,M
 Hamid (Abdul Hamid Siddqie),IND,0,8th Pass,40,866000,Janjgir,0,0,M
 Hemlata,YGP,0,Not Given,33,1460000,Janjgir,0,0,F
 Kanchan,SAP,0,Not Given,0,350000,Janjgir,500000,0,F
 Murtiramsahu,BSP,0,Post Graduate,54,3532449,Janjgir,0,0,M
 Parsram Yadav,IND,0,5th Pass,40,1900000,Janjgir,0,0,M
 Pramod Kumar,IND,0,Literate,0,300000,Janjgir,0,0,M
-Ramdas Mahant,CSP,0,Not Given,40,Nil,Janjgir,0,0,M
+Ramdas Mahant,CSP,0,Not Given,40,,Janjgir,0,0,M
 Sahasram Yadav,SP,0,Not Given,50,1373,Janjgir,0,0,M
 Shobha Lal Prajapti,LJNSP,1,Graduate,48,92000,Janjgir,0,0,M
 Sohan Potai,BJP,0,Post Graduate,47,2113856,Kanker,71932,1,M
@@ -907,9 +907,9 @@ Mrs. Ganga Potai Thakur,INC,0,Post Graduate,54,5712500,Kanker,0,0,F
 Sukhranjan Usendi,CPM,1,Graduate,27,300000,Kanker,0,0,M
 Sundarlal Netam,CSP,0,Graduate,29,10000,Kanker,0,0,M
 Ajit  Jogi,INC,2,Graduate Professional,57,8835009,Mahasamund,0,0,M
-Comred Shikha Das (Patrakar),Loktantrik Samajwadi Party,2,Post Graduate,38,Nil,Mahasamund,0,0,M
+Comred Shikha Das (Patrakar),Loktantrik Samajwadi Party,2,Post Graduate,38,,Mahasamund,0,0,M
 Dharamdas Mahilang,IND,1,Graduate,55,2915945,Mahasamund,249095,0,M
-Ganpat Saraipali,IND,0,Not Given,68,Nil,Mahasamund,0,0,M
+Ganpat Saraipali,IND,0,Not Given,68,,Mahasamund,0,0,M
 Rajendra Kumar,BSP,0,Graduate,33,630000,Mahasamund,0,0,M
 Shridhar Patel,AD,0,Post Graduate,38,1002000,Mahasamund,0,0,M
 Siyaram Dharitlahre,ABHM,0,Literate,32,265000,Mahasamund,0,0,M
@@ -928,7 +928,7 @@ Dr. Ramkumar Sirmor,IND,1,Not Given,57,3200000,Raipur,0,0,M
 Kabeer Bhakt Aswant Das Sahu Karorpati Jeevan Bima Agent,IND,0,10th Pass,29,1009000,Raipur,176000,0,M
 Madhusudan Mishra Ji,ABHM,0,Graduate,37,1137595,Raipur,1147,0,M
 Manmohan Singh Thakur (Girdhari Pandey),IND,0,10th Pass,35,220000,Raipur,0,0,M
-Nanha Markandey,IND,0,Post Graduate,35,Nil,Raipur,0,0,M
+Nanha Markandey,IND,0,Post Graduate,35,,Raipur,0,0,M
 Patrakar Bimal Kumar Sahu Sandi Bangla,IND,0,12th Pass,40,180000,Raipur,0,0,M
 Prakash Golcha (Sarafa Sansad),IND,0,Graduate,45,889976,Raipur,0,0,M
 Radheshyam Sen,IND,0,12th Pass,34,310000,Raipur,0,0,M
@@ -944,7 +944,7 @@ Smt. Pushpa Nagdev,RPI(KH),0,Graduate,40,365000,Rajnandgaon,0,0,F
 Guharam Ajgalle,BJP,0,Graduate Professional,37,1768900,Sarangarh,0,1,M
 Awadhram Behara,IND,0,Post Graduate,31,777000,Sarangarh,0,0,M
 Dau Ram Ratnakar,BSP,0,Post Graduate,45,3050000,Sarangarh,252000,0,M
-Dr. Govind Chouhan,IND,0,Post Graduate,26,Nil,Sarangarh,0,0,M
+Dr. Govind Chouhan,IND,0,Post Graduate,26,,Sarangarh,0,0,M
 Karamchand Suryawanshi S/O Shri Ramu Suryawanshi,IND,0,12th Pass,35,579000,Sarangarh,0,0,M
 Parasram Bhardwaj,INC,0,Graduate,57,8617538,Sarangarh,0,0,M
 Ramashankar,IND,0,10th Pass,34,50000,Sarangarh,0,0,M
@@ -1067,7 +1067,7 @@ Ashok Kumar Kashyap,BSP,0,Doctorate,37,1916540,Karnal,10465,0,M
 Duli Chand Malik,IND,0,Post Graduate,66,1900000,Karnal,327000,0,M
 I. D. Swami,BJP,0,Post Graduate,74,5932086,Karnal,11500,0,M
 Kuldip Sharma,IND,0,Graduate Professional,47,3889211,Karnal,176579,0,M
-Mahinder Singh,CPI(ML)(L),0,Not Given,48,Nil,Karnal,0,0,M
+Mahinder Singh,CPI(ML)(L),0,Not Given,48,,Karnal,0,0,M
 Mahinder Singh Rana,IND,0,Literate,47,110000,Karnal,0,0,M
 Naresh Sachdeva,IND,0,10th Pass,41,322500,Karnal,0,0,M
 Premo Alias Premvati Kashyap,FCI,0,Not Given,35,1040000,Karnal,0,0,F
@@ -1164,23 +1164,23 @@ Suresh Chandel,BJP,0,Post Graduate,44,6426759,Hamirpur,1069724,1,M
 Capt. S. S.  Kalmotia ( Retd.),IND,0,Post Graduate,53,179028,Hamirpur,75000,0,M
 Col. Matwar Singh ( Retd.),IND,0,Graduate,60,196000,Hamirpur,10000,0,M
 Gopi Chand,IND,0,Graduate,49,560000,Hamirpur,0,0,M
-Khushi Ram,IND,0,Graduate,58,Nil,Hamirpur,0,0,M
+Khushi Ram,IND,0,Graduate,58,,Hamirpur,0,0,M
 Ranjit Singh,JD(S),0,Post Graduate,72,10000,Hamirpur,0,0,M
 Chander Kumar,INC,0,Post Graduate,59,7304760,Kangra,1916918,1,M
 Dhani Ram,IND,0,Illiterate,62,381056,Kangra,0,0,M
 Pratibha Singh,INC,0,Graduate,47,230288018,Mandi,1542808,1,F
 Kashmir Singh Guleria,IND,0,Post Graduate,70,1169000,Mandi,0,0,M
 Maheshwar Singh,BJP,0,12th Pass,55,21041817,Mandi,0,0,M
-Mohan Lal Sahni,BSP,0,Post Graduate,35,Nil,Mandi,0,0,M
+Mohan Lal Sahni,BSP,0,Post Graduate,35,,Mandi,0,0,M
 Shan Mohammad,IND,0,Graduate,41,6342500,Mandi,70000,0,M
 Dhani Ram Shandil,INC,0,Doctorate,63,9272958,Simla,958,1,M
 Hira Nand Kashyap,BJP,0,Post Graduate,55,3528287,Simla,40300,0,M
 Som Nath,BSP,0,10th Pass,45,6520000,Simla,47000,0,M
 Mehbooba Mufti,JKPDP,0,Graduate Professional,42,450000,Anantnag,0,1,F
-Ab. Majeed Naikoo,IND,0,Illiterate,42,Nil,Anantnag,0,0,M
+Ab. Majeed Naikoo,IND,0,Illiterate,42,,Anantnag,0,0,M
 Dr. Mehboob Beg,JKN,0,Doctorate,62,46545000,Anantnag,494000,0,M
-Gh. Mohd. Tantary,SAP,0,12th Pass,54,Nil,Anantnag,0,0,M
-Gh. Mohi-Ud-Din Dar,IND,0,Not Given,35,Nil,Anantnag,0,0,M
+Gh. Mohd. Tantary,SAP,0,12th Pass,54,,Anantnag,0,0,M
+Gh. Mohi-Ud-Din Dar,IND,0,Not Given,35,,Anantnag,0,0,M
 Gh. Rasool,IND,0,12th Pass,42,110000,Anantnag,0,0,M
 Hamidullah Wani,AIFB,0,10th Pass,39,6273500,Anantnag,0,0,M
 Imtiyaz Ahmad Rather,IND,0,Not Given,32,600,Anantnag,0,0,M
@@ -1198,7 +1198,7 @@ Nizam-Uddin Bhat,JKPDP,0,Post Graduate,51,1031057,Baramulla,5000,0,M
 Syed Mohd Rafiq Shah,JKNPP,0,Literate,36,8360,Baramulla,0,0,M
 Madan Lal Sharma,INC,0,10th Pass,51,6217000,Jammu,149750,1,M
 Balbir Singh,IND,0,Graduate,60,2730000,Jammu,0,0,M
-Ch. Mohd. Iqbal,IND,0,Graduate,43,Nil,Jammu,0,0,M
+Ch. Mohd. Iqbal,IND,0,Graduate,43,,Jammu,0,0,M
 Charanjit Singh Bali,IND,0,Post Graduate,51,40000,Jammu,0,0,M
 Dr. Nirmal Singh,BJP,0,Doctorate,48,458748,Jammu,0,0,M
 Gurdeep Singh Bijral,IND,0,Post Graduate,48,90900,Jammu,0,0,M
@@ -1208,13 +1208,13 @@ Mushtaq Ahmed,IND,0,Illiterate,32,520000,Jammu,0,0,M
 Om Parkash Malhotra,IND,0,Not Given,45,40000,Jammu,43371,0,M
 Pankaj Kohli,SP,0,10th Pass,28,300000,Jammu,0,0,M
 Qari Zahir Abbas Bhatti,JD(S),0,10th Pass,33,2480000,Jammu,3000,0,M
-Rajan Padri,AIFB,0,Not Given,46,Nil,Jammu,0,0,M
+Rajan Padri,AIFB,0,Not Given,46,,Jammu,0,0,M
 Ramesh Chander Sharma,IND,0,10th Pass,32,802000,Jammu,0,0,M
 S.Kuldeep Singh,JKNPP,0,8th Pass,38,12745000,Jammu,0,0,M
 Sanjeev Kumar Manmotra,LJNSP,0,10th Pass,38,1145000,Jammu,0,0,M
 Satish Poonchi,IND,0,Not Given,55,1151000,Jammu,81000,0,M
-Shahzad Khan,IND,0,Not Given,25,Nil,Jammu,0,0,M
-Sharaz Ahmad,IND,0,Not Given,25,Nil,Jammu,0,0,M
+Shahzad Khan,IND,0,Not Given,25,,Jammu,0,0,M
+Sharaz Ahmad,IND,0,Not Given,25,,Jammu,0,0,M
 Shukeel Kumar Gupta,IND,0,12th Pass,41,284500,Jammu,0,0,M
 Subash Sharma,IND,0,12th Pass,36,6740000,Jammu,0,0,M
 Subhash Chander Langer,SPI,0,10th Pass,48,1125000,Jammu,0,0,M
@@ -1227,7 +1227,7 @@ Hassan Khan,JKN,0,Graduate,66,3095000,Ladakh,0,0,M
 Sonam Palzor,BJP,0,Graduate,63,5091759,Ladakh,0,0,M
 Wazir Mohd. Ali,IND,0,Graduate,66,1004000,Ladakh,0,0,M
 Omar Abdullah,JKN,0,Graduate,32,19684236,Srinagar,54998,1,M
-Abdul Rashid Lone,IND,0,Literate,37,Nil,Srinagar,0,0,M
+Abdul Rashid Lone,IND,0,Literate,37,,Srinagar,0,0,M
 Advocate Ghulam Nabi Lone,JKPDP,0,Post Graduate,50,364000,Srinagar,417458,0,M
 Bansi Lal,BSP,0,Doctorate,58,12530000,Srinagar,5500000,0,M
 Bashir Ahmad,JKNPP,0,Graduate Professional,45,592000,Srinagar,0,0,M
@@ -1297,12 +1297,12 @@ Dr. H.T. Sangliana,BJP,0,Graduate,61,7666050,Bangalore North,0,1,M
 Ibrahim C M,JD(S),0,12th Pass,55,54207000,Bangalore North,85987,0,M
 Jaffer Sharief C K,INC,1,10th Pass,70,27965887,Bangalore North,792842,0,M
 Joe Simon,KNDP,0,12th Pass,58,75000,Bangalore North,4450,0,M
-Meer Layaq Hussain,IND,0,Not Given,37,Nil,Bangalore North,0,0,M
+Meer Layaq Hussain,IND,0,Not Given,37,,Bangalore North,0,0,M
 Mohamad Ibrahim,IND,0,10th Pass,65,4595568,Bangalore North,128000,0,M
 Uma K,IND,0,Post Graduate,47,42600,Bangalore North,0,0,F
 Venkatesh M,IND,0,Post Graduate,50,1956528,Bangalore North,136137,0,M
 Bhadrappa,IND,0,Graduate Professional,45,725000,Bangalore South,0,0,M
-Dr Manjunath B R,IND,0,Not Given,44,Nil,Bangalore South,0,0,M
+Dr Manjunath B R,IND,0,Not Given,44,,Bangalore South,0,0,M
 Guinness Hotte Paksha Rangaswamy,IND,0,Graduate,71,1500000,Bangalore South,0,0,M
 Jayanthi,JD(S),0,10th Pass,50,130000,Bangalore South,0,0,F
 Krishnappa M,INC,0,Graduate,51,228924447,Bangalore South,15451501,0,M
@@ -1320,8 +1320,8 @@ Gulagi Nagaraj B,JD(S),0,Graduate,43,18772392,Bellary,1402962,0,M
 Idli Ramappa,CPI(ML)(L),3,Post Graduate,37,4990,Bellary,44108,0,M
 Kamala Nabhan B,BSP,1,Graduate,58,4940377,Bellary,1113967,0,M
 Kondaiah K C,INC,0,12th Pass,53,9805000,Bellary,85000,0,M
-Narayana Moorthy P,IND,0,Post Graduate,46,Nil,Bellary,0,0,M
-Somashekara K,IND,0,Not Given,37,Nil,Bellary,0,0,M
+Narayana Moorthy P,IND,0,Post Graduate,46,,Bellary,0,0,M
+Somashekara K,IND,0,Not Given,37,,Bellary,0,0,M
 Ramchandra Veerappa,BJP,0,Literate,94,2480708,Bidar,816000,1,M
 Dhanaji Bhima Lamani,RSPS,0,Not Given,27,60000,Bidar,0,0,M
 Motiram Chowdhary,JD(S),0,Post Graduate,60,5472000,Bidar,4500000,0,M
@@ -1342,7 +1342,7 @@ R.L. Jalappa,INC,0,Graduate,77,40239308,Chikballapur,105000,1,M
 Ashok Krishnappa,JD(U),1,Not Given,47,5256000,Chikballapur,0,0,M
 Narayana Swamy D N ( Kwality),KNDP,0,Not Given,48,1205000,Chikballapur,600000,0,M
 Shashi Kumar,JD(S),0,Graduate,38,1110000,Chikballapur,492000,0,M
-Suresh D R,IND,0,Others,34,Nil,Chikballapur,0,0,M
+Suresh D R,IND,0,Others,34,,Chikballapur,0,0,M
 Veerappa,IND,0,10th Pass,58,1400000,Chikballapur,0,0,M
 Jigajinagi Ramesh Chandappa,BJP,0,Graduate,52,5480600,Chikkodi,75000,1,M
 Avinash Datta Katti,IND,0,Post Graduate,57,1104000,Chikkodi,0,0,M
@@ -1359,7 +1359,7 @@ S Umeshkumar,KNDP,0,Graduate,33,1950000,Chikmagalur,0,0,M
 U Babu Mogera,IND,0,Not Given,42,385000,Chikmagalur,337000,0,M
 N.Y. Hanumanthappa,INC,0,Post Graduate,64,6250000,Chitradurga,0,1,M
 Kodandaramaiah P,JD(S),0,Post Graduate,64,20223048,Chitradurga,262878,0,M
-Krishnappa,RJD,0,12th Pass,50,Nil,Chitradurga,0,0,M
+Krishnappa,RJD,0,12th Pass,50,,Chitradurga,0,0,M
 Mudalagiriyappa C P,BJP,0,Post Graduate,64,19311500,Chitradurga,2696000,0,M
 Parameswarappa S,JP,0,Post Graduate,66,7060000,Chitradurga,0,0,M
 Venkatesha C,KNDP,0,Post Graduate,40,125000,Chitradurga,0,0,M
@@ -1368,7 +1368,7 @@ Channaiah Odeyar,JD(S),0,Post Graduate,83,670000,Davangere,0,0,M
 Dr Sridhara Udupa,IND,0,Doctorate,51,1216579,Davangere,0,0,M
 Madappa R,IND,0,Literate,40,70000,Davangere,0,0,M
 Mallikarjun S S,INC,0,Graduate,36,210693494,Davangere,19043113,0,M
-Mallikarjuna Swamy T M,IND,0,Graduate,34,Nil,Davangere,0,0,M
+Mallikarjuna Swamy T M,IND,0,Graduate,34,,Davangere,0,0,M
 Pralhad Joshi,BJP,4,Graduate,42,7760188,Dharwad North,32587745,0,M
 B S Patil,INC,0,Graduate,60,49376141,Dharwad North,1295387,0,M
 Bakkai Laxman Chandrappa,BSP,0,Post Graduate,40,30000,Dharwad North,0,0,M
@@ -1376,7 +1376,7 @@ Jagadguru Mate Mahadevi,KNDP,0,Not Given,58,2554624,Dharwad North,0,0,F
 Prof. Ashok Badiger,SP,0,Post Graduate,72,45600,Dharwad North,12000,0,M
 Shagoti Chikkappa Ningappa,JD(S),0,Graduate,50,4967500,Dharwad North,159535,0,M
 Kunnur Manjunath Channappa,BJP,0,Post Graduate,49,12862400,Dharwad South,730000,1,M
-Dr. Syed Roshan Mulla,BSP,0,Post Graduate,33,Nil,Dharwad South,0,0,M
+Dr. Syed Roshan Mulla,BSP,0,Post Graduate,33,,Dharwad South,0,0,M
 Hosamani Mohamed Haneef Meerasab,IND,0,Not Given,46,310000,Dharwad South,27000,0,M
 Patil Shiddanagouda Siddalingappa Gouda,KNDP,0,Literate,58,670000,Dharwad South,126000,0,M
 Prema Sanganabasanagouda Patil,JD(S),0,Graduate,39,1651633,Dharwad South,321940,0,F
@@ -1387,10 +1387,10 @@ Basawanth Rao Revansiddappa Sheelwanth,AIFB,0,Post Graduate,65,402000,Gulbarga,0
 Basawaraj Patil Sedam,BJP,0,Graduate,60,929520,Gulbarga,0,0,M
 Bhagavanreddy B,IND,0,Graduate,40,245000,Gulbarga,0,0,M
 Hamid Pasha Sarmast,Muslim League Kerala State Committee,0,Literate,60,6000,Gulbarga,0,0,M
-Sandesh C Bandak,USYP,0,Graduate,28,Nil,Gulbarga,0,0,M
-Sanganna,IND,0,Post Graduate,25,Nil,Gulbarga,0,0,M
-Suryakant Nimbalkar,BSP,0,Graduate,32,Nil,Gulbarga,0,0,M
-Umesh Havanoor,SP,0,Graduate,38,Nil,Gulbarga,0,0,M
+Sandesh C Bandak,USYP,0,Graduate,28,,Gulbarga,0,0,M
+Sanganna,IND,0,Post Graduate,25,,Gulbarga,0,0,M
+Suryakant Nimbalkar,BSP,0,Graduate,32,,Gulbarga,0,0,M
+Umesh Havanoor,SP,0,Graduate,38,,Gulbarga,0,0,M
 Vithal Heroor,JD(S),0,Post Graduate,51,2575000,Gulbarga,200000,0,M
 H. D. Devegowda,JD(S),0,Others,71,11439574,Hassan,3582261,1,M
 Aijaz Ahmed Farooqui,BSP,0,12th Pass,47,235000,Hassan,200000,0,M
@@ -1445,7 +1445,7 @@ S. Mallikarjunaiah,BJP,0,Post Graduate,74,9090000,Tumkur,40000,1,M
 Basavaraj G S,INC,0,Post Graduate,63,21761111,Tumkur,529441,0,M
 Choudhari Veer Singh,SP,0,12th Pass,39,313800,Tumkur,408150,0,M
 Jagadeesh D L,JD(S),0,Post Graduate,48,4453895,Tumkur,0,0,M
-Pavagada Sreeram,IND,0,Not Given,0,Nil,Tumkur,0,0,M
+Pavagada Sreeram,IND,0,Not Given,0,,Tumkur,0,0,M
 Manorama Madhwaraj,BJP,0,Graduate,64,13751985,Udupi,2700000,1,F
 Oswald Fernandis,KNDP,0,Literate,41,134000,Udupi,0,0,M
 Taranatha Shetty Kodavoor,JD(S),0,Graduate,60,1590000,Udupi,110000,0,M
@@ -1459,8 +1459,8 @@ Soman Pampayikode,RLD,0,Others,33,20000,Adoor,0,0,M
 Dr. K. S. Manoj,CPM,0,Doctorate,39,800231,Alleppey,54317,1,M
 Advocate V Padmanabhan,BJP,0,Post Graduate,59,1060214,Alleppey,12000,0,M
 Kurian,JD(U),0,Not Given,58,904453,Alleppey,8600,0,M
-Parthasarathy Varma,IND,0,Not Given,36,Nil,Alleppey,0,0,M
-T A Krishnankutty,IND,0,Not Given,53,Nil,Alleppey,0,0,M
+Parthasarathy Varma,IND,0,Not Given,36,,Alleppey,0,0,M
+T A Krishnankutty,IND,0,Not Given,53,,Alleppey,0,0,M
 V I Bose,IND,0,10th Pass,57,140298,Alleppey,0,0,M
 V M Sudheeran,INC,0,Not Given,0,1896540,Alleppey,170000,0,M
 V S Sudheeran,IND,0,10th Pass,33,41800,Alleppey,0,0,M
@@ -1468,7 +1468,7 @@ P. Satheedevi,CPM,1,Graduate Professional,47,1331000,Badagara,0,0,M
 Dr K N Ajoykumar,IND,0,Post Graduate,40,405000,Badagara,12230,0,M
 K P Sreesan,BJP,0,Graduate,47,488622,Badagara,0,0,M
 K T Kunhikannan,IND,1,Not Given,43,200000,Badagara,0,0,M
-Kalandan Haje T K,IND,0,Not Given,65,Nil,Badagara,0,0,M
+Kalandan Haje T K,IND,0,Not Given,65,,Badagara,0,0,M
 M T Padma,INC,1,Post Graduate,61,3832806,Badagara,0,0,M
 M. P. Veerendra Kumar,JD(S),0,Post Graduate,66,47621096,Calicut,4654480,1,M
 A C Varkey,IND,1,Not Given,0,30000,Calicut,21530,0,M
@@ -1500,8 +1500,8 @@ Dr P D Rajan,BSP,0,Doctorate,41,445146,Chirayinkil,0,0,M
 M B Thankappan,IND,0,Not Given,71,61308,Chirayinkil,0,0,M
 M I Shanavas,INC,0,Post Graduate,52,10751553,Chirayinkil,8650578,0,M
 M Murali Kumar,IND,0,10th Pass,0,600000,Chirayinkil,0,0,M
-P Devarajan,IND,0,8th Pass,49,Nil,Chirayinkil,0,0,M
-Santhinagar Soman,IND,0,Not Given,46,Nil,Chirayinkil,0,0,M
+P Devarajan,IND,0,8th Pass,49,,Chirayinkil,0,0,M
+Santhinagar Soman,IND,0,Not Given,46,,Chirayinkil,0,0,M
 Sreenivasa Das,IND,0,10th Pass,57,162683,Chirayinkil,1750000,0,M
 Dr. Sebastian Paul,IND,0,Doctorate,56,2993000,Ernakulam,764304,1,M
 Adv. T B Mini,IND,0,Post Graduate,32,260900,Ernakulam,0,0,F
@@ -1542,11 +1542,11 @@ Adv P M Ismail,CPM,2,Graduate,0,1824407,Muvattupuzha,0,0,M
 Johny Mani,IND,0,Post Graduate,39,6537574,Muvattupuzha,0,0,M
 Jose Joseph,IND,0,Others,28,1732173,Muvattupuzha,0,0,M
 S. Ajaya Kumar,CPM,3,12th Pass,39,1083876,Ottapalam,780000,0,M
-K A Thulasi,INC,0,Post Graduate,30,Nil,Ottapalam,0,0,F
+K A Thulasi,INC,0,Post Graduate,30,,Ottapalam,0,0,M
 K Ajayan,IND,0,Others,27,10500,Ottapalam,0,0,M
 N. N. Krishnadas,CPM,4,Graduate,45,1503105,Palghat,0,0,M
 C Udai Bhasker,BJP,0,Not Given,50,40539000,Palghat,21438399,0,M
-Saleem Veliyancode,IND,0,Others,31,Nil,Ponnani,0,0,M
+Saleem Veliyancode,IND,0,Others,31,,Ponnani,0,0,M
 P. Rajendran,CPM,0,Post Graduate,53,2242499,Quilon,227054,1,M
 Adv S Prahaladan,BSP,0,Not Given,48,1211000,Quilon,93359,0,M
 C. K. Chandrappan,CPI,0,Graduate,65,8812606,Trichur,0,1,M
@@ -1565,7 +1565,7 @@ E. P. Attakoya Thangal,JP,0,Post Graduate,60,2461634,Lakshadweep,0,0,M
 P. M. Sayeed,INC,0,Post Graduate,62,6251321,Lakshadweep,0,0,M
 Gauri Shankar Chaturbhuj Bisen,BJP,0,Post Graduate,52,9667350,Balaghat,1491190,1,M
 Dhaneshawar Lilhare,IND,0,Not Given,35,115000,Balaghat,0,0,M
-Dr. Bhikkhoo R. D. K. Pragyasheel,IND,0,Not Given,72,Nil,Balaghat,0,0,M
+Dr. Bhikkhoo R. D. K. Pragyasheel,IND,0,Not Given,72,,Balaghat,0,0,M
 Govardhan S/O Kunwarlal Mohare,RLD,0,Not Given,40,328800,Balaghat,0,0,M
 Hirasan Uikey,GGP,0,10th Pass,40,335282,Balaghat,0,0,F
 Kankar Munjare,JP,1,Graduate,47,3153469,Balaghat,0,0,M
@@ -1583,7 +1583,7 @@ Shamim Modi,SWJP,0,Graduate Professional,41,26188,Betul,0,0,F
 Dr. Ramlakhan Singh,BJP,1,Graduate Professional,52,5774939,Bhind,284945,0,M
 Ashok  Sharma,IND,0,Not Given,39,1116000,Bhind,0,0,M
 Ashok Kumar Jatav,National Loktantrik Party,0,Not Given,30,30000,Bhind,0,0,M
-Chaudhari Arun Kumar,IND,1,Graduate,39,Nil,Bhind,0,0,M
+Chaudhari Arun Kumar,IND,1,Graduate,39,,Bhind,0,0,M
 Dr. Ramkumar Tripathi ( Seeti),IND,0,Doctorate,28,48000,Bhind,0,0,M
 Lt. Colonel ( Retired) Shivnath Singh,IND,0,12th Pass,60,3605525,Bhind,640920,0,M
 Manoj Singh,IND,0,Graduate,29,150000,Bhind,0,0,M
@@ -1602,7 +1602,7 @@ Archana Shrivastava,SVSP,0,Graduate Professional,36,1280000,Bhopal,225000,0,F
 Brij Basi Lal Sharma,IND,0,Post Graduate,67,2072878,Bhopal,0,0,M
 G. S. Chawala,BSP,0,Graduate,65,3929669,Bhopal,0,0,M
 Pramod Gupta,SP,0,12th Pass,28,2942538,Bhopal,1451605,0,M
-Revti Singh Maravi,GGP,0,Not Given,80,Nil,Bhopal,0,0,M
+Revti Singh Maravi,GGP,0,Not Given,80,,Bhopal,0,0,M
 Sajid Ali,INC,0,Graduate,53,6156013,Bhopal,0,0,M
 Upendra Tiwari,RSGP,0,Graduate,35,11088000,Bhopal,800000,0,M
 Kamalnath,INC,0,Graduate,57,51839379,Chhindwara,0,1,M
@@ -1688,7 +1688,7 @@ Indrabhan Yadav,SP,1,12th Pass,39,308432,Rewa,0,0,M
 Pradeep Kumar Patel,BSP,0,Graduate,31,994965,Rewa,400000,0,M
 Sundar Lal Tiwari,INC,0,Post Graduate,47,4609056,Rewa,268374,0,M
 Virendra Kumar,BJP,0,Post Graduate,51,1429786,Sagar,0,1,M
-Naresh Ahirwar,BSP,4,Not Given,30,Nil,Sagar,0,0,M
+Naresh Ahirwar,BSP,4,Not Given,30,,Sagar,0,0,M
 Pooran,IND,0,Not Given,33,30000,Sagar,0,0,M
 Uttam Khatik,INC,0,Post Graduate,55,1479500,Sagar,0,0,M
 Ganesh Singh,BJP,2,Post Graduate,42,2548143,Satna,236038,0,M
@@ -1702,7 +1702,7 @@ Rajeshwari Uikey,GGP,1,10th Pass,37,256000,Seoni,17000,0,M
 Dalpat Singh Paraste,BJP,0,Graduate,53,6811000,Shahdol,0,1,M
 Rajesh Nandani Singh,INC,0,Graduate,44,6630000,Shahdol,0,0,F
 Ramlal,BSP,0,Literate,28,160000,Shahdol,12000,0,M
-Thaneshwar Singh Dhurve,GGP,0,12th Pass,32,Nil,Shahdol,0,0,M
+Thaneshwar Singh Dhurve,GGP,0,12th Pass,32,,Shahdol,0,0,M
 Thawar  Chand Gehlot,BJP,0,Graduate,56,2016554,Shajapur,0,1,M
 Balram Sukhram  Kalyane,IND,0,Literate,59,60000,Shajapur,0,0,M
 Mohanlal Bhaiyya Advocate,BSP,2,Post Graduate,46,200000,Shajapur,0,0,M
@@ -1729,7 +1729,7 @@ Dhotre Sanjay Shamrao,BJP,0,Graduate Professional,45,12289645,Akola,2408285,1,M
 Ambedkar Prakash Yashwant,BBM,0,Post Graduate,49,4618600,Akola,1263468,0,M
 Laxmanrao Tayade,INC,0,Post Graduate,63,500000,Akola,135000,0,M
 Raja Motiramji Shambharkar,IND,0,Post Graduate,40,55000,Akola,30000,0,M
-Shaikh Mukim Ahemad Abdul Rashid,SP,0,Graduate,37,Nil,Akola,0,0,M
+Shaikh Mukim Ahemad Abdul Rashid,SP,0,Graduate,37,,Akola,0,0,M
 Tayade Vishram Natthuji,BSP,0,Not Given,60,150000,Akola,0,0,M
 Anant Gudhe,SHS,0,Graduate,48,3532477,Amravati,217263,1,M
 Bandu Sampatrao Sane (Bandya),IND,0,Post Graduate,37,283,Amravati,0,0,M
@@ -1738,7 +1738,7 @@ Dnyaneshwar Raurale,Ambedkarist Republican Party,0,12th Pass,42,305000,Amravati,
 Gajanan Nagorao Londe,IND,0,8th Pass,43,73500,Amravati,0,0,M
 Haji Rafique Seth,IND,0,10th Pass,50,1628000,Amravati,360000,0,M
 Jawarkar Namdeorao Shaligramji,BBM,0,Not Given,49,10200000,Amravati,70000,0,M
-Kalmegh Namdeo Motiram,IND,0,Literate,63,Nil,Amravati,0,0,M
+Kalmegh Namdeo Motiram,IND,0,Literate,63,,Amravati,0,0,M
 Omprakash Alias Bacchu Babaraoji Kadu,IND,1,Post Graduate,33,375000,Amravati,0,0,M
 Semalkar Ronya Chhotelal,BSP,0,Not Given,51,76200,Amravati,0,0,M
 Chandrakant Khaire,SHS,13,Graduate,52,9333773,Aurangabad,6043722,0,M
@@ -1747,7 +1747,7 @@ Birajdar Sharnappa Kalappa Alias Aappa Birajdar,HJP,0,Graduate,51,480500,Auranga
 Engi. Dushyant Athawale,Panchayat Raj Party,0,10th Pass,39,1122637,Aurangabad,0,0,M
 Lahu Hanumantrao Shewale,LRP,0,10th Pass,38,862250,Aurangabad,0,0,M
 Madhavrao Haribhau Baorde,BSP,0,Graduate,52,1850000,Aurangabad,800000,0,M
-More Gangadhar Lakhaji,IND,0,8th Pass,52,Nil,Aurangabad,0,0,M
+More Gangadhar Lakhaji,IND,0,8th Pass,52,,Aurangabad,0,0,M
 Naser Nahadi Mahmad Yahya Nahadi,SP,0,12th Pass,28,19800,Aurangabad,0,0,M
 Prakash Bhaurao Nikalje,IND,0,12th Pass,43,530000,Aurangabad,0,0,M
 Ramkrushna Baba Patil,INC,3,Literate,65,8069316,Aurangabad,29900,0,M
@@ -1756,13 +1756,13 @@ Pawar Sharadchandra Govindrao,NCP,1,10th Pass,63,44814206,Baramati,13301,0,M
 Kolekar Balasaheb Bapurao,RSPS,0,12th Pass,46,145000,Baramati,0,0,M
 Prithviraj Sahebrao Jachak,BJP,0,Others,46,33409000,Baramati,7633760,0,M
 Vishwakarma Pralhad Rambich,BSP,0,10th Pass,49,186000,Baramati,800,0,M
-Dodtale Balasaheb Prabhakar,RSPS,0,Post Graduate,29,Nil,Beed,0,0,M
-Kirvale Pramod Somnath,IND,0,Literate,26,Nil,Beed,0,0,M
+Dodtale Balasaheb Prabhakar,RSPS,0,Post Graduate,29,,Beed,0,0,M
+Kirvale Pramod Somnath,IND,0,Literate,26,,Beed,0,0,M
 Mirza Abdul Baig Amir Baig,IND,0,Literate,67,176558,Beed,0,0,M
-Shaikh Akhil Usman,IND,0,5th Pass,39,Nil,Beed,0,0,M
+Shaikh Akhil Usman,IND,0,5th Pass,39,,Beed,0,0,M
 Solanke Prakash Bhagwanrao,IND,0,Literate,38,1630000,Beed,120000,0,M
 Solanke Prakash Sundarrao,BJP,4,Graduate,50,23058001,Beed,10058171,0,M
-Syed Moinoddin Syed Bashiroddin (Moin Master),BSP,0,Not Given,50,Nil,Beed,0,0,M
+Syed Moinoddin Syed Bashiroddin (Moin Master),BSP,0,Not Given,50,,Beed,0,0,M
 Patle Shishupal Natthu,BJP,0,Graduate Professional,36,1184050,Bhandara,12000,1,M
 Ajablal,BSP,2,Post Graduate,30,75000,Bhandara,0,0,M
 Amkar Gyaniram Bajirao,IND,0,Graduate,34,215000,Bhandara,220400,0,M
@@ -1794,12 +1794,12 @@ Shivankar Mahadeorao Sukaji,BJP,0,Post Graduate,64,4412847,Chimur,197913,1,M
 Adv. Dadasaheb Alias Bhikaji Walthare,BBM,0,Post Graduate,58,528886,Chimur,0,0,M
 Adv. Eknath Bavankar,SP,0,Post Graduate,40,119930,Chimur,0,0,M
 Adv. Thengri Natthuji Narayan,RLD,0,Post Graduate,67,1200184,Chimur,77090,0,M
-Bhoyar Vinod Narendra,IND,0,Graduate,31,Nil,Chimur,0,0,M
-Charandas Jangluji Meshram,IND,0,Not Given,55,Nil,Chimur,0,0,M
-Damodar Laxmanrao Kale,IND,0,Not Given,80,Nil,Chimur,0,0,M
+Bhoyar Vinod Narendra,IND,0,Graduate,31,,Chimur,0,0,M
+Charandas Jangluji Meshram,IND,0,Not Given,55,,Chimur,0,0,M
+Damodar Laxmanrao Kale,IND,0,Not Given,80,,Chimur,0,0,M
 Er. Kuthe Yograj Krishnaji,BSP,0,Post Graduate,37,4870000,Chimur,125000,0,M
 Gautam Ramchnadra Janbandhu,PRCP,0,Not Given,37,40000,Chimur,0,0,M
-Jitendra Adku Raut,IND,0,Graduate,25,Nil,Chimur,0,0,M
+Jitendra Adku Raut,IND,0,Graduate,25,,Chimur,0,0,M
 Katakwar Jayant Krishnamurari,IND,0,Graduate,56,4621500,Chimur,640000,0,M
 Prof. Jogendra Kawade,PRBP,8,Post Graduate,60,6381626,Chimur,199533,0,M
 Qureshi Mohammad Ikhalak Mo. Yusuf,IND,0,10th Pass,46,15000,Chimur,0,0,M
@@ -1820,7 +1820,7 @@ Deore Rajendrasing Bhimsing,SP,4,10th Pass,48,1111500,Erandol,12500,0,M
 Gautam Somaji More,BSP,0,Graduate,39,15500,Erandol,250000,0,M
 Patil Suresh Pandurang,HJP,0,Not Given,44,16000,Erandol,0,0,M
 Suryakanta Patil,NCP,2,Graduate,55,15307225,Hingoli,272088,0,M
-Adv. Punjabrao Ramdhan Chavan,IND,0,Post Graduate,25,Nil,Hingoli,0,0,M
+Adv. Punjabrao Ramdhan Chavan,IND,0,Post Graduate,25,,Hingoli,0,0,M
 Chavan Govind Bhiku,IND,0,Literate,44,435000,Hingoli,0,0,M
 Rathod Sanjaykumar Tulshiram,BBM,0,Graduate,26,50000,Hingoli,0,0,M
 Shivaji Gyanbarao Mane,SHS,2,Post Graduate,44,3566000,Hingoli,0,0,M
@@ -1835,20 +1835,20 @@ D. D. Wani Photographer,IND,0,Literate,30,107000,Jalgaon,0,0,M
 Dadaso. P. E. Tatya Patil,SP,4,Graduate,63,16551000,Jalgaon,730000,0,M
 Dagadu Kitab Tadavi,IND,0,5th Pass,51,261000,Jalgaon,15000,0,M
 Dr. Ulhas Vasudeo Patil,INC,0,Graduate,44,28599365,Jalgaon,7673660,0,M
-Gawai Ravindra Tulshiram,BSP,0,Graduate,39,Nil,Jalgaon,0,0,M
+Gawai Ravindra Tulshiram,BSP,0,Graduate,39,,Jalgaon,0,0,M
 Danve Raosaheb Dadarao Patil,BJP,0,12th Pass,49,9681004,Jalna,715955,1,M
 Chechani Rajendrakumar,IND,0,10th Pass,45,6317000,Jalna,44300,0,M
 Dhabe Bhagwan Namdev,IND,0,Literate,38,150000,Jalna,0,0,M
-Gadekar Ramu,BBM,0,Not Given,0,Nil,Jalna,0,0,M
+Gadekar Ramu,BBM,0,Not Given,0,,Jalna,0,0,M
 Garbade Parmeshwar,IND,0,Graduate,35,15000,Jalna,18000,0,M
 Nade Dyaneshwar Dagdu,IND,0,8th Pass,28,25000,Jalna,0,0,M
 Pachare Pandit,IND,0,Post Graduate,42,105000,Jalna,0,0,M
 Pawar Uttamsingh Rajdharsingh,INC,0,Graduate,53,5814176,Jalna,3422028,0,M
 Shaikh Feroj Ali,IND,0,Graduate,43,223000,Jalna,600000,0,M
-Shaikh Usman Hussain,IND,0,Not Given,67,Nil,Jalna,0,0,M
+Shaikh Usman Hussain,IND,0,Not Given,67,,Jalna,0,0,M
 Shaikh Yakub Sk. Hussain Ansari,BMSM,0,Graduate,54,1000000,Jalna,557000,0,M
 Shinde Babasaheb,IND,0,Not Given,45,282043,Jalna,96457,0,M
-Sow. Archana Milind Khillare,BSP,0,Post Graduate,28,Nil,Jalna,0,0,F
+Sow. Archana Milind Khillare,BSP,0,Post Graduate,28,,Jalna,0,0,M
 Tanpure Shivaji Arjunrao,SVRP,0,Graduate,49,2303000,Jalna,600000,0,M
 Patil Shriniwas Dadasaheb,NCP,0,Post Graduate,63,12494141,Karad,0,1,M
 Adv. Kamble Prabhakar Mansing,BSP,0,Post Graduate,36,532498,Karad,0,0,M
@@ -1876,7 +1876,7 @@ Kolse Ashok Eknath,IND,0,10th Pass,45,791000,Kopargaon,50000,0,M
 Musmade Bhausaheb Jagannath,IND,0,Literate,33,28550,Kopargaon,0,0,M
 Shaikh Riyaj Fajaloddin,IND,0,Graduate,51,60000,Kopargaon,122000,0,M
 Vikhe Balasaheb Jaggannath,IND,0,Literate,46,365252,Kopargaon,11780,0,M
-Waghmare Shankar Sadashiv,IND,0,Literate,32,Nil,Kopargaon,0,0,M
+Waghmare Shankar Sadashiv,IND,0,Literate,32,,Kopargaon,0,0,M
 Patil Rupatai Diliprao Nilangekar,BJP,0,10th Pass,47,1960659,Latur,5585583,1,F
 Adv  Baburao Bandgar,LRP,0,Post Graduate,49,800000,Latur,127000,0,M
 Adv.  Laxman Narhari Shinde,BSP,0,Graduate Professional,36,655000,Latur,0,0,M
@@ -1884,16 +1884,16 @@ Bagdure Vinayak Vishwanathrao,SVRP,0,Graduate Professional,41,3359212,Latur,3000
 Dnyoso Kondekar Alias Vijayprakash,IND,0,Literate,57,100100,Latur,0,0,M
 Dr Nitin Sopanrao Waghe,RSPS,0,Doctorate,35,20000,Latur,0,0,M
 Godbole Mandakini Gyanu,PRCP,0,10th Pass,65,91000,Latur,0,0,F
-Mane Gajanan Pandurang,IND,0,Not Given,49,Nil,Latur,0,0,M
+Mane Gajanan Pandurang,IND,0,Not Given,49,,Latur,0,0,M
 Manohar Anandrao Patil,IND,0,Not Given,38,630145,Latur,0,0,M
 Patil Shivraj Vishwanath,INC,1,Post Graduate,68,42269841,Latur,3855985,0,M
-Shaikh Kalim Allahbaksha,IND,0,8th Pass,28,Nil,Latur,0,0,M
+Shaikh Kalim Allahbaksha,IND,0,8th Pass,28,,Latur,0,0,M
 T M Kamble,RPI(D),0,Post Graduate,49,1041000,Latur,150000,0,M
 Harischandra Devram Chavan,BJP,0,Graduate,53,3312291,Malegaon,9033,1,M
 Bhika Harisingh Barde,IND,0,5th Pass,75,200000,Malegaon,0,0,M
 Gavit Jiva Pandu,CPM,4,12th Pass,55,3078324,Malegaon,0,0,M
-Gazi Amanulla Mubin Khan,BSP,0,Literate,44,Nil,Malegaon,0,0,M
-Gazi Atejaad Ah. Khan Mubin Ahmed Khan,National Loktantrik Party,0,5th Pass,50,Nil,Malegaon,0,0,M
+Gazi Amanulla Mubin Khan,BSP,0,Literate,44,,Malegaon,0,0,M
+Gazi Atejaad Ah. Khan Mubin Ahmed Khan,National Loktantrik Party,0,5th Pass,50,,Malegaon,0,0,M
 Mahale Haribhau Shankar,JD(S),0,Literate,66,9661883,Malegaon,1027274,0,M
 Govinda,INC,1,Graduate,41,145298405,Mumbai North,25000000,0,M
 Agrawal B. R. Kumar,SP,0,10th Pass,58,2802000,Mumbai North,0,0,M
@@ -1909,12 +1909,12 @@ Shaikh Fateh Mohammad,IND,0,Literate,45,1697940,Mumbai North,0,0,M
 Shyam Tipanna Kurhade,IND,0,Literate,35,114000,Mumbai North,0,0,M
 Vidya Chavan,IND,5,Graduate,48,11158779,Mumbai North,0,0,M
 Eknath M. Gaikwad,INC,0,10th Pass,64,2045861,Mumbai North Central,0,1,M
-Jaswar Satyaram Ballikaran,BSP,0,12th Pass,37,Nil,Mumbai North Central,0,0,M
+Jaswar Satyaram Ballikaran,BSP,0,12th Pass,37,,Mumbai North Central,0,0,M
 Khan Akram Ali,National Loktantrik Party,0,Others,33,2028000,Mumbai North Central,0,0,M
 Khan Mohammad Basheer,IND,0,Not Given,58,475000,Mumbai North Central,0,0,M
 Khan Mohd. Meraz,IND,0,5th Pass,35,10000,Mumbai North Central,0,0,M
 Manohar Gajanan Joshi,SHS,0,Graduate Professional,66,31522555,Mumbai North Central,0,0,M
-Shaikh Samad Abdul Salam,IND,0,8th Pass,30,Nil,Mumbai North Central,0,0,M
+Shaikh Samad Abdul Salam,IND,0,8th Pass,30,,Mumbai North Central,0,0,M
 Kamat Gurudas,INC,0,Graduate Professional,49,33894725,Mumbai North East,0,1,M
 Abdul Sattar Mohammedsab Attar,KKJHS,0,Not Given,49,580000,Mumbai North East,0,0,M
 Advocate S. K. Dubey,SP,0,Post Graduate,48,5324181,Mumbai North East,0,0,M
@@ -1931,7 +1931,7 @@ Vithalrao Jadhav,MRRC,0,10th Pass,54,3247000,Mumbai North East,2400000,0,M
 Ware Jyoti Maruti,IND,0,Post Graduate,27,170000,Mumbai North East,0,0,F
 Sunil Dutt,INC,1,Graduate,74,204321510,Mumbai North West,0,0,M
 Aarti Mehta,IND,0,Graduate,45,15600000,Mumbai North West,0,0,F
-Anand Ravinder Singh,IND,0,10th Pass,62,Nil,Mumbai North West,0,0,M
+Anand Ravinder Singh,IND,0,10th Pass,62,,Mumbai North West,0,0,M
 Diliprao D. Patil,BMSM,0,10th Pass,39,6210000,Mumbai North West,28000,0,M
 Dubey Satyadev,IND,0,Post Graduate,69,3599635,Mumbai North West,0,0,M
 Ismail Makwana,BSP,0,8th Pass,52,45000,Mumbai North West,526498,0,M
@@ -1966,25 +1966,25 @@ Dr. K. H. Jambhulkar,IND,1,Doctorate,61,1475218,Nagpur,0,0,M
 Hajare Bhajandas Dayaram,Ambedkarist Republican Party,0,Graduate,61,370000,Nagpur,5000,0,M
 Iqbalsingh Hajarasingh Salhotra,IND,0,Literate,38,1285618,Nagpur,204162,0,M
 Jayanta Anant Dalvi,BSP,0,Graduate,30,195000,Nagpur,0,0,M
-Kurve Siddartha Asaram,IND,0,Post Graduate,49,Nil,Nagpur,0,0,M
+Kurve Siddartha Asaram,IND,0,Post Graduate,49,,Nagpur,0,0,M
 Rammurti Keshvrao Chimote,GGP,0,Literate,37,89567,Nagpur,0,0,M
-Sanjay Saoji Deshpande,HJP,0,10th Pass,36,Nil,Nagpur,0,0,M
+Sanjay Saoji Deshpande,HJP,0,10th Pass,36,,Nagpur,0,0,M
 (Aids Man) Prakash Taterao Landge,IND,0,Graduate,35,50000,Nanded,0,0,M
-(Naik) Devkatte Venkatrao Narsingrao,RSPS,0,Graduate,32,Nil,Nanded,0,0,M
+(Naik) Devkatte Venkatrao Narsingrao,RSPS,0,Graduate,32,,Nanded,0,0,M
 Adv. C. S. Baheti,JP,0,Post Graduate,51,3105500,Nanded,1642400,0,M
 Adv. Deelip Prabhakarrao Kulkarni (Phulvalkar),IND,0,Post Graduate,36,1028800,Nanded,0,0,M
 Altaf Ahmed Saani Sk. Amir,LRP,0,10th Pass,46,500000,Nanded,0,0,M
 Borgaonkar Nivruti Vithalrao,IND,0,Graduate,51,983045,Nanded,0,0,M
 Gaikwad Suresh Dnyanoba,BBM,1,10th Pass,46,1050000,Nanded,637000,0,M
-Jadhav Vishnu Maroti,IND,0,10th Pass,35,Nil,Nanded,0,0,M
+Jadhav Vishnu Maroti,IND,0,10th Pass,35,,Nanded,0,0,M
 Khatgaonkar Bhaskarrao Bapurao,INC,0,Graduate,60,43813970,Nanded,1276000,0,M
 Narayan Satvaji Sureshi,IND,0,Post Graduate,58,1054023,Nanded,0,0,M
 Shaikh (Tamboli) Wahida Maheboobpasha,BSP,0,Post Graduate,37,235000,Nanded,0,0,F
-Yadav Manohar Sahebrao,IND,0,8th Pass,37,Nil,Nanded,0,0,M
+Yadav Manohar Sahebrao,IND,0,8th Pass,37,,Nanded,0,0,M
 Dr. Natawadkar Suhas Jayant,BJP,0,Doctorate,43,4385000,Nandurbar,1125000,0,M
 Gavit Sobaji Devalya,LRP,0,Post Graduate,50,250000,Nandurbar,0,0,M
 Naik Babulal Rupsing,BSP,0,Graduate,40,390000,Nandurbar,0,0,M
-Thakre Tukaram Bhamata,BBM,0,8th Pass,39,Nil,Nandurbar,0,0,M
+Thakre Tukaram Bhamata,BBM,0,8th Pass,39,,Nandurbar,0,0,M
 Pingale Devidas Anandrao,NCP,1,10th Pass,43,19757718,Nashik,5607433,0,M
 Ansari Mohammed Ismail Mohammed Ibrahim,BMSM,0,Graduate,39,274000,Nashik,0,0,M
 Bhaskar Ganpat Sirsat,IND,0,10th Pass,45,310000,Nashik,0,0,M
@@ -2001,7 +2001,7 @@ Kadappa Gade,IND,0,Graduate,60,2341000,Osmanabad,0,0,M
 Navnath Dashrath Uplekar,IND,0,8th Pass,52,50000,Osmanabad,0,0,M
 Raut Vitthal Kundlik,IND,0,Illiterate,60,574850,Osmanabad,70,0,M
 Tupsundare Balaji Bapurao,LRP,0,Others,33,10500,Osmanabad,0,0,M
-Zombade Sandipan Rama,IND,0,Graduate,36,Nil,Osmanabad,0,0,M
+Zombade Sandipan Rama,IND,0,Graduate,36,,Osmanabad,0,0,M
 Athawale Ramdas Bandu,RPI(A),0,Graduate,43,2656172,Pandharpur,0,1,M
 Adv Naiknavare Purushottam Bhagvan,RSPS,0,Not Given,57,3926538,Pandharpur,55319,0,M
 Dr.  Sharda Haridas Sonavane,IND,0,Graduate,32,255000,Pandharpur,0,0,F
@@ -2016,7 +2016,7 @@ Chaudhari Tukaram Namdevrao,IND,0,Literate,39,285000,Parbhani,30000,0,M
 Gaffar Master,SP,0,10th Pass,42,1170000,Parbhani,300000,0,M
 Rumale Tukaram Dhondiba,PRCP,0,Graduate,45,100000,Parbhani,0,0,M
 Shaikh Akhil Shaikh Rahim,National Loktantrik Party,0,8th Pass,36,610000,Parbhani,0,0,M
-Shaikh Moin Shaikh Jafar,IND,0,Not Given,48,Nil,Parbhani,0,0,M
+Shaikh Moin Shaikh Jafar,IND,0,Not Given,48,,Parbhani,0,0,M
 Sonwane Rajesh Namdev,IND,0,Not Given,33,110000,Parbhani,0,0,M
 Suresh Ambadasrao Warpudkar,NCP,0,Post Graduate,52,13490000,Parbhani,588210,0,M
 Kalmadi Suresh,INC,1,Graduate,59,39947625,Pune,1700000,0,M
@@ -2027,7 +2027,7 @@ Arun Bhatia,IND,1,Post Graduate,61,19873368,Pune,0,0,M
 Chavan Popatrao Kisanrao,IND,0,Graduate,75,1946735,Pune,21238,0,M
 Gaikwad Jayawnt Dharmaji,BSP,2,Graduate,35,245000,Pune,90000,0,M
 Gaikwad Vitthal Baburao,IND,0,12th Pass,42,10000,Pune,0,0,M
-Jadhav Ganesh Devram,BBM,0,10th Pass,42,Nil,Pune,60000,0,M
+Jadhav Ganesh Devram,BBM,0,10th Pass,42,,Pune,60000,0,M
 Kamble Sadanand Bhimrao,IND,0,5th Pass,76,2810000,Pune,0,0,M
 Kanchwala Nuruddin Altaf Hussein,IND,0,Literate,44,630000,Pune,0,0,M
 Nitin Dattatraya Jagtap,IND,9,Graduate,44,4071500,Pune,200000,0,M
@@ -2046,8 +2046,8 @@ Prin. Mahendra Natekar,IND,0,Graduate,64,7917376,Rajapur,576617,0,M
 Sudhir Sawant,INC,2,Post Graduate,49,1607397,Rajapur,819280,0,M
 Surendra Borkar,BBM,0,Graduate,56,2630578,Rajapur,6700000,0,M
 Mohite Subodh Baburao,SHS,4,Graduate Professional,42,4472038,Ramtek,0,0,M
-Baban Parasram Taywade,Ambedkarist Republican Party,0,Not Given,30,Nil,Ramtek,0,0,M
-Chandrashekhar Namdeorao Bhimate,IND,0,10th Pass,28,Nil,Ramtek,0,0,M
+Baban Parasram Taywade,Ambedkarist Republican Party,0,Not Given,30,,Ramtek,0,0,M
+Chandrashekhar Namdeorao Bhimate,IND,0,10th Pass,28,,Ramtek,0,0,M
 Dr. Shrikant Jichkar,INC,4,Doctorate,49,26884089,Ramtek,2043398,0,M
 Keshaorao Shende,VRP,1,Literate,69,3877942,Ramtek,0,0,M
 Nayana Dhawad  (Pande),VJC,0,Doctorate,38,45000,Ramtek,0,0,F
@@ -2064,7 +2064,7 @@ Adv. Suhase Madhukar Mallappa,BSP,0,Post Graduate,31,75000,Sangli,0,0,M
 Deepak (Baba) Abasaheb Shinde Mhaisalkar,BJP,0,Post Graduate,46,22038000,Sangli,911000,0,M
 Ganapati Tukaram Kamble (G.T.),IND,0,10th Pass,64,60000,Sangli,0,0,M
 Krantiveer Nagnath(Anna) Ramchandra Naikwadi,SP,0,Literate,81,280693,Sangli,0,0,M
-Pravin Kavthekar (Jiwa Mahale),IND,0,Not Given,42,Nil,Sangli,0,0,M
+Pravin Kavthekar (Jiwa Mahale),IND,0,Not Given,42,,Sangli,0,0,M
 Shankarrao Balkrishna Khedkar (Mali),IND,0,Literate,62,3747000,Sangli,69000,0,M
 Vanmore Narayan Appa,IND,0,Literate,57,158000,Sangli,0,0,M
 Laxmanrao Pandurang Jadhav (Patil),NCP,0,10th Pass,66,9925739,Satara,50403,1,M
@@ -2080,9 +2080,9 @@ Sarvade Rahul Vitthalrao,BSP,0,Graduate,0,45000,Sholapur,0,0,M
 Paranjape Prakash Vishvanath,SHS,0,Graduate,56,5905573,Thane,1382266,1,M
 Com. Arun Velaskar,IND,1,10th Pass,42,514841,Thane,0,0,M
 Davkhare Vasant Shankarrao,NCP,0,Graduate,54,30892402,Thane,0,0,M
-Dhotre Bhanudas Sakharam,HJP,0,12th Pass,53,Nil,Thane,216678,0,M
+Dhotre Bhanudas Sakharam,HJP,0,12th Pass,53,,Thane,216678,0,M
 Karmaveer Ramnarayan Yadav,SP,9,Literate,48,655000,Thane,1800,0,M
-Landge Santosh Govind,PRCP,0,10th Pass,34,Nil,Thane,0,0,M
+Landge Santosh Govind,PRCP,0,10th Pass,34,,Thane,0,0,M
 Pawar Sambhaji Maruti,BSP,0,10th Pass,48,5851000,Thane,0,0,M
 Rajput Mangalsing Ukhardu,IND,0,10th Pass,40,1129222,Thane,250000,0,M
 Ramsing Bootpolishwala,IND,0,Illiterate,31,615200,Thane,0,0,M
@@ -2100,7 +2100,7 @@ Debaje Abuji Alies Pralhadrao Ashruji,IND,0,10th Pass,52,200000,Washim,0,0,M
 Dr. Jadhav Ravi Sampatrao,BSP,0,Doctorate,57,401586,Washim,210000,0,M
 Jagirdar Shamshoddin Ainnoddin,LRP,0,10th Pass,47,702000,Washim,0,0,M
 Kamble Shilanand Laxmanrao,IND,0,10th Pass,36,2300000,Washim,0,0,M
-Kamble Uttam Bhagaji,IND,0,Not Given,33,Nil,Washim,0,0,M
+Kamble Uttam Bhagaji,IND,0,Not Given,33,,Washim,0,0,M
 Naik Manohar Rajusing,NCP,0,Graduate,59,56307131,Washim,1053024,0,M
 Pathak Mohan Dattatraya,IND,0,Graduate,46,200000,Washim,0,0,M
 S. Wahiddoddin S. Karimoddin,IND,0,Literate,39,70000,Washim,100,0,M
@@ -2113,13 +2113,13 @@ Gulhane Sanjay Mahadeorao,IND,0,Graduate,34,737000,Yavatmal,8600,0,M
 Kishorbhau Tiwari,SP,4,Graduate Professional,45,3354561,Yavatmal,265000,0,M
 Kumbhekar Damadu Nagorao,IND,0,Literate,49,60000,Yavatmal,0,0,M
 Patil Uttamrao Deoraoji,INC,0,Graduate,58,9473171,Yavatmal,1874552,0,M
-Purushottam Domaji Bhajgaware,IND,0,12th Pass,43,Nil,Yavatmal,0,0,M
+Purushottam Domaji Bhajgaware,IND,0,12th Pass,43,,Yavatmal,0,0,M
 Shital Kawadu Markam,GGP,0,Graduate,58,820000,Yavatmal,0,0,M
 Dr. Thokchom Meinya,INC,0,Doctorate,55,1107278,Inner Manipur,80660,1,M
 Leishangthem Chandramani,FPM,0,Doctorate,68,1756645,Inner Manipur,0,0,M
 Moirangthem Nara,CPI,0,Graduate Professional,55,1217839,Inner Manipur,0,0,M
-Nongmaithem Homendro Singh,IND,0,Graduate,40,Nil,Inner Manipur,0,0,M
-Nongmaithem Iboyaima Singh,IND,0,10th Pass,64,Nil,Inner Manipur,0,0,M
+Nongmaithem Homendro Singh,IND,0,Graduate,40,,Inner Manipur,0,0,M
+Nongmaithem Iboyaima Singh,IND,0,10th Pass,64,,Inner Manipur,0,0,M
 Thounaojam Chaoba,BJP,0,Others,67,8644747,Inner Manipur,111179,0,M
 Mani Charenamei,IND,0,Graduate,45,205000,Outer Manipur,0,1,M
 D. Loli Adanee,BJP,0,Graduate,51,5504735,Outer Manipur,0,0,M
@@ -2131,7 +2131,7 @@ Purano Agitok Sangma,AITC,0,Post Graduate,56,35032125,Tura,0,1,M
 Dr. Mukul Sangma,INC,0,Graduate Professional,38,6844482,Tura,0,0,M
 Vanlalzawma,MNF,0,Post Graduate,48,2127713,Mizoram,0,1,M
 Dr. Laltluangliana Khiangte,IND,0,Doctorate,38,5604209,Mizoram,1130000,0,M
-Tlangdingliana,EU,0,Not Given,63,Nil,Mizoram,0,0,M
+Tlangdingliana,EU,0,Not Given,63,,Mizoram,0,0,M
 W. Wangyuh,NPF,0,Post Graduate,40,2147000,Nagaland,0,1,M
 K. Asungba Sangtam,INC,0,Graduate,58,14946062,Nagaland,0,0,M
 Shri. Akhei Achumi,JD(S),0,Graduate,56,200000,Nagaland,0,0,M
@@ -2156,7 +2156,7 @@ Dildar Hussin Beg,IND,0,12th Pass,39,29573000,Delhi Sadar,0,0,M
 Hari Krishan,IND,0,8th Pass,41,18000,Delhi Sadar,0,0,M
 Md Zahid,IND,0,10th Pass,38,2776000,Delhi Sadar,0,0,M
 Vijay Goel,IND,0,Others,34,4590500,Delhi Sadar,0,0,M
-Vijay Kumar Gupta,IND,0,Not Given,47,Nil,Delhi Sadar,0,0,M
+Vijay Kumar Gupta,IND,0,Not Given,47,,Delhi Sadar,0,0,M
 Sandeep Dikshit,INC,0,Post Graduate,39,4764901,East Delhi,246779,1,M
 Amar Singh,LP(S),0,Others,52,715000,East Delhi,0,0,M
 Anil Kumar Sharma,LPI(V),0,Graduate,42,2785030,East Delhi,0,0,M
@@ -2171,11 +2171,11 @@ Harender Kumar,IND,0,12th Pass,34,106750,East Delhi,0,0,M
 Harish Tyagi,IND,0,10th Pass,38,79537,East Delhi,0,0,M
 Lal Bihari Tiwari,BJP,0,10th Pass,62,4521185,East Delhi,0,0,M
 Manjit,IND,0,Graduate,29,157000,East Delhi,0,0,M
-Mohd. Hasnain,IND,1,Not Given,46,Nil,East Delhi,0,0,M
+Mohd. Hasnain,IND,1,Not Given,46,,East Delhi,0,0,M
 Mohd. Iqbal Quereshi,BPTP,0,Not Given,28,187000,East Delhi,0,0,M
 Nafees,NBNP,0,Graduate,39,39400,East Delhi,33000,0,M
 P. C. Mohan,IND,0,Graduate,47,2715000,East Delhi,0,0,M
-Pawan Kumar,IND,0,10th Pass,0,Nil,East Delhi,0,0,M
+Pawan Kumar,IND,0,10th Pass,0,,East Delhi,0,0,M
 Pradeep Kumar,AIFB,0,8th Pass,37,42200,East Delhi,0,0,M
 R. S. Adil,National Loktantrik Party,0,Post Graduate,59,2072486,East Delhi,0,0,M
 Ram Samujha,AD,0,Post Graduate,34,18388,East Delhi,0,0,M
@@ -2202,7 +2202,7 @@ Sanjay Kumar Yadav,IND,0,10th Pass,25,20500,New Delhi,0,0,M
 Ved Prakash,IND,0,5th Pass,46,109000,New Delhi,0,0,M
 Sajjan Kumar,INC,1,Literate,58,1306055,Outer Delhi,520477,0,M
 Amarjeet Kaur,IND,0,Not Given,41,780836,Outer Delhi,200000,0,F
-Anil Bharti,RVNP,0,Post Graduate,33,Nil,Outer Delhi,0,0,M
+Anil Bharti,RVNP,0,Post Graduate,33,,Outer Delhi,0,0,M
 Anil Gogia,IND,0,12th Pass,32,1572000,Outer Delhi,2242,0,M
 Bharat Bhushan Nagar,BSP,0,12th Pass,34,477500,Outer Delhi,400000,0,M
 Kewal Kishan Virmani,IND,0,8th Pass,35,86000,Outer Delhi,0,0,M
@@ -2236,14 +2236,14 @@ Prasanna Kumar Patasani,BJD,0,Post Graduate,56,4441581,Bhubaneswar,0,1,M
 B. Ramachandra,IND,0,Post Graduate,60,1610038,Bhubaneswar,263,0,M
 Badri Narayan Routray,BSP,0,Post Graduate,66,108000,Bhubaneswar,2195,0,M
 Pramila Behera,IND,0,Graduate,27,14000,Bhubaneswar,0,0,F
-Pramod Samantara,RPI,0,12th Pass,47,Nil,Bhubaneswar,0,0,M
+Pramod Samantara,RPI,0,12th Pass,47,,Bhubaneswar,0,0,M
 Shanti Das,SP,0,Post Graduate,62,1830000,Bhubaneswar,0,0,F
 Soumya Ranjan Patnaik,INC,8,Post Graduate,52,18727662,Bhubaneswar,1452965,0,M
 Sangeeta Kumari Singh Deo,BJP,0,Graduate,42,26899686,Bolangir,383762,1,F
 Balgopal Mishra,IND,2,Post Graduate,63,10324142,Bolangir,3025000,0,M
-Debendra Kumar Biswal,BSP,0,Post Graduate,33,Nil,Bolangir,0,0,M
+Debendra Kumar Biswal,BSP,0,Post Graduate,33,,Bolangir,0,0,M
 Henabati Barik,IND,0,Literate,37,30000,Bolangir,0,0,F
-Lalit Mohan Gandhi,IND,0,Literate,55,Nil,Bolangir,0,0,M
+Lalit Mohan Gandhi,IND,0,Literate,55,,Bolangir,0,0,M
 Paramanand Chhatar,SP,1,Graduate Professional,51,15040355,Bolangir,0,0,M
 Sarat Pattanayak,INC,0,Post Graduate,48,5911781,Bolangir,0,0,M
 Bhartruhari Mahtab,BJD,0,Post Graduate,47,17843407,Cuttack,169357,1,M
@@ -2251,25 +2251,25 @@ Jayanti Patnaik,INC,0,Graduate,72,10472416,Cuttack,0,0,F
 Dharmendra Pradhan,BJP,0,Post Graduate,35,476756,Deogarh,306250,1,M
 Bunde Dhurua,IND,0,12th Pass,64,434000,Deogarh,0,0,M
 Sriballav Panigrahi,INC,0,Post Graduate,63,1943431,Deogarh,85077,0,M
-Sudarsan Behera,BSP,0,8th Pass,32,Nil,Deogarh,0,0,M
+Sudarsan Behera,BSP,0,8th Pass,32,,Deogarh,0,0,M
 Tathagata Satapathy,BJD,5,Others,48,2775930,Dhenkanal,0,0,M
 Bhajaman Behera,SP,0,12th Pass,61,2958500,Dhenkanal,1400850,0,M
 Dibya Kishore Das,IND,0,Others,34,151000,Dhenkanal,0,0,M
 Kamakhya Prasad Singhdeo,INC,0,Graduate,63,13730000,Dhenkanal,121884,0,M
 Brahmananda Panda,BJD,0,Post Graduate,54,5982315,Jagatsinghpur,53760,1,M
-Bimalendu Swain,IND,0,12th Pass,31,Nil,Jagatsinghpur,0,0,M
+Bimalendu Swain,IND,0,12th Pass,31,,Jagatsinghpur,0,0,M
 Pradip Kumar Mallick,BSP,0,Post Graduate,32,2000,Jagatsinghpur,0,0,M
 Ranjib Biswal,INC,2,Graduate,33,7391315,Jagatsinghpur,0,0,M
 Mohan Jena,BJD,0,Post Graduate,44,870000,Jajpur,22568,1,M
 Amiya Kanta Mallik,INC,0,Graduate,45,4805000,Jajpur,9647,0,M
 Bijay Kumar Mallik,BMVP,0,10th Pass,26,260000,Jajpur,0,0,M
-Radhaballav Mallik,IND,0,Graduate,30,Nil,Jajpur,0,0,M
+Radhaballav Mallik,IND,0,Graduate,30,,Jajpur,0,0,M
 Bikram Keshari Deo,BJP,0,Graduate,52,3237000,Kalahandi,10823,1,M
 Bhakta Charan Das,INC,1,Graduate Professional,45,3474860,Kalahandi,1664692,0,M
 Kunja Bihari Bagartti,SP,0,Graduate,66,1438000,Kalahandi,8000,0,M
 Panchanan Dhangada Majhi,RPI,0,10th Pass,52,10000,Kalahandi,0,0,M
 Archana Nayak,BJD,0,Post Graduate,38,384400,Kendrapara,32000,1,F
-Bikram Keshari Routray,IND,0,12th Pass,33,Nil,Kendrapara,0,0,M
+Bikram Keshari Routray,IND,0,12th Pass,33,,Kendrapara,0,0,M
 Srikant Kumar Jena,INC,0,Graduate,53,4880104,Kendrapara,1339814,0,M
 Ananta Nayak,BJP,0,12th Pass,34,818420,Keonjhar,69086,1,M
 Deepak Kumar Singh,IND,0,12th Pass,26,149000,Keonjhar,0,0,M
@@ -2277,7 +2277,7 @@ Dr. Sudarsan Lohar,IND,0,12th Pass,54,1732699,Keonjhar,0,0,M
 Maheswar Majhi,IND,0,Graduate,54,511500,Keonjhar,0,0,M
 Nilakantha Nayak,INC,0,Graduate,45,5380000,Keonjhar,859972,0,M
 Giridhar Gamang,INC,0,Graduate,61,459812,Koraput,0,1,M
-Meghanada Sabar,CPI(ML)(L),0,12th Pass,27,Nil,Koraput,0,0,M
+Meghanada Sabar,CPI(ML)(L),0,12th Pass,27,,Koraput,0,0,M
 Papanna Mutika,BJD,0,Post Graduate,60,1421019,Koraput,170000,0,M
 Tankadhar Majhi,BSP,0,Not Given,27,150000,Koraput,0,0,M
 Sudam Marndi,JMM,4,12th Pass,38,1780596,Mayurbhanj,0,0,M
@@ -2299,11 +2299,11 @@ Jual Oram,BJP,3,10th Pass,43,5746675,Sundargarh,800000,0,M
 Frida Topno,INC,0,Post Graduate,78,458520,Sundargarh,0,0,F
 George Tirkey,IND,3,12th Pass,45,7354556,Sundargarh,0,0,M
 Harsa Chhatria,BSP,0,Graduate,43,12000,Sundargarh,0,0,M
-Radhika Ekka,Jharkhand Party,0,Not Given,37,Nil,Sundargarh,0,0,F
+Radhika Ekka,Jharkhand Party,0,Not Given,37,,Sundargarh,0,0,M
 Ramadass. M.,PMK,0,Doctorate,54,3217000,Pondicherry,247304,1,M
 Navjot Singh Sidhu,BJP,1,Graduate,41,64211374,Amritsar,398529,0,M
 Baldev Singh Rathor,IND,0,Graduate,38,460000,Amritsar,0,0,M
-Geeta,BGTD,0,Post Graduate,28,Nil,Amritsar,0,0,F
+Geeta,BGTD,0,Post Graduate,28,,Amritsar,0,0,M
 Harbans Lal Mahajan,SP,0,8th Pass,59,5718630,Amritsar,1247815,0,M
 Raghunandan Lal Bhatia,INC,0,Graduate,83,8237077,Amritsar,0,0,M
 Ram Sharan Paul,BSP,0,Post Graduate,55,10545894,Amritsar,119469,0,M
@@ -2313,7 +2313,7 @@ Sanjiv Kumar Prashar Advocate,IND,0,Graduate Professional,32,185000,Amritsar,0,0
 Sat Pal Dogra,IND,0,Not Given,52,8523,Amritsar,0,0,M
 Surinder Kumar Khosla,IND,0,Not Given,36,55000,Amritsar,0,0,M
 Paramjit Kaur Gulshan,SAD,0,Post Graduate,56,6507661,Bhatinda,0,1,F
-Bhagwant Singh Samaon,CPI(ML)(L),0,Others,28,Nil,Bhatinda,15000,0,M
+Bhagwant Singh Samaon,CPI(ML)(L),0,Others,28,,Bhatinda,15000,0,M
 Gurnam Singh,BSP,0,Post Graduate,56,2171200,Bhatinda,20000,0,M
 Jasvir Singh,IND,0,Graduate,32,50000,Bhatinda,0,0,M
 Kaushalya Chaman Bhaura,CPI,0,Graduate,55,2430766,Bhatinda,431430,0,F
@@ -2328,7 +2328,7 @@ Nirmal Singh,LJNSP,0,10th Pass,38,20000,Faridkot,0,0,M
 Sant Ram,BSP,0,10th Pass,43,40000,Faridkot,0,0,M
 Sukhbir Singh,IND,0,12th Pass,30,55000,Faridkot,0,0,M
 Zora Singh Maan,SAD,1,10th Pass,62,5561000,Ferozepur,723000,0,M
-Ajay Daniel ( Tinku ),IND,0,12th Pass,33,Nil,Ferozepur,0,0,M
+Ajay Daniel ( Tinku ),IND,0,12th Pass,33,,Ferozepur,0,0,M
 Dhian Singh Mand,SAD(A)(Simranjit Singh Mann),0,Others,44,87000,Ferozepur,35000,0,M
 Jagmeet Singh Brar,INC,0,Graduate,45,11404217,Ferozepur,1330000,0,M
 Mahinderjit Singh,IND,0,10th Pass,43,5541500,Ferozepur,198190,0,M
@@ -2378,7 +2378,7 @@ Paras Chatar Jain,BSP,0,12th Pass,43,3638000,Ajmer,573000,0,M
 Rekhraj Fouji,IND,0,Literate,53,125000,Ajmer,300000,0,M
 Dr. Karan Singh Yadav,INC,0,Post Graduate,59,4023529,Alwar,1022864,1,M
 Bhai Shree Nath Gurjar,BSP,0,12th Pass,56,345000,Alwar,0,0,M
-Mahant Chandnath,BJP,1,Graduate,48,Nil,Alwar,0,0,M
+Mahant Chandnath,BJP,1,Graduate,48,,Alwar,0,0,M
 Pt. R. D. Sharma,IND,0,Literate,67,17967179,Alwar,479000,0,M
 Dhan Singh Rawat,BJP,2,Graduate Professional,37,1905788,Banswara,250000,0,M
 Jeetmal Khant,JD(U),0,Graduate,44,940036,Banswara,192000,0,M
@@ -2418,7 +2418,7 @@ Rakesh Meena,BSP,0,Graduate,28,1337000,Dausa,0,0,M
 Rohitash Kumar Sharma,INLD,0,10th Pass,57,3227694,Dausa,0,0,M
 Nihalchand Meghwal,BJP,0,Graduate,32,2282422,Ganganagar,168941,1,M
 Bharatram,INC,0,Graduate,47,739350,Ganganagar,27000,0,M
-Comred Shyopatram,CPM,0,Graduate,25,Nil,Ganganagar,0,0,M
+Comred Shyopatram,CPM,0,Graduate,25,,Ganganagar,0,0,M
 Munshi Ram,BSP,0,Literate,60,200000,Ganganagar,0,0,M
 Girdhari Lal Bhargava,BJP,0,Graduate Professional,77,14248322,Jaipur,196196,1,M
 O. P. Barwadia,BSP,0,Literate,55,3870000,Jaipur,0,0,M
@@ -2495,7 +2495,7 @@ Venkatapathy. K,DMK,5,Graduate Professional,57,3617839,Cuddalore,0,0,M
 Dharmalingam Marur. N,RLD,0,8th Pass,59,777000,Cuddalore,0,0,M
 Balasubramaniam. M,TDK,0,Graduate Professional,61,15938348,Dharmapuri,0,0,M
 Elangovan. P. D.,BJP,5,Graduate,52,865838,Dharmapuri,770223,0,M
-Kannan Kaliru,BSP,0,Not Given,36,Nil,Dharmapuri,0,0,M
+Kannan Kaliru,BSP,0,Not Given,36,,Dharmapuri,0,0,M
 Munusamy (Alais) Thamilselvan. M,JD(U),0,8th Pass,39,130196,Dharmapuri,0,0,M
 "Chitthan, N. S. V.",INC,0,Graduate,70,13247227,Dindigul,875536,1,M
 "Elangovan, E. V. K. S.",INC,13,Graduate,55,5031000,Gobichettipalayam,0,0,M
@@ -2552,26 +2552,26 @@ Ganesan. L,MDMK,2,Graduate Professional,68,1900000,Tiruchirappalli,0,0,M
 "Kader Mohideen, K. M",DMK,0,Post Graduate,63,2800000,Vellore,450000,1,M
 Baju Ban Riyan,CPM,0,Graduate,59,1188586,Tripura East,0,1,M
 Charai Muni Jamatia,CPI(ML)(L),0,Literate,50,2500,Tripura East,0,0,M
-Dija Raj Tripura,IND,0,Others,46,Nil,Tripura East,0,0,M
+Dija Raj Tripura,IND,0,Others,46,,Tripura East,0,0,M
 Jadu Mohan Tripura,INC,0,10th Pass,56,964000,Tripura East,0,0,M
-Karna Dhan Chakma,Amra Bangalee,0,Others,30,Nil,Tripura East,0,0,M
+Karna Dhan Chakma,Amra Bangalee,0,Others,30,,Tripura East,0,0,M
 Pulin Bihari Dewan,BJP,0,10th Pass,63,1787000,Tripura East,127175,0,M
 Khagen Das,CPM,0,Post Graduate,64,1423083,Tripura West,0,1,M
 Nirmala Dasgupta,INC,0,Graduate,53,5585000,Tripura West,10450,0,M
-Ramu Banik,IND,0,Others,32,Nil,Tripura West,0,0,M
+Ramu Banik,IND,0,Others,32,,Tripura West,0,0,M
 Raj Babbar,SP,2,Graduate,52,22326400,Agra,1000000,0,M
 Murari Lal Mittal Fatehpuria,BJP,0,10th Pass,0,2944541,Agra,0,0,M
 Pandit Keshav Prasad Dixit,BSP,1,Graduate,50,15525000,Agra,0,0,M
 Sayed Irfan Ahmad,RHD,0,10th Pass,30,110000,Agra,0,0,M
 Surendra Singh,INC,2,Post Graduate,66,682000,Agra,0,0,M
 Mayawati,BSP,1,Graduate Professional,48,113544000,Akbarpur,0,0,M
-Asha Ram,IND,0,10th Pass,33,Nil,Akbarpur,0,0,M
+Asha Ram,IND,0,10th Pass,33,,Akbarpur,0,0,M
 Jaisraj Gautam,INC,0,Graduate,30,9500,Akbarpur,0,0,M
-Karuna Shankar,IND,0,12th Pass,28,Nil,Akbarpur,0,0,M
+Karuna Shankar,IND,0,12th Pass,28,,Akbarpur,0,0,M
 Pushpa Kanaujia,AD,0,Post Graduate,51,5813000,Akbarpur,0,0,F
 Ram Lal Rahi,RSMD,0,8th Pass,38,250000,Akbarpur,0,0,M
 Ram Laut,RSBP,0,Graduate Professional,35,260000,Akbarpur,0,0,M
-Ram Niranjan,MNVP,0,Not Given,26,Nil,Akbarpur,0,0,M
+Ram Niranjan,MNVP,0,Not Given,26,,Akbarpur,0,0,M
 Ram Pratap,RPI,0,Post Graduate,60,220000,Akbarpur,0,0,M
 Shankh Lal Manjhi,SP,1,Graduate,47,433894,Akbarpur,44889,0,M
 Triveni Ram,BJP,1,Literate,53,39384,Akbarpur,64240,0,M
@@ -2582,14 +2582,14 @@ Satish Kumar,IND,0,12th Pass,30,11000,Aligarh,0,0,M
 Sheela Gautam,BJP,0,Not Given,72,92239000,Aligarh,0,0,F
 Thakur Jaiveer Singh,BSP,1,Post Graduate,48,14459920,Aligarh,0,0,M
 Kunwar Rewati Raman Singh Urf Mani Ji,SP,1,Graduate Professional,60,22837000,Allahabad,1050000,0,M
-Amarnath,IND,0,Others,28,Nil,Allahabad,0,0,M
+Amarnath,IND,0,Others,28,,Allahabad,0,0,M
 Arvind Kumar Urf Panda,IND,0,8th Pass,31,24325,Allahabad,0,0,M
 Ballabh Das Sharma,SVSP,0,8th Pass,53,204000,Allahabad,0,0,M
 Brij Mohan Singh,IJP,0,8th Pass,36,540000,Allahabad,0,0,M
 Dr. Murali Manohar Joshi,BJP,1,Post Graduate,70,19031323,Allahabad,0,0,M
-Jagdeesh Kumar Rajpasi,BKRP,0,10th Pass,32,Nil,Allahabad,0,0,M
+Jagdeesh Kumar Rajpasi,BKRP,0,10th Pass,32,,Allahabad,0,0,M
 Kailash Nath,IND,0,8th Pass,37,500,Allahabad,0,0,M
-Manni Lal,IND,0,10th Pass,32,Nil,Allahabad,0,0,M
+Manni Lal,IND,0,10th Pass,32,,Allahabad,0,0,M
 Mohd Salman Rashidi,IND,0,Graduate,51,85000,Allahabad,0,0,M
 R.K.Singh Patel,BSP,1,Graduate,44,5811230,Allahabad,56228,0,M
 Raj Karan Bind,AD,0,10th Pass,51,168572,Allahabad,0,0,M
@@ -2604,7 +2604,7 @@ Jiya Lal,IND,0,Not Given,38,20000,Amethi,0,0,M
 Mohd Sabir Khan,RSBP,0,Not Given,0,200000,Amethi,0,0,M
 Radhey Shyam,IND,0,8th Pass,30,10000,Amethi,0,0,M
 Rajesh Kumar Rawqt,IND,0,Not Given,34,267000,Amethi,0,0,M
-Ram Dulare,IND,0,Literate,49,Nil,Amethi,16000,0,M
+Ram Dulare,IND,0,Literate,49,,Amethi,16000,0,M
 Ram Vilashdas Vedanti,BJP,0,Doctorate,50,211907,Amethi,0,0,M
 Shashilesh,IND,0,Graduate,27,325800,Amethi,0,0,M
 Shri Ram,IND,0,5th Pass,42,173384,Amethi,0,0,M
@@ -2651,14 +2651,14 @@ Satyapal Singh Malik,BJP,0,Graduate Professional,56,7689000,Baghpat,314903,0,M
 Rubab Sayeda,SP,0,Post Graduate,54,15346459,Bahraich,0,1,F
 Akhilesh Kumar,IND,0,12th Pass,43,1424185,Bahraich,75459,0,M
 Bhagat Ram Mishra,BSP,0,Post Graduate,53,3159000,Bahraich,80000,0,M
-Brijendra Kumar Singh,RJD,0,Post Graduate,30,Nil,Bahraich,0,0,M
+Brijendra Kumar Singh,RJD,0,Post Graduate,30,,Bahraich,0,0,M
 D.R. Abdul Rahman Khan,INC,0,Doctorate,57,3612773,Bahraich,459607,0,M
-Ganga Ram,NCP,0,8th Pass,48,Nil,Bahraich,0,0,M
-Ghanshyam,IND,0,12th Pass,35,Nil,Bahraich,0,0,M
+Ganga Ram,NCP,0,8th Pass,48,,Bahraich,0,0,M
+Ghanshyam,IND,0,12th Pass,35,,Bahraich,0,0,M
 Padam Sen Chaudhary,BJP,0,12th Pass,50,8643602,Bahraich,100000,0,M
 Pramod Kumar Patel,AD,0,12th Pass,31,97649,Bahraich,0,0,M
 Chandra Shekhar,Samajwadi Janata Party (Rashtriya),0,Post Graduate,76,4035983,Ballia,1145552,1,M
-Harendra Yadav Ji Maharaj,AD,0,Post Graduate,32,Nil,Ballia,0,0,M
+Harendra Yadav Ji Maharaj,AD,0,Post Graduate,32,,Ballia,0,0,M
 Kailash Chaudhari,IND,0,8th Pass,46,367600,Ballia,0,0,M
 Kapildeo Yadav,BSP,5,Post Graduate,60,2020000,Ballia,0,0,M
 Maheshwar,IND,0,10th Pass,45,550000,Ballia,0,0,M
@@ -2667,11 +2667,11 @@ Mohan Ram,ASP,0,Not Given,39,25000,Ballia,0,0,M
 Om Prakash,Suheldev Bhartiya Samaj Party,0,12th Pass,40,400000,Ballia,178500,0,M
 Parmatma Nand Tiwari Alias P.N Tiwari,BJP,0,Graduate,58,2081577,Ballia,0,0,M
 Rajesh Kumar Singh Kushwaha,RSD,0,12th Pass,38,250000,Ballia,0,0,M
-Sriram Chaudhary,CPI(ML)(L),0,Graduate Professional,44,Nil,Ballia,0,0,M
-Subhash,IND,0,Post Graduate,47,Nil,Ballia,0,0,M
+Sriram Chaudhary,CPI(ML)(L),0,Graduate Professional,44,,Ballia,0,0,M
+Subhash,IND,0,Post Graduate,47,,Ballia,0,0,M
 Surendar Alias Shweta,IND,0,10th Pass,34,30000,Ballia,0,0,M
 Suresh,IND,0,Graduate,42,1140131,Ballia,1000000,0,M
-Virendra,IND,1,10th Pass,37,Nil,Ballia,0,0,M
+Virendra,IND,1,10th Pass,37,,Ballia,0,0,M
 Brij Bhushan Sharan Singh,BJP,2,Graduate Professional,47,35810577,Balrampur,0,0,M
 Ameer Haider Khan,AIMF,0,Not Given,29,50200,Balrampur,0,0,M
 Arjun,IND,0,8th Pass,35,30000,Balrampur,0,0,M
@@ -2712,7 +2712,7 @@ Praveen Singh Aron,INC,0,Graduate Professional,47,177736104,Bareilly,11285000,0,
 Sakir Husain,IND,0,8th Pass,41,2163000,Bareilly,0,0,M
 Shakeel Ahmad Ansari,IND,0,Not Given,48,110000,Bareilly,0,0,M
 Vrahaspati Giri,SHS,0,Illiterate,25,606100,Bareilly,0,0,M
-Yogendra Patel,IND,0,10th Pass,26,Nil,Bareilly,0,0,M
+Yogendra Patel,IND,0,10th Pass,26,,Bareilly,0,0,M
 Lal Mani Prasad,BSP,0,Graduate,52,1071480,Basti,0,1,M
 Gaura,IND,0,Literate,39,50000,Basti,0,0,F
 Hari Pal,IND,0,10th Pass,30,500,Basti,0,0,M
@@ -2725,7 +2725,7 @@ Ramesh,MNVP,0,8th Pass,30,1437,Basti,0,0,M
 Ratnakar Dhusiya,SP,0,Post Graduate,43,1455715,Basti,0,0,M
 Sriram Chauhan,BJP,0,Post Graduate,49,2209500,Basti,100000,0,M
 Umed Singh,INC,0,Not Given,37,18350000,Basti,0,0,M
-Vijay,ABHM,0,Literate,26,Nil,Basti,0,0,M
+Vijay,ABHM,0,Literate,26,,Basti,0,0,M
 Munshiram S/O Sri Ramcharan Singh,RLD,0,Others,53,2942225,Bijnor,720000,1,M
 Bhishan Parsad,BRPP,0,Literate,48,40000,Bijnor,0,0,M
 Ghan Shyam,IND,0,Not Given,53,1087000,Bijnor,0,0,M
@@ -2772,7 +2772,7 @@ Mahendra Singh,LP(S),0,Graduate Professional,48,425000,Bulandshahr,0,0,M
 Nasir Iqbal,IND,0,12th Pass,46,1727400,Bulandshahr,0,0,M
 Phirey Singh,IND,1,12th Pass,32,281000,Bulandshahr,52000,0,M
 Pt. Chandra Shekhar Sharma,INC,1,Graduate,53,46410266,Bulandshahr,0,0,M
-Ramphal,IND,0,12th Pass,48,Nil,Bulandshahr,0,0,M
+Ramphal,IND,0,12th Pass,48,,Bulandshahr,0,0,M
 Satendra Singh,BRPP,0,10th Pass,33,70000,Bulandshahr,0,0,M
 Shrinivas,ABHM,0,Post Graduate,38,481422,Bulandshahr,0,0,M
 Smt. Krishana Singh,IND,0,5th Pass,55,45742,Bulandshahr,0,0,F
@@ -2787,21 +2787,21 @@ Anand Ratna Maurya,SP,0,Graduate Professional,50,4382627,Chandauli,261760,0,M
 Ashok Singh,INC,0,Post Graduate,45,1128000,Chandauli,0,0,M
 Dr. Salik Tiwari,BLP,0,Doctorate,59,3295610,Chandauli,570000,0,M
 Hareelal,IND,0,Not Given,46,160000,Chandauli,0,0,M
-Harinath Sharma,PMSP,0,Literate,29,Nil,Chandauli,0,0,M
+Harinath Sharma,PMSP,0,Literate,29,,Chandauli,0,0,M
 Jai Prakash,LP(S),0,Post Graduate,27,261000,Chandauli,0,0,M
 Mevalal Vishwakarma,IND,0,Post Graduate,34,11000,Chandauli,0,0,M
 Ram Babu,AD,0,12th Pass,31,420000,Chandauli,0,0,M
-Ram Sewak Yadav,IND,0,5th Pass,40,Nil,Chandauli,0,0,M
+Ram Sewak Yadav,IND,0,5th Pass,40,,Chandauli,0,0,M
 Shashikant Rajbhar,BJP,7,12th Pass,38,2066500,Chandauli,550000,0,M
 Shivmurat Ram,GGP,0,Post Graduate,62,804646,Chandauli,0,0,M
 Tilak,CPI(ML)(L),2,10th Pass,29,200000,Chandauli,110000,0,M
 Mohan Singh,SP,0,Not Given,58,8468000,Deoria,150000,1,M
 Chandrika Prasad,AD,0,5th Pass,43,1356223,Deoria,0,0,M
 Devi Prasad,BSP,0,Post Graduate,68,1866783,Deoria,0,0,M
-Haroon,NLP,0,8th Pass,50,Nil,Deoria,0,0,M
+Haroon,NLP,0,8th Pass,50,,Deoria,0,0,M
 Kadam Prasad,IND,0,Not Given,59,500000,Deoria,0,0,M
 Mohan,IND,0,10th Pass,49,33000,Deoria,0,0,M
-Ram Bhajan,IND,0,Not Given,0,Nil,Deoria,100000,0,M
+Ram Bhajan,IND,0,Not Given,0,,Deoria,100000,0,M
 Sriprakash Mani,BJP,0,Post Graduate,59,7548031,Deoria,0,0,M
 Suresh,SBSP,0,5th Pass,27,200000,Deoria,0,0,M
 Vijay,JP,0,Graduate,33,3501000,Deoria,0,0,M
@@ -2880,7 +2880,7 @@ Nandlal,ASP,0,Graduate,62,1317000,Ghazipur,0,0,M
 Rajaram,RSBP,0,Graduate,30,273000,Ghazipur,0,0,M
 Ram Badan,CPI,0,Post Graduate,31,180953,Ghazipur,0,0,M
 Shivmurat,IND,0,Post Graduate,33,345600,Ghazipur,0,0,M
-Sonhu,IND,0,Not Given,33,Nil,Ghazipur,0,0,M
+Sonhu,IND,0,Not Given,33,,Ghazipur,0,0,M
 Uma Shankar,BSP,0,Post Graduate,53,2571850,Ghazipur,169281,0,M
 Yogesh Nath Kushawaha,RSMD,0,Post Graduate,37,102835,Ghazipur,0,0,M
 Chandradeo Prasad Rajbhar,SP,0,Post Graduate,48,600143,Ghosi,0,1,M
@@ -2890,16 +2890,16 @@ Atul Kumar Singh Anjan,CPI,0,Graduate Professional,49,953500,Ghosi,0,0,M
 Bal Krishna,BSP,0,Post Graduate,55,1620771,Ghosi,0,0,M
 Bharat Lal Rahi Kushwaha,BJP,0,Not Given,48,1300000,Ghosi,0,0,M
 Hari Lal,IND,0,12th Pass,50,361000,Ghosi,60000,0,M
-Hemant Kumar,BRPP,0,10th Pass,30,Nil,Ghosi,0,0,M
+Hemant Kumar,BRPP,0,10th Pass,30,,Ghosi,0,0,M
 Heshamuddin,IND,0,Literate,63,102160,Ghosi,0,0,M
 Kanhaiya Lal,IND,0,10th Pass,37,12000,Ghosi,0,0,M
 Kaushalendra,IND,1,12th Pass,30,888000,Ghosi,0,0,M
 Munnar,ABHM,0,Graduate,68,1251211,Ghosi,0,0,M
-Prem Prakash,ASP,0,12th Pass,34,Nil,Ghosi,0,0,M
+Prem Prakash,ASP,0,12th Pass,34,,Ghosi,0,0,M
 Rajendra Kumar Agrawal,IND,0,Graduate,42,1036000,Ghosi,0,0,M
 Ram Ashish,IND,0,8th Pass,41,2000,Ghosi,0,0,M
 Ram Prakash,IND,0,Graduate,32,1646,Ghosi,0,0,M
-Ramesh,IND,0,5th Pass,30,Nil,Ghosi,0,0,M
+Ramesh,IND,0,5th Pass,30,,Ghosi,0,0,M
 Siddharth Rai,RJD,0,8th Pass,29,7186000,Ghosi,100000,0,M
 Sudha Rai,INC,0,Post Graduate,49,9583419,Ghosi,0,0,F
 Kirti Vardhan Singh  Alias Raja Bhaiya,SP,0,Post Graduate,37,8600704,Gonda,595401,1,M
@@ -2962,7 +2962,7 @@ Ram Vir Singh Bhaiyaji,BSP,0,Not Given,40,212000,Hathras,0,0,M
 Vimla Pal,SP,0,Not Given,52,527686,Hathras,27529,0,F
 Bhanu Pratap Singh Verma,BJP,1,Post Graduate,44,446550,Jalaun,114460,0,M
 Brij Lal Khabri,BSP,0,Graduate Professional,44,5257971,Jalaun,37000,0,M
-Com. Kanshiram Verma (Barar),CPI(ML)(L),0,12th Pass,29,Nil,Jalaun,0,0,M
+Com. Kanshiram Verma (Barar),CPI(ML)(L),0,12th Pass,29,,Jalaun,0,0,M
 Ghanshyam Kori,SP,0,Graduate,31,1929596,Jalaun,0,0,M
 Jiledar Singh Dohare,IND,0,Graduate Professional,43,140600,Jalaun,30000,0,M
 Lal Das (Bhante Anand),IJP,0,Literate,77,60000,Jalaun,0,0,M
@@ -2993,14 +2993,14 @@ Rajendra Pratap Urf Raja Bundela,INC,1,Graduate,50,503601,Jhansi,0,0,M
 Anuradha Choudhary,RLD,0,Graduate,43,43904200,Kairana,0,1,F
 Amarkant Rana,BJP,0,Post Graduate,36,6893843,Kairana,763139,0,M
 Anand Pal,IND,0,Post Graduate,53,1860000,Kairana,0,0,M
-Ashu Sharma Urf Ashwani Sharma,BJVP,0,Not Given,25,Nil,Kairana,0,0,M
+Ashu Sharma Urf Ashwani Sharma,BJVP,0,Not Given,25,,Kairana,0,0,M
 Dilshad Ali,IND,0,Graduate Professional,48,68551,Kairana,0,0,M
 Gayoor,RPI,0,Illiterate,39,128310,Kairana,0,0,M
 Harendra,IND,0,Graduate Professional,53,1619000,Kairana,0,0,M
 Harpal Singh,IND,0,8th Pass,53,825000,Kairana,0,0,M
 Ijharulhaq,IND,0,8th Pass,30,699850,Kairana,0,0,M
 Jaipal,IND,0,12th Pass,43,20000,Kairana,0,0,M
-Mukesh,IND,0,10th Pass,34,Nil,Kairana,0,0,M
+Mukesh,IND,0,10th Pass,34,,Kairana,0,0,M
 Naseem Haider,IND,0,Graduate Professional,31,76000,Kairana,0,0,M
 Ompal,IND,0,8th Pass,48,611150,Kairana,0,0,M
 Phalkumar,IND,0,10th Pass,42,41000,Kairana,0,0,M
@@ -3009,13 +3009,13 @@ Raghuraj Singh,BVP,0,5th Pass,45,3012700,Kairana,0,0,M
 Ravindra Kumar,IND,0,8th Pass,45,1130000,Kairana,0,0,M
 Shaheen,IND,0,Graduate,29,419500,Kairana,0,0,M
 Shahnawaz,BSP,5,Post Graduate,30,17914519,Kairana,0,0,M
-Shimla Urf Shimla Kashyap,IND,0,Illiterate,36,Nil,Kairana,0,0,F
+Shimla Urf Shimla Kashyap,IND,0,Illiterate,36,,Kairana,0,0,M
 Shoraj Singh,IND,0,Graduate,35,145000,Kairana,0,0,M
 Subhash Chand Maheshwari,INC,0,Post Graduate,62,45571430,Kairana,1421400,0,M
 Suman Ch.,IND,0,Graduate,53,622000,Kairana,0,0,F
 Suresh,LP(S),0,12th Pass,33,245809,Kairana,0,0,M
 Uma Kashyap,BKD,0,12th Pass,35,1034193,Kairana,0,0,F
-Yogesh,IND,0,Post Graduate,25,Nil,Kairana,0,0,M
+Yogesh,IND,0,Post Graduate,25,,Kairana,0,0,M
 Beni Prasad Verma,SP,0,Graduate Professional,63,4112560,Kaiserganj,0,1,M
 Arif Mohammad Khan,BJP,0,Graduate,51,10500000,Kaiserganj,0,0,M
 Farid Mahfooz Ki,BSP,0,Post Graduate,57,2011852,Kaiserganj,461922,0,M
@@ -3057,7 +3057,7 @@ Hansram Patel,AD,0,10th Pass,44,137500,Kheri,0,0,M
 Harish Kumar Gupta,IND,0,12th Pass,45,1550500,Kheri,715553,0,M
 Jagdesh Jaisawal,IND,0,12th Pass,48,10000,Kheri,0,0,M
 Jitendra,IND,0,Post Graduate,27,102500,Kheri,0,0,M
-Kesari,IND,0,Not Given,41,Nil,Kheri,0,0,F
+Kesari,IND,0,Not Given,41,,Kheri,0,0,M
 Naresh Singh Bhadoriya,IND,0,Graduate Professional,40,530855,Kheri,0,0,M
 Om Prakash Verma,IND,0,12th Pass,28,300000,Kheri,0,0,M
 Rai Singh,INC,0,Post Graduate,60,6577000,Kheri,1938000,0,M
@@ -3099,9 +3099,9 @@ Choudhary Tejveer Singh,BJP,0,Graduate,45,11882062,Mathura,2707079,0,M
 Dr. Gyanvati Singh,RLD,0,Post Graduate,70,2410768,Mathura,0,0,F
 Rajkumar,NCP,0,Post Graduate,29,266830,Mathura,0,0,M
 Mohd. Shahid,BSP,0,5th Pass,34,15220720,Meerut,121146,1,M
-Amit Kumar Jatav,IND,0,8th Pass,30,Nil,Meerut,0,0,M
+Amit Kumar Jatav,IND,0,8th Pass,30,,Meerut,0,0,M
 Anil Rastogi,SHS,0,12th Pass,44,2426835,Meerut,1050,0,M
-Dr. Hari Singh Azad,ABLTP,0,8th Pass,65,Nil,Meerut,0,0,M
+Dr. Hari Singh Azad,ABLTP,0,8th Pass,65,,Meerut,0,0,M
 K. C. Tyagi,JD(U),0,Graduate,48,8777999,Meerut,327956,0,M
 K. K. Sharma,INC,0,Post Graduate,50,19586707,Meerut,0,0,M
 Malook Nagar,RLD,0,Graduate,43,762437000,Meerut,20000,0,M
@@ -3199,7 +3199,7 @@ Heera Lal,LPSP,0,Not Given,51,700000,Salempur,0,0,M
 Kailash,IND,0,10th Pass,38,444000,Salempur,0,0,M
 Onkar Nath,ABHM,0,10th Pass,0,10000,Salempur,0,0,M
 Rajdhari,JD(U),0,Post Graduate,57,3322226,Salempur,0,0,M
-Rajesh Sahani,CPI(ML)(L),0,Post Graduate,38,Nil,Salempur,0,0,M
+Rajesh Sahani,CPI(ML)(L),0,Post Graduate,38,,Salempur,0,0,M
 Ram Shanker Rajbhar Vidyarthi Ji,BSP,0,Graduate,43,767000,Salempur,22500,0,M
 Saukat Ali,AD,0,Graduate Professional,38,300000,Salempur,0,0,M
 Upendra,IND,0,Not Given,34,68323,Salempur,0,0,M
@@ -3222,7 +3222,7 @@ Babu Khan,SP,0,Literate,53,8363801,Shahabad,0,0,M
 Ganga Sagar,IND,0,12th Pass,44,259668,Shahabad,0,0,M
 Hari Ram,IND,0,Not Given,32,188000,Shahabad,0,0,M
 Indra Bhushan,IND,0,Graduate,26,255000,Shahabad,16000,0,M
-Manju,IND,0,Not Given,25,Nil,Shahabad,0,0,F
+Manju,IND,0,Not Given,25,,Shahabad,0,0,M
 Mradul Shukla,INC,0,Graduate,40,4858172,Shahabad,34723,0,M
 Rahat Aziz,IND,0,Post Graduate,36,20000,Shahabad,0,0,M
 Ram Dayal,IND,0,Not Given,50,430000,Shahabad,0,0,M
@@ -3278,10 +3278,10 @@ Radha Devi,IND,0,10th Pass,51,1243500,Almora,0,0,F
 Ratan Ram,IND,0,8th Pass,52,286000,Almora,1000,0,M
 Renuka Rawat,INC,0,Graduate Professional,44,3082890,Almora,0,0,F
 Maj. Gen. ( Retd) Bhuwan Chandra Khanduri (Avsm),BJP,0,Graduate Professional,69,7242679,Garhwal,0,1,M
-"Lt. General ( Retd.) Tej Pal Singh Rawat  (Pvsm,Vsm)",INC,0,Post Graduate,0,Nil,Garhwal,0,0,M
+"Lt. General ( Retd.) Tej Pal Singh Rawat  (Pvsm,Vsm)",INC,0,Post Graduate,0,,Garhwal,0,0,M
 Mahesh Negi,SP,0,Graduate Professional,28,1043000,Garhwal,0,0,M
 Professor Birendra Singh Semwal,BSP,0,Not Given,60,497000,Garhwal,0,0,M
-Sanjay Goyal,IND,0,Not Given,0,Nil,Garhwal,0,0,M
+Sanjay Goyal,IND,0,Not Given,0,,Garhwal,0,0,M
 Rajendra Kumar,SP,0,8th Pass,46,2394512,Hardwar,0,1,M
 Arvind,UKKD,0,8th Pass,28,60500,Hardwar,0,0,M
 Babu Ram,IND,0,Graduate,58,250000,Hardwar,0,0,M
@@ -3304,7 +3304,7 @@ Manabendra Shah,BJP,0,12th Pass,84,347563683,Tehri Garhwal,0,1,M
 Joachim Baxla,RSP,0,Graduate,49,485800,Alipurduars,0,1,M
 Manoj Tigga,BJP,0,Graduate,31,5578,Alipurduars,62361,0,M
 Paul Dexion Kharia,IND,0,Others,52,50000,Alipurduars,0,0,M
-Rampratap Baraik,IND,0,5th Pass,62,Nil,Alipurduars,0,0,M
+Rampratap Baraik,IND,0,5th Pass,62,,Alipurduars,0,0,M
 Ratan Lal Baraik,INC,0,Graduate,59,943500,Alipurduars,0,0,M
 Samarendra Ekka ( Pintu),IND,1,8th Pass,40,4266,Alipurduars,0,0,M
 Anil Basu,CPM,0,Literate,59,1042327,Arambagh,0,1,M
@@ -3315,8 +3315,8 @@ Atanu Chakravarty,CPI(ML)(L),0,Graduate,46,148200,Asansol,0,0,M
 Ghatak Moloy,AITC,2,Graduate Professional,48,3635579,Asansol,92594,0,M
 Manik Lal Bauri,BSP,0,10th Pass,63,307000,Asansol,0,0,M
 Pratap Singh,SP,2,10th Pass,44,181000,Asansol,132530,0,M
-Sailendra Nath Bhattacharyya,IND,0,Graduate,47,Nil,Asansol,0,0,M
-Sunil Mukherjee,IND,0,10th Pass,69,Nil,Asansol,0,0,M
+Sailendra Nath Bhattacharyya,IND,0,Graduate,47,,Asansol,0,0,M
+Sunil Mukherjee,IND,0,10th Pass,69,,Asansol,0,0,M
 Tapas Banerjee,INC,0,Others,50,947476,Asansol,138388,0,M
 Ranen Barman,RSP,0,10th Pass,35,968333,Balurghat,0,1,M
 Binoy Mallick,IND,0,Post Graduate,38,146984,Balurghat,172161,0,M
@@ -3329,19 +3329,19 @@ Abhiram Besra,JDP,0,Illiterate,36,100000,Bankura,0,0,M
 Balaram Mahato,JMM,1,Post Graduate,33,35000,Bankura,0,0,M
 Bhaskar Chandra Bhadra,IND,0,12th Pass,67,1099781,Bankura,0,0,M
 Deb Prasad Kundu ( Tara),AITC,0,8th Pass,55,2306658,Bankura,172959,0,M
-Gopinath Mandi,Amra Bangalee,0,10th Pass,54,Nil,Bankura,0,0,M
+Gopinath Mandi,Amra Bangalee,0,10th Pass,54,,Bankura,0,0,M
 Motilal Murmu,BSP,0,10th Pass,57,467000,Bankura,0,0,M
 Natabar Bagdi,PDS,0,10th Pass,57,1265000,Bankura,0,0,M
-Rahul Sen,SP,0,Graduate,41,Nil,Bankura,0,0,M
+Rahul Sen,SP,0,Graduate,41,,Bankura,0,0,M
 Subrata Bose,AIFB,0,Graduate,72,2386568,Barasat,35700,1,M
 Anjan Adhikary,IND,0,Others,33,189051,Barasat,0,0,M
 Arun Basu,IND,0,Graduate,64,746496,Barasat,0,0,M
 Dr. Ranjit Kumar Panja,AITC,0,Doctorate,72,9311793,Barasat,0,0,M
 Dulal Chandra Das,BSP,0,12th Pass,62,2530000,Barasat,0,0,M
-Kabi Roy,SAP,0,Graduate,40,Nil,Barasat,0,0,M
+Kabi Roy,SAP,0,Graduate,40,,Barasat,0,0,M
 Prabir Banerjee,INC,0,Post Graduate,56,1468620,Barasat,0,0,M
 Sampatia Munda,IND,0,10th Pass,27,151000,Barasat,0,0,F
-Sankar Ghosh,IND,0,Graduate,51,Nil,Barasat,0,0,M
+Sankar Ghosh,IND,0,Graduate,51,,Barasat,0,0,M
 Waliur Rahaman,SP,0,Others,54,443774,Barasat,90000,0,M
 Tarit Baran Topdar,CPM,0,Post Graduate,60,9453015,Barrackpore,0,1,M
 Amal Kumar Sen,IND,0,Graduate,47,82200,Barrackpore,0,0,M
@@ -3387,31 +3387,31 @@ Dr. Nirmal Kumar Maji,AITC,0,Doctorate,42,114500,Bolpur,250000,0,M
 Nikhilananda Sar,CPM,0,Graduate Professional,66,3431414,Burdwan,0,1,M
 Anindya Gopal Mitra,BJP,0,12th Pass,55,283000,Burdwan,0,0,M
 Champak Garai,INC,0,Graduate,50,343000,Burdwan,0,0,M
-Dinesh Chandra Sikdar,BSP,0,10th Pass,37,Nil,Burdwan,0,0,M
+Dinesh Chandra Sikdar,BSP,0,10th Pass,37,,Burdwan,0,0,M
 Shanti Murmu,JDP,0,Others,39,853200,Burdwan,0,0,F
 Md. Salim,CPM,0,Post Graduate,46,3109485,Calcutta North East,0,1,M
 "Ajit Kumar Panja ( Mamudpur, P.S- Chandrakona, Ghatal, West Medinipur)",IND,0,Others,47,15000,Calcutta North East,0,0,M
 "Ajit Kumar Panja (250, Chittaranjan Avenue, Kolkata-700 006)",AITC,0,Others,68,16354802,Calcutta North East,0,0,M
-Angshuman Paul,IND,0,Not Given,0,Nil,Calcutta North East,0,0,M
+Angshuman Paul,IND,0,Not Given,0,,Calcutta North East,0,0,M
 Chandra Prakash Dubey,BSP,0,12th Pass,48,1010,Calcutta North East,0,0,M
 Debojyoti Basu,IND,0,12th Pass,39,750,Calcutta North East,0,0,M
 Imtiaz Ahmed,IND,0,10th Pass,59,34500,Calcutta North East,0,0,M
 Indira Mukherjee ( Moushumi Chatterjee),INC,0,Not Given,45,1924891,Calcutta North East,0,0,F
 Mahua Roy,IND,0,12th Pass,39,23000,Calcutta North East,0,0,F
 Pintu Kundu,IND,0,Others,30,58614,Calcutta North East,0,0,M
-Ashim Das,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Bandyopadhyay Sudip,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Biplab Mukherjee,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Gopal Ch. Saha,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Kamalesh Ojha,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Lok Nath Saraff,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Pandey Ramendra,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Prof. Vijay K.  Arora (Samyak),IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Rizwan Ahmad Siddiqui,BSP,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Subrata Banerjee,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Subrata Mukherjee,AITC,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Sudhir Kr. Bishram,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
-Sudip Bandyopadhyay,IND,0,Not Given,0,Nil,Calcutta North West,0,0,M
+Ashim Das,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Bandyopadhyay Sudip,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Biplab Mukherjee,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Gopal Ch. Saha,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Kamalesh Ojha,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Lok Nath Saraff,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Pandey Ramendra,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Prof. Vijay K.  Arora (Samyak),IND,0,Not Given,0,,Calcutta North West,0,0,M
+Rizwan Ahmad Siddiqui,BSP,0,Not Given,0,,Calcutta North West,0,0,M
+Subrata Banerjee,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Subrata Mukherjee,AITC,0,Not Given,0,,Calcutta North West,0,0,M
+Sudhir Kr. Bishram,IND,0,Not Given,0,,Calcutta North West,0,0,M
+Sudip Bandyopadhyay,IND,0,Not Given,0,,Calcutta North West,0,0,M
 Mamata Banerjee,AITC,0,Post Graduate,48,375489,Calcutta South,0,1,F
 Bandana Das,IND,0,8th Pass,46,12500,Calcutta South,0,0,F
 Barnali Mukherjee,IND,2,Post Graduate,39,15000,Calcutta South,0,0,M
@@ -3433,7 +3433,7 @@ Hiten Barman,AIFB,0,12th Pass,54,546676,Cooch Behar,279146,1,M
 Amar Roy Pradhan,IND,0,Others,74,423833,Cooch Behar,150000,0,M
 Bharat Singha Sarkar,IND,1,12th Pass,29,11280,Cooch Behar,0,0,M
 Girindra Nath Barman,AITC,0,Post Graduate,50,1430014,Cooch Behar,112118,0,M
-Nripen Karjee,IND,1,Graduate,53,Nil,Cooch Behar,0,0,M
+Nripen Karjee,IND,1,Graduate,53,,Cooch Behar,0,0,M
 Pijush Barman,SP,0,Post Graduate,30,98500,Cooch Behar,0,0,M
 Pradip Kumar Roy,IND,0,Post Graduate,40,134843,Cooch Behar,21000,0,M
 Sailen Barma,INC,0,Post Graduate,43,1142860,Cooch Behar,650000,0,M
@@ -3468,7 +3468,7 @@ Subhankar Nag,IND,0,Post Graduate,28,23163,Dum Dum,0,0,M
 Tapan Sikdar,BJP,0,Graduate,61,269800,Dum Dum,0,0,M
 Tapas Majumder,INC,0,Not Given,41,4908076,Dum Dum,1493799,0,M
 Sunil Khan,CPM,0,Graduate,57,2796700,Durgapur,0,1,M
-Banshi Lohar,IND,0,Not Given,49,Nil,Durgapur,0,0,M
+Banshi Lohar,IND,0,Not Given,49,,Durgapur,0,0,M
 Dhibar Shova,INC,0,Graduate,49,570000,Durgapur,0,0,F
 Mohan Ch. Bouri,BSP,0,12th Pass,48,15000,Durgapur,0,0,M
 Rabindranath Bouri,IND,0,Graduate,34,32000,Durgapur,0,0,M
@@ -3519,12 +3519,12 @@ Abu Asim Siddique,IND,0,Graduate,0,15000,Jangipur,0,0,M
 Abul Hasnat Khan,CPM,0,Post Graduate,58,2846652,Jangipur,934387,0,M
 Gour Pada Biswas Mallik,BSP,0,5th Pass,59,1210000,Jangipur,0,0,M
 Mohammad Abdur Rahaman,SP,0,Others,56,540000,Jangipur,6000,0,M
-Palash De,IND,0,Graduate,26,Nil,Jangipur,0,0,M
-Shish Mohammad,AITC,0,Not Given,0,Nil,Jangipur,0,0,M
+Palash De,IND,0,Graduate,26,,Jangipur,0,0,M
+Shish Mohammad,AITC,0,Not Given,0,,Jangipur,0,0,M
 Rupchand Murmu,CPM,1,12th Pass,56,1041089,Jhargram,101870,0,M
 Khagendra Nath Hembrom,JKP(N),0,12th Pass,56,864524,Jhargram,270464,0,M
 Leba Chand Tudu,IND,0,Not Given,55,28000,Jhargram,36,0,M
-Masang Hemram,IND,0,8th Pass,31,Nil,Jhargram,0,0,M
+Masang Hemram,IND,0,8th Pass,31,,Jhargram,0,0,M
 Mongal Soren,JMM,0,Post Graduate,26,1007,Jhargram,0,0,M
 Nityananda Hembram,AITC,0,Others,69,716000,Jhargram,0,0,M
 Surja Mandi,IND,0,Others,42,389000,Jhargram,0,0,M
@@ -3539,10 +3539,10 @@ Ahmed Sultan,AITC,0,Graduate,47,3410196,Katwa,4845009,0,M
 Bablu Chandra Das,IND,0,10th Pass,33,145000,Katwa,0,0,M
 Hossain Amjad,IND,0,Not Given,52,270000,Katwa,0,0,M
 Kailash Sharma,SP,0,Others,50,1351542,Katwa,0,0,M
-Mohammad Zakaria,IND,0,Graduate,46,Nil,Katwa,0,0,M
+Mohammad Zakaria,IND,0,Graduate,46,,Katwa,0,0,M
 Rina Mondal,IND,0,5th Pass,28,150770,Katwa,90000,0,F
 Saifuddin Choudhury,PDS,0,Graduate,52,1252940,Katwa,1850000,0,M
-Salil Dutta,CPI(ML)(L),0,Not Given,44,Nil,Katwa,0,0,M
+Salil Dutta,CPI(ML)(L),0,Not Given,44,,Katwa,0,0,M
 Shyamsundar Das,IND,0,12th Pass,46,12000,Katwa,0,0,M
 Susil Sarkar,BSP,0,Graduate,52,1775265,Katwa,0,0,M
 Swapan Bhattacharya,SHS,1,Not Given,52,207785,Katwa,0,0,M
@@ -3599,18 +3599,18 @@ Gomasta Prasad Soren,Jharkhand Party,0,Others,60,911798,Purulia,0,0,M
 Mihir Kumar Rajwar,BSP,0,Not Given,48,136000,Purulia,0,0,M
 Nilkamal Mahato,IND,0,Not Given,65,150000,Purulia,0,0,M
 Niyati Mahato,AITC,0,12th Pass,39,606962,Purulia,0,0,F
-Pranati Bhattacharya,IND,0,Graduate,54,Nil,Purulia,0,0,F
+Pranati Bhattacharya,IND,0,Graduate,54,,Purulia,0,0,M
 Shantiram Mahato,INC,1,12th Pass,51,669263,Purulia,9816,0,M
 Thakur Das Kisku,Amra Bangalee,0,Others,45,207000,Purulia,0,0,M
 Priya Ranjan Dasmunsi,INC,0,Post Graduate,59,7504280,Raiganj,3000000,1,M
 Abedin Dr. Zainal,AITC,0,Doctorate,73,1624216,Raiganj,0,0,M
 Achintya Tarafdar,IND,0,Graduate,33,311000,Raiganj,0,0,M
 Ajit Das,CPI(ML)(L),1,Graduate,62,431340,Raiganj,0,0,M
-Anil Biswas,BSP,0,Not Given,44,Nil,Raiganj,0,0,M
+Anil Biswas,BSP,0,Not Given,44,,Raiganj,0,0,M
 Ashis Saha,SP,0,Others,32,997000,Raiganj,0,0,M
 Minati Ghosh,CPM,0,Post Graduate,57,619420,Raiganj,0,0,F
 Subrata Adhikary,IND,0,10th Pass,45,684499,Raiganj,0,0,M
-Sukumal Biswas,IND,0,Not Given,0,Nil,Raiganj,0,0,M
+Sukumal Biswas,IND,0,Not Given,0,,Raiganj,0,0,M
 Santasri Chatterjee,CPM,0,Graduate,64,1698395,Serampore,0,1,M
 Akbar Ali Khandoker,AITC,0,Graduate,47,3035064,Serampore,336323,0,M
 Avash Munshi,IND,0,10th Pass,38,362571,Serampore,46656,0,M
@@ -3640,4 +3640,4 @@ Susmita Bauri,CPM,0,Graduate Professional,29,33000,Vishnupur,10000,1,F
 Achintya Majhi,INC,0,Graduate,38,67264,Vishnupur,50050,0,M
 Ajoy Bauri,BSP,0,Not Given,40,35000,Vishnupur,0,0,M
 Janardan Saha,AITC,0,Post Graduate,37,233612,Vishnupur,14000,0,M
-Sraban Mondal,IND,0,Graduate,40,Nil,Vishnupur,0,0,M
+Sraban Mondal,IND,0,Graduate,40,,Vishnupur,0,0,M
